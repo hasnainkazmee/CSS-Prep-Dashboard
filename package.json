@@ -1,0 +1,32 @@
+{
+  "name": "science-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/typography": "^0.5.16",
+    "@uiw/react-md-editor": "^4.0.5",
+    "marked": "^15.0.8",
+    "next": "15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-modal": "^3.16.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/react-modal": "^3.16.3",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.3",
+    "typescript": "^5"
+  }
+}

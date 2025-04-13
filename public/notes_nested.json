@@ -1,0 +1,2433 @@
+[
+    {
+      "id": "1",
+      "subject": "General Science",
+      "topic": "Basic Concepts of Universe",
+      "subtopics": [
+        {
+          "id": "1.1",
+          "title": "Comets",
+          "content": "- Objects made up of ice, metals and dust moves around the sun. - 3 parts - solid center, head around center of dust and ice, long tail. - Asteroids (Star Like) - Comets without ice - Small rocky objects that revolve around sun, CERES - Most asteroids are formed between Mars and Jupiter. - Meteoroids - Small iron and rocky objects resulting from collision of asteroids. - These are also formed when comets are disintegrated - When they entre earths atmosphere - burning due to friction - meteor"
+        },
+        {
+          "id": "2.1",
+          "title": "Nebula",
+          "content": "- Greek word means cloud - In sky, there are cloud like objects composed of gas and dust which are classified as Nebula. - Constellation - These are groups of star in sky. - UFO - The Universe - Total of all that exists or has existed before. Universe is composed of billion of galaxies. 1011 to 1012 - Star - Astronomical object composed of hot gases that emits electromagnetic radiations, especially light."
+        },
+        {
+          "id": "3.1",
+          "title": "Black Hole",
+          "content": "- Theoretical object of extreme density and gravitational field that nothing can escape from it, therefore, it appears totally black. - Light year - Distance travelled by light in one year. - Astronomy - It is a branch of science which investigates all the matter and energy in the universe. - Cosmology - Astronomy also includes cosmology, which is the study of the structure, origin and evolution of the universe. - Astrology - It is the study of the movements and relative position of the celestial bodies. - Asteroid<Moon<Sun<Star<Solar System<Galaxy<Universe"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "subject": "General Science",
+      "topic": "Astronomical units",
+      "subtopics": [
+        {
+          "id": "4.1",
+          "title": "Light year",
+          "content": "- As defined by the International Astronomical Union (IAU), a light - year is the distance that light travels in vacuum in one Julian year (365.25 days) which is 9.4607 \u00d7 1012 km"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "subject": "General Science",
+      "topic": "Theories about Creation of Universe",
+      "subtopics": [
+        {
+          "id": "5.1",
+          "title": "Old theory",
+          "content": "- 17th century. Static, infinite and unchanged. - New theory - After the invention of telescope. - Big Bang theory - Gigantic explosion. Universe came into existence 15 to 20 billion years ago. - Future of universe - Universe is open - Universe is closed - Universe is contracting and ultimately result in crash. Factor of gravity."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "subject": "General Science",
+      "topic": "Big Bang Theory",
+      "subtopics": [
+        {
+          "id": "6.1",
+          "title": "Starting from singularity to the Cosmos to today.",
+          "content": "- Singularity - Entire universe was inside a bubble, it was hotter and denser and named as singularity. Then explosion resulted and universe was created. - Formation of Galaxy - The universe grew from smaller than a single atom to bigger than galaxy. Expansion and cooling resulted into changing of energy to matter and anti - matter. These opposite particles destroyed each other and some matter survived. - Formation of proton and neutron occurred. Dropping of temperature resulted into formation of hydrogen and helium nuclei. - After some time atomic nuclei captured electron to form atom. The universe was filled with clouds of hydrogen and helium which later formed other celestial bodies."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "subject": "General Science",
+      "topic": "Age of the Universe and Methods to Determine it",
+      "subtopics": [
+        {
+          "id": "7.1",
+          "title": "The time from hot big bang theory to the present age",
+          "content": "- 13.8 billion years - Methods - Age of galaxies from the travel time of light - The light from distant galaxies is red shifted. - Age of the universe from expansion - An alternative approach to estimating is the age of the universe is to measure the \u201cHubble constant\u201d. The Hubble constant is a measure of the current expansion rate of the universe. - If the universe is flat and composed mostly of matter, then the age of the universe = 2 3\ud835\udc3b - If the universe has a very low density of matter, then its extrapolated age is larger = 1 \ud835\udc3b"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "subject": "General Science",
+      "topic": "Composition of the Universe",
+      "subtopics": [
+        {
+          "id": "8.1",
+          "title": "Dark Matter",
+          "content": "- Galaxies are rotating with such speed that the gravity generated by this observable matter could not possible hold them together; they should have torn themselves long ago. This leads scientists to believe that something we cannot see at work. - They think something we have yet to detect is directly giving these galaxies extra mass, generating the extra gravity they need to stay intact. This strange matter was called Dark Matter since it is not visible. - Features of Dark Matter - Unlike normal matter, it does not interact with the electromagnetic force. - It does not absorb, emit or reflect sunlight - Scientist are able to infer its existence only from the gravitation effect. - Places with concentration of dark matter bend light passing near by. (interact with gravity) - It seems to outweigh visible matter roughly 6 to one making up about 27% of the universe"
+        },
+        {
+          "id": "9.1",
+          "title": "Dark Energy",
+          "content": "- In 1929, Edward Hubble examined how the wavelength of light emitted by the distant galaxies, shifts towards the red end of the electromagnetic spectrum. He found that fainter, more distant galaxies showed a larger degree of red shift; closer galaxies, not so much. Hubble determined that this was because the universe itself is expanding. - Wherever there is empty spaces in the universe, more is forming every second. So, dark energy is some kind of energy intrinsic to empty spaces. - Features of Dark Energy - It makes up approximately 68% of the universe and appears to be associated with the vacuum in space. - It is evenly distributed throughout the universe. - Even distribution means that dark energy does not have local gravitational effect, but rather a global effect on the universe. This leads to repulsive force, which tends to accelerate the expansion."
+        },
+        {
+          "id": "10.1",
+          "title": "Ideas to Explain Dark Energy",
+          "content": "- Empty spaces has its own energy. - Idea of Einstein in 1917, idea of cosmological constant, a force that counteract force of gravity. - Idea of virtual particles(form from nothing and then disappear into nothing again) in empty spaces. The energy from those particles could be dark energy - It is unknown kind of energy, fluid or field."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "subject": "General Science",
+      "topic": "Black Hole",
+      "subtopics": [
+        {
+          "id": "11.1",
+          "title": "It is a place in space where gravity pulls so much that even light cannot get out. Because no light can get out, people cannot see black hole.",
+          "content": "- Types of Black Holes - Black hole equal to size of an atom (has mass of a large mountain) - Stellar (has mass 20 times more than the mass of the sun) - Supermassive (has mass more than 1 million suns together) - Singularity - A singularity or gravitational singularity is a point at the very center of a black hole. It is a one - dimensional point that contains enormous amounts of mass in an infinitely small space. - Event Horizon - A black holes' event horizon is its outermost boundary. This is the point at which the gravitational force precisely overcomes light's ability to escape the black hole's pull. This is a \"point of no return\", beyond which it is impossible to escape the gravitational effects of the black hole"
+        },
+        {
+          "id": "13.1",
+          "title": "What could be inside a Black Hole?",
+          "content": "- Between the event horizon and the singularity there\u2019s nothing but empty space, subjected to tremendously strong gravitational fields. Once the hydrogen [from the collapsed star] went in, the theory of gravity tells us it got squeezed into a \u2018singularity\u2019 at the center, and nobody knows what it\u2019s really like there\u2014 although it\u2019s certainly not hydrogen anymore - Event Horizon Telescope Project - Messier 87 Galaxy - The bright ring visible in all of these images is the black hole\u2019s acceleration disk, where gas being sucked toward the center gets heated until it begins to glow."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "subject": "General Science",
+      "topic": "Formation of Black Holes (Life of a Massive Star)",
+      "subtopics": [
+        {
+          "id": "12.1",
+          "title": "Stars more than six times as massive as our Sun are called MASSIVE STARS. A massive star has short lifespan than the Sun or other low",
+          "content": "- mass stars. Hydrogen in the core of a massive star is used up with a much fast speed. After only 50 to 100 million years, no hydrogen is left in the core of a massive star. At this time, the core collapses and the star becomes 1000 times greater than its original size. It is now called a SUPERGIANT. - With the passage of time the supergiant becomes so dense that it cannot bear the pressure of outer layers. The outer layers crash inward with a tremendous explosion, called SUPERNOVA. At the time of supernova, the light of the star becomes much more than all other stars of the galaxy. Great shells of gases \ufb02y o\ufb00 the star. Only the tiny core of the star remains left. This core contains only neutrons, so it is called a NEUTRON STAR. It is extremely dense. Some times after the supernova explosion the massive star becomes a BLACK HOLE. A black hole is so dense that nothing can escape from it due to its very strong gravity. Even light cannot escape from a black hole and it is no more glowing. In fact the black hole is the last stage of the life cycle of a massive star."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "subject": "General Science",
+      "topic": "GALAXY",
+      "subtopics": [
+        {
+          "id": "14.1",
+          "title": "It is the fundamental unit of the universe. It is composed of hundreds of thousands of stars with gas and dust.",
+          "content": "- Classification of Galaxies - Elliptical Galaxies - Most abundant type of galaxies. However, because of their age and dim qualities, they are frequently outshone by younger, brighter collection of stars. - E0 to E7"
+        },
+        {
+          "id": "15.1",
+          "title": "Spiral Galaxies",
+          "content": "- The star, gas and dust are gathered in spiral arms that spread outward from the galaxy\u2019s center. - Classification on the basis of how tightly wound their spiral arms are Sa, Sb, Sc"
+        },
+        {
+          "id": "16.1",
+          "title": "Irregular galaxies",
+          "content": "- No particular shape, smallest galaxies and full of dust and gas - Star formation because of the presence of gas and dust - The Milky Way Galaxy - Spiral galaxy, - It is 100,000 light years in diameter - The Milky Way is not alone in the sky, it\u2019s part of collection of other galaxies called the local group. - Its diameter is 150 light year. Stars 1011 - More than 200 billion stars - Nearest galaxy to Milky Way is Andromeda Galaxy"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "subject": "General Science",
+      "topic": "SOLAR SYSTEM",
+      "subtopics": [
+        {
+          "id": "17.1",
+          "title": "Tiny part of Galaxy and consists of a sun and all objects that travel around it.",
+          "content": "- Earth - 3rd planet of solar system - Distance from sun is 1AU - Diameter of earth is 12756km - Rotation period is 23h 56m 4s - Year consists of 365.25 days - Average temperature 15oC - One moon, 5th largest planet"
+        },
+        {
+          "id": "18.1",
+          "title": "Sun",
+          "content": "- Largest object in the solar system, mass is more than 99.8% total mass of solar system. - Composition of Sun - 78% hydrogen + 28% helium + 2% metals - Radius is 432,468 miles - Sun volume = 332,946 Earths - Three parts of sun core, radiative zone and convective zone"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "subject": "General Science",
+      "topic": "Parts of Sun",
+      "subtopics": [
+        {
+          "id": "19.1",
+          "title": "The third part of the solar interior is named the convective (or convection) zone. It is also named after the dominant mode of energy flow in this layer; heat moves through upward convection. The convection plasma is not dense or hot enough to transfer the heat energy of the interior outward through radiation. As a result, thermal convection occurs. Convection is an energy transport by the physical motion of hot material. The hot gas rises and gives up heat to the surrounding cooling gas. The cool gas sinks.",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "subject": "General Science",
+      "topic": "Atmosphere of Sun",
+      "subtopics": [
+        {
+          "id": "20.1",
+          "title": "Photosphere",
+          "content": "- This is lower atmosphere of the sun and the part we see. Temperature is 5800k - Chromosphere - 2000km thick layer, Its name comes from the greek root chroma (meaning color), for it appears bright red when viewed during a solar eclipse. A thin transition region, where temperatures rise sharply, separates the chromosphere from the vast corona above. - Corona - The uppermost portion of the Sun's atmosphere is called the corona, and is surprisingly much hotter than the Sun's surface (photosphere)! - Sunspots are cool, dark patches on the Sun\u2019s surface. They are caused by disturbances in the sun\u2019s magnetic field which make them cooler than the surrounding area."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "subject": "General Science",
+      "topic": "Past Paper Questions",
+      "subtopics": [
+        {
+          "id": "21.1",
+          "title": "Describe different methods to estimate the age of the universe? (CSS",
+          "content": "- 2018) - Briefly describe what is big bang theory? (CSS - 2011) - What is galaxy? The earth belongs to which galaxy? (CSS - 2011) - Explain the terms Dark Energy and Dark Matter? (CSS - 2018) - Define the term Black Hole. What\u2019s expected inside it? (CSS - 2007/2018) - Important features of sun and structure of sun. (CSS - 2008/2009)"
+        },
+        {
+          "id": "33.1",
+          "title": "Differentiate between the occurrence of Lunar and Solar Eclipse? (CSS",
+          "content": "- 2017) - Explain the formation of Lunar Eclipse. (CSS - 2018) - Explain the formation of Solar Eclipse. (CSS - 2007) - Briefly explain what effects are produced due to Rotation & Revolution of Earth? (CSS - 2017)"
+        },
+        {
+          "id": "73.1",
+          "title": "Very briefly explain the difference between Earthquakes, Volcanic eruptions, Floods and Tsunamis. (CSS",
+          "content": "- 2012) - Explain Earthquakes and Volcanoes. How Volcanoes help in the formation of earth crust. (CSS - 1999) - What is an earth quake? Discuss Richter Scale in this context. What was the intensity of the earth quake in Pakistan dated 26 October 2015 and where was the locus? (CSS - 2016) - How are EARTHQUAKES caused? (CSS - 2008) - What is tsunami? How the tsunamis generated and what are their characteristics? (CSS - 2016) - Describe different causes of tsunami. Is there any difference between a tsunami and a tidal wave? Name the worst tsunami ever recorded. (CSS - 2018)"
+        },
+        {
+          "id": "91.1",
+          "title": "Explain renewable energy resources. (CSS",
+          "content": "- 2011/2008/2013) - Differentiate between the Renewable and Non - Renewable sources of energy giving examples of each one of them. (CSS - 2019) - Why nuclear energy is preferred in developed countries. (CSS - 2013) - What is the current status and future perspective of BIOTECHNOLOGY in Pakistan? (CSS - 2015) - Give a brief account of Biotechnology? (CSS - 2019) - Define the term \u2018BIOFUEL\u2019. How it is helpful to promote clean energy? (CSS - 2018)"
+        },
+        {
+          "id": "104.1",
+          "title": "Explain the shape of water molecule with the help of Molecular Orbital Theory, also draw its orbital diagram. (CSS",
+          "content": "- 2016) - Why do atoms form bonds? Name three major types of chemical bonds. (CSS - 2019)"
+        },
+        {
+          "id": "156.1",
+          "title": "What is the endocrine system? Write the names and functions of endocrine glands. (CSS",
+          "content": "- 2000) - Briefly explain the function of following in human body: (a) Kidneys (b) Thyroid gland (c) Pituitary gland - Discuss the function of kidneys in human body."
+        },
+        {
+          "id": "177.1",
+          "title": "Explain the structure of earth and its atmosphere. (CSS",
+          "content": "- 2003/1997) - Write briefly (not more than three to four sentences) on Igneous rocks. (CSS - 2009)"
+        },
+        {
+          "id": "206.1",
+          "title": "Write short notes on the following (CSS",
+          "content": "- 1996) 1. Acid rain 2. Greenhouse effect 3. Ozone depletion - What is an Acid Rain and how it is produced. Briefly describe the dangers associated with it? (CSS - 2017) - What is \u2018Acid Rain\u2019. Describe its causes and how it can be prevented?(CSS - 2018) - What do you mean by Ozone depletion and how we can prevent its depletion? (CSS - 2017) - Comment, Green House Effect is a blessing. Also discuss Enhanced Green House Effect and its relation with global warming. (CSS - 2016) - Write a comprehensive note on Smog. (CSS - 2018) - What are the factors responsible for environmental pollution? (CSS - 2017)"
+        },
+        {
+          "id": "217.1",
+          "title": "What were the main objectives of Clean Development Mechanism? Also explain the reasons for the criticism on Kyoto Protocol by the developed countries. (CSS",
+          "content": "- 2016)"
+        },
+        {
+          "id": "225.1",
+          "title": "Briefly explain the main reasons of water",
+          "content": "- logging in Pakistan. (CSS - 2017) - What is \u2018Water Pollution\u2019. Discuss its causes and measurement methods. Name the countries with the highest and lowest percentage of it."
+        },
+        {
+          "id": "230.1",
+          "title": "Differentiate between Sanitary and Industrial Landfills, also describe the land selection criteria for Landfills. (CSS",
+          "content": "- 2016)"
+        },
+        {
+          "id": "258.1",
+          "title": "Discuss importance of preservatives and antioxidants in food. (CSS",
+          "content": "- 2016/1987/1995/2001/2008) - What is the significance of Vitamins? Describe the sources, uses and deficiency symptoms of fat soluble vitamins. (CSS - 2017/1990) - Write a comprehensive note on \u2018Balanced Diet\u2019. (CSS - 2018) - Define \u2018Carbohydrates\u2019. Describe different steps to digest these in the human body. (CSS - 2018) - People suffering from cardiovascular diseases have a high level of cholesterol in their blood. This often leads to a build up of fats on the internal arterial walls. Suggest how this might be harmful to the heart. (CSS - 2019) - What is Cholesterol? Discuss its importance, normal blood level and dangers of elevated levels with reference to the health and disease in humans. (CSS - 2016)"
+        },
+        {
+          "id": "274.1",
+          "title": "Write a short note on artificial intelligence. (CSS",
+          "content": "- 2016) - Name three basic buses employed in a computer and explain what each is used for. (CSS - 2017) - Draw a basic computer block diagram and briefly explain the function of each part. (CSS - 2017) - Differentiate between RAM and ROM. (CSS - 2017) - What is \u2018Artificial Intelligence\u2019? How is it helpful for humanity? (CSS - 2018) - Write a note, how data is stored on a \u2018Hard Disk\u2019. (CSS - 2018)"
+        },
+        {
+          "id": "282.1",
+          "title": "How an \u2018Optical Fiber\u2019 is constructed? How is it helpful in transmitting the electromagnetic radiations? (CSS",
+          "content": "- 2018) - Write short notes on: (2\u00bd each) (i) Fiber Optics (ii) Global Positioning System - Give a brief account of Optic Fibres. What is their importance in present day telecom system? (CSS - 2019)"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "subject": "General Science",
+      "topic": "Solar and Lunar Eclipses",
+      "subtopics": [
+        {
+          "id": "22.1",
+          "title": "Eclipse",
+          "content": "- Eclipse is the obscuring of one heavenly/ celestial body by another, particularly that of the sun or moon - Solar Eclipse (Sun Eclipse) - Moon comes b/w the earth and the sun and its shadow obscure the face of the earth from the light of sun - Total eclipse - The Umbra is a shadow's dark core. Imagine a light source and an object casting a shadow. If you are standing within the umbra, you will not be able to see any part of the light source as the object blocks all direct light rays - Partial eclipse - The Penumbra is a half - shadow that occurs when a light source is only partly covered by an object \u2013 for example, when the Moon obscures part of the Sun's disk."
+        },
+        {
+          "id": "23.1",
+          "title": "Lunar Eclipse (Moon Eclipse)",
+          "content": "- Earth comes b/w moon & the sun and its shadow darkens the moon - Penumbral Lunar Eclipse - Partial Lunar Eclipse - Total Lunar Eclipse"
+        },
+        {
+          "id": "26.1",
+          "title": "Difference b/w Solar and Lunar Eclipse BASIS FOR COMPARISON SOLAR ECLIPSE LUNAR ECLIPSE Meaning Solar eclipse is the one in which sun is blocked by the moon. Lunar eclipse refers to the eclipse in which moon appears dim, as it passes into earths shadow. Position Moon lies between sun and earth Earth lies between sun and moon Frequency Once in every eighteen months. Twice a year Occurence Occurs during day Occurs during night Phase New moon Full moon Duration 5",
+          "content": "- 7 minutes An hour Appearance Appears in some places only. Appears in many places."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "subject": "General Science",
+      "topic": "Blood Moon",
+      "subtopics": [
+        {
+          "id": "24.1",
+          "title": "One meaning of a \"blood moon\" is based on its red glow. This blood moon occurs during a total lunar eclipse. During a total lunar eclipse, Earth lines up between the Moon and the Sun. This hides the Moon from the sunlight. When this happens, the only light that reaches the Moon's surface is from the edges of the Earth's atmosphere. The air molecules from Earth's atmosphere scatter out most of the blue light. The remaining light reflects onto the Moon's surface with a red glow, making the Moon appear red in the night sky. The name \"blood moon\" is also sometimes used for a Moon that appears reddish because of dust, smoke or haze in the sky. And it can be one of the full moons of autumn when the leaves are turning red.",
+          "content": ""
+        },
+        {
+          "id": "308.1",
+          "title": "One meaning of a \"bl ood moon\" is based on its red glow . This blood moon occurs during a total lunar eclipse . During a total lunar eclipse, Earth lines up between the Moon and the Sun. This hides the Moon from the sunlight. When this happens, the only light that reaches the Moon's surface is from the edges of the Earth's atmosphere. The air molecules from Earth's atmosphere scatter out most of the blue light.",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "subject": "General Science",
+      "topic": "7 stages of a Total Lunar Eclipse",
+      "subtopics": [
+        {
+          "id": "25.1",
+          "title": "Penumbral eclipse begins: This begins when the penumbral part of Earth's shadow starts moving over the Moon. This phase is not easily seen by the naked eye.",
+          "content": "- Partial eclipse begins: Earth's umbra starts covering the Moon, making the eclipse more visible. - Total eclipse begins: Earth's umbra completely covers the Moon and the Moon is red, brown, or yellow in color. - Maximum eclipse: This is the middle of the total eclipse. - Total eclipse ends: At this stage, Earth's umbra starts moving away from the Moon's surface. - Partial eclipse ends: Earth's umbra completely leaves the Moon's surface. - Penumbral eclipse ends: At this point, the eclipse ends and Earth's shadow completely moves away from the Moon."
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "subject": "General Science",
+      "topic": "Rotation and Revolution",
+      "subtopics": [
+        {
+          "id": "27.1",
+          "title": "Rotation",
+          "content": "- The earth Spins from west to east (CCW). It takes 23 hours 56 minutes and 4 seconds to complete one full turn. - Effects of Earth\u2019s Rotation - Coriolis Effect - The constancy of Earth\u2019s rotation in the same direction causes an apparent deflection in the flow paths of both wind and ocean currents. The deflection is to the right in the North Hemisphere and to the left in South Hemisphere. - Day and Night - Dawn and Dusk - Gravitational pull between the Moon and the Sun give rise to tides. (Rise and fall of water level)"
+        },
+        {
+          "id": "28.1",
+          "title": "Revolution",
+          "content": "- Earth revolves around the sun in nearly circular orbit (CCW). Earth\u2019s revolution around the sun takes 365 days, 5 hours, 48 minutes and 46 seconds. - Formation of Seasons - Seasons occur because earth is tilted at 23.5 degrees. - Solstice (June 21st and 22nd ,December 21st and 22nd ) - It is an astronomical event that occurs twice each year in June and December. The day of the solstice is either the longest day of the year or the shortest day of the year. - Equinox (21st March, 23rd September) - The word equinox is derived from two Latin words - aequus (equal) and nox (night). Equinox is the date when day and night are the same length"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "subject": "General Science",
+      "topic": "Weather & Climate",
+      "subtopics": [
+        {
+          "id": "29.1",
+          "title": "Weather",
+          "content": "- It consists of the short - term changes in the atmosphere - The temperature of the day - Climate - Climate refers to the average atmospheric conditions over relatively long periods of time, usually 30 years. - Weather variables - Global Temperature - Pressure - Circulation - Precipitation - Humidity"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "subject": "General Science",
+      "topic": "Weather variables",
+      "subtopics": [
+        {
+          "id": "30.1",
+          "title": "Global Temperature",
+          "content": "- Temperature is very important factor in determining the weather, because it influences or control other elements of the weather. - Sun being main source of energy provides 97.7% energy for all physical processes on the earth. - Non - uniform distribution of heat - heat across the globe is not uniformly distributed which causes change in global temperature. - Pressure - Pressure exerted by the molecules of atmosphere on the earth surface. - Pressure variation due to height - After every 5.5km pressure become halved. - High and low pressure zones - movement of air molecules from high to low pressure zone - weather variation like rapid circulation of air drop the temperature."
+        },
+        {
+          "id": "31.1",
+          "title": "Circulation",
+          "content": "- Circulation of air must be derived by some force; it may be gradient force. Whenever pressure gradient will be created it pushes air molecules to move toward low pressure region. - Pressure gradient force - The pressure gradient force is the force which results when there is a difference in pressure across a surface. The resulting force is always directed from the region of high pressure to the region of low pressure. - Coriolis force - Once air has been set in motion by the pressure gradient force, it undergoes an apparent deflection from its path. This apparent deflection is called as Coriolis Force."
+        },
+        {
+          "id": "32.1",
+          "title": "Precipitation",
+          "content": "- It is a term given to moisture that falls from the air to the ground. - Common form of precipitation includes Rain, Fog, Mist, Haze, Snow, Hail. - Rain is liquid precipitation. Mist and fog occur when water droplets hang in the air. Haze happens when the particles in the atmosphere are pollutants. Snow crystals form when tiny super cooled cloud droplets freeze. Hail is the form of precipitation which consists of balls or irregular lumps of ice. - Humidity - It is the measure of amount of moisture in the air. The air\u2019s capacity to hold vapor is limited but increases dramatically as the air warms, roughly doubling for each temperature increase of 10\u00b0C. In the winter air is generally cooler and drier, whereas in the summer, when air is warmer, it can hold more moisture. That\u2019s what gives that sticky, soupy feeling of a very humid day."
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "subject": "General Science",
+      "topic": "EARTHQUAKE",
+      "subtopics": [
+        {
+          "id": "34.1",
+          "title": "The sudden release of energy in the form of seismic waves that create vibration in the earth\u2019s crust.",
+          "content": "- Causes of earthquake - Elastic rebound theory - Most earthquakes are produced by the rapid release of elastic energy stored in rock that has been subjected to great forces. - When the strength of the rock is exceeded, it suddenly breaks, causing the vibrations of an earthquake. - Rupture occurs and the rocks quickly rebound to an undeformed shape - Energy is released in waves that radiate outward from the fault"
+        },
+        {
+          "id": "35.1",
+          "title": "Elastic rebound theory",
+          "content": ""
+        },
+        {
+          "id": "37.1",
+          "title": "Plate tectonics",
+          "content": "- Pangea: means all earth - Lithosphere is broken up into what is called plate tectonics. - 7 major plates. - Tectonic activity is at boundary of the plates. - Boundaries of plate tectonics - Convergent boundaries (crashing) - Divergent boundaries (pulling apart) - Transform boundaries (sideswiping)"
+        },
+        {
+          "id": "39.1",
+          "title": "Volcanic eruption",
+          "content": "- During volcanic activity magma pushes apart the plate which causes earthquake. OR - A volcano is simply an opening or vent on the earth\u2019s surface through which molten magma, escape on the earth\u2019s surface. - Process - Types of volcanoes - Active (at least one eruption during the past 10,000 years) - Erupting (it is an active volcano that is having an eruption) - Dormant (it is an active volcano that is not erupting, but supposed to erupt again) - Extinct (that has not had an eruption for atleast 10,000 years) - Measuring of earthquake - Seismographs (ground monitoring equipment) are instruments that record earthquake waves."
+        },
+        {
+          "id": "40.1",
+          "title": "Vent/Neck (a sort of pipe in the crust through which hot material and gases come out to the surface )",
+          "content": "- Carter (the opening of the vent on the surface of earth) - Volcanic Cone (the lava coming out of the carter accumulates around it forms a cone like structure)"
+        },
+        {
+          "id": "41.1",
+          "title": "What causes a Volcano to Erupt",
+          "content": "- The radioactive substance inside the earth keep generating a lot of heat through decomposition and chemical reactions. - In continental - oceanic collision a denser oceanic plate sub - ducts below a continental plate, which is lighter, and during this subduction process all the rock material in this region undergoes metamorphism, finally converting itself into molten magma. - Negative impacts of Volcanoes - Eruption that occur close to human settlement - Negative consequence on the ozone layer - Landscape and natural scenery could be destroyed - Ash and mud can mix with rain and melting snow forming Lahars - Lahars are mudflows flowing at very fast pace."
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "subject": "General Science",
+      "topic": "EARTHQUAKE-Anatomy",
+      "subtopics": [
+        {
+          "id": "36.1",
+          "title": "Focus, Epicenter, and Fault",
+          "content": "- Focus or hypocenter is the point within Earth where the earthquake starts. - Epicenter is the location on the surface directly above the focus."
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "subject": "General Science",
+      "topic": "Plate tectonics",
+      "subtopics": [
+        {
+          "id": "38.1",
+          "title": "Convergent boundaries",
+          "content": "- When two plates come together, it is known as a convergent boundary. The impact of the colliding plates can cause the edges of one or both plates to buckle up into a mountain ranges or one of the plates may bend down into a deep seafloor trench. A chain of volcanoes often forms parallel to convergent plate boundaries and power earthquakes around common along these boundaries. - At convergent plate boundaries, oceanic crust is often forced down into the mantle where it begins to melt. Magma rises into and through the other plate, solidifying into granite, the rock that makes up the continents. Thus, at convergent boundaries, continental crust is created and oceanic crust is destroyed. - Continental collision (when two continental plates collides) - Sub - duction zone (when one plate moves underneath the other) - Divergent boundaries - A divergent boundary occurs when two tectonic plates move away from each other. Along these boundaries, earthquakes are common and magma (molten rock) rises from the Earth\u2019s mantle to the surface, solidifying to create new oceanic crust. - Mid - oceanic ridges are formed - Transform boundaries - When plates are sliding past each other"
+        },
+        {
+          "id": "176.1",
+          "title": "Lithosphere is broken up into what is called plate tectonics.",
+          "content": "- 7 major plates. - Tectonic activity is at boundary of the plates. - Pangea: means all earth - Types of plate tectonics - Convergent boundaries - Divergent boundaries - Transform boundaries"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "subject": "General Science",
+      "topic": "Kashmir Earthquake 8th October 2005",
+      "subtopics": [
+        {
+          "id": "42.1",
+          "title": "7.6",
+          "content": "- magnitude earthquake took place on Saturday 8th October at 08:25 local time. - The epicentre was Muzzaffarabad the capital of the Pakistan administered region of Kashmir, 80km north - east of Islamabad. - It was followed by 20 powerful aftershocks"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "subject": "General Science",
+      "topic": "Pakistan-Afghanistan Earthquake 2015 \u2013 26th October 2015",
+      "subtopics": [
+        {
+          "id": "43.1",
+          "title": "An earthquake of the magnitude of 7.5 struck Pakistan and Afghanistan, the quake was 196km deep and centered 82 km of Feyzabad in a remote area of Afghanistan in Hindu Kush mountain range.",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "subject": "General Science",
+      "topic": "TSUNAMI",
+      "subtopics": [
+        {
+          "id": "44.1",
+          "title": "Japanese word, tsu means harbor and nami means wave.",
+          "content": "- Large ocean wave that is caused by an underwater earthquake or volcanic eruption and often causes extreme destruction when it strikes land. - Characteristics - Wavelength of 100 to 200km, and may travel hundreds of kilometers across the deep ocean, reaching a speed of about 725 to 800km/h. Height of wave may be up to 30m high or more. Just 1m3 of water weighs more than 1ton. Its destructive force is equals to millions of ton. - Causes - Earthquake - Landslide - Volcanic eruption - Nuclear experiments"
+        },
+        {
+          "id": "45.1",
+          "title": "Most devastating tsunamis in history",
+          "content": "- North pacific coast, Japan \u2013 11 March, 2011 - WB - $235billion+18000 lives, Magnitude 9.0 - Sumatra, Indonesia \u2013 26 December, 2004 - WB - $10billion+230,000 lives, Magnitude 9.1 - Lisbon, Portugal \u2013 1 November, 1755 - 8.5 Magnitudes killed 60,000 in Portugal. - Difference between Tidal wave and Tsunami - A tidal wave is essentially a high tide that rises fast enough to appear in the form of a wave. It is solely affected by weather and the gravitational pull from the moon and sun. a tsunami, on the other hand, occurs when some events disturbs the ocean. They are usually caused by a geological event such as an earthquake, volcanic eruption, landslide or nuclear experiment."
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "subject": "General Science",
+      "topic": "FLOODS",
+      "subtopics": [
+        {
+          "id": "46.1",
+          "title": "Natural event, where a piece of land that is usually dry land, suddenly gets submerged under water. Low",
+          "content": "- lying area. - How flood develop - Excessive rain, a ruptured dam, rapid ice melting in the mountains or even an unfortunately placed dam can overwhelm a river and send its spreading over the adjacent land, called a floodplain. Coastal flooding occurs when a large storm or tsunami causes the sea to surge inland. - Types of Floods - Flash flood - Result of heavy rain, dam break or snow melt. Most destructive in nature. There is no warning, no preparation. - Rapid on - Set floods - Similar to flash flood, this type takes slightly longer to develop and the flood last for a day or two only. It does not surprise people like flash flood. - Slow on - Set floods - When water bodies over - flood their banks, they tend to develop slowly and can last for days and weeks. The effect of this kind of floods on people is more likely to be due to disease, malnutrition etc."
+        },
+        {
+          "id": "47.1",
+          "title": "Factors encouraging flooding",
+          "content": "- Steep sided channel - Lack of vegetation - Causes of floods - Rivers can overflow their banks to cause flooding - Breaking of dams - Global warming - Sedimentation in water bodies - Effects - Primary (physical damage, causalities, loss of resources) - Secondary (soil erosion, land degradation, effect on health, water pollution) - Tertiary (long - term effects - economic hardships, rebuilding costs, food shortages, poverty etc.)"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "subject": "General Science",
+      "topic": "AVALANCHE",
+      "subtopics": [
+        {
+          "id": "48.1",
+          "title": "An avalanche is a mass of snow, often mixed with ice and debris, which travels down mountain sides, destroying all in its path.",
+          "content": "- Causes - Overloading/ heavy snow fall - It deposits snow in unstable areas and put pressure on the snow - pack. - Warm Temperature - Warm temperature that can last several hours a day can weaken some of the upper layers of snow and causes it to slide down. - Slope angle - Layers of snow build up and slide down the mountain at faster rate as steep slopes can increase the speed of snow. - Snow pack conditions (loose bond) - Earthquake - Elements of Avalanche (terrain, weather, snowpack)"
+        },
+        {
+          "id": "49.1",
+          "title": "Types",
+          "content": "- Loose snow avalanche - Common on steep slopes, often seen after fresh snow fall . Since the snow does not have time to settle down fully or made loose by sunlight, snow pack is not solid. - Slab avalanche - Loose snow avalanche can cause a slab avalanche, which are characterized by the fall of a large block of ice down the slopes. Thin slab cause fairly small amounts of damage, while the thick ones are responsible for many fatalities. - Powder snow avalanche - Loose snow avalanche + slab avalanche, speed attained by this avalanche can cross 190 miles/h - Wet snow avalanche - These are quite dangerous as they travel slowly due to friction, which collects debris from the path fairly easily. The avalanche comprises of water and snow at the beginning."
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "subject": "General Science",
+      "topic": "DROUGHT",
+      "subtopics": [
+        {
+          "id": "50.1",
+          "title": "Drought is a protracted period of deficient precipitation resulting in extensive damage to crops, resulting in loss of yield.",
+          "content": "- Types - Meteorological drought - happens when dry weather patterns dominate an area. - Agricultural drought - when crops become affected. - Hydrological drought - Low water volumes in streams, rivers and reservoirs. - Socioeconomic drought - Demand for water exceeds the supply"
+        },
+        {
+          "id": "51.1",
+          "title": "Effects",
+          "content": "- Drying out of water bodies - Reduction in soil quality - Unsuitable conditions for plant and vegetation survival - Reduced crop yield - Economic losses - Outbreak of disease - Migration of people."
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "subject": "General Science",
+      "topic": "WILDFIRE",
+      "subtopics": [
+        {
+          "id": "52.1",
+          "title": "a large, destructive fire that spreads quickly over woodland.",
+          "content": "- Elements of combustion - Oxygen, heat and fuel - Causes of wildfires - Human beings (90%) - Burning debris - Unattended campfires - Cigarettes - Arson (act of setting fire to property, vehicles or any other thing with intention to cause damage) - Mother nature is responsible for other 10% - Lightening - Volcanic eruption"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "subject": "General Science",
+      "topic": "URBAN FIRE",
+      "subtopics": [
+        {
+          "id": "53.1",
+          "title": "Fire that occurs in structural components like homes, industries and other commercial buildings.",
+          "content": "- Causes - Careless smoking at home/industry - Short circuit - Gas heaters - Prevention - Installation of fire extinguishers - Smoke or fire alarm in the building"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "subject": "General Science",
+      "topic": "DISASTER & RISK MANAGEMENT",
+      "subtopics": [
+        {
+          "id": "54.1",
+          "title": "Disaster",
+          "content": "- A serious disruption in the functioning of the community or society causing wide spread material, economics, social or environmental losses which exceed the ability of the affected society to cope using its own resources. - Hazard (potential for causing injury to life) - Natural hazard - Manmade - Vulnerability (extent to which a particular hazard could do damage) - Physical - Socio economic"
+        },
+        {
+          "id": "55.1",
+          "title": "Capacity (resources which exist to fight against hazard)",
+          "content": "- Technical capacity - Economical capacity - Risk - It is the measure of the expected losses due to hazardous events occurring in the given area - Disaster risk reduction - Mitigation - Preparedness - Response - Recovery"
+        },
+        {
+          "id": "56.1",
+          "title": "Disaster management cycle",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "subject": "General Science",
+      "topic": "NDMA(National Disaster Management Authority)",
+      "subtopics": [
+        {
+          "id": "57.1",
+          "title": "Disaster management in Pakistan",
+          "content": "- After the deadly October 8,2005 earthquake that rocked Pakistan, National Disaster Management Ordinance 2007, which effectively became a law in 2010 under the National Disaster Management Act. - NDMA acts as a coordination and monitoring agency for relief efforts between and among armed forces, civilian rescue agencies, emergency teams and UN. - Pakistan is vulnerable to wide - ranging hazards like floods, earthquake related disasters are causing colossal loss of human life and material. - Climate Change is huge threat to economic prosperity of Pakistan. - Global Climate Risk Index Report, 2018, (Pakistan \u2013 the 8th most affected country from climate change) - NDMA lacks ownership from its stakeholders and government is not spending the required amount on disaster management."
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "subject": "General Science",
+      "topic": "Tropical Cyclone & Hurricane",
+      "subtopics": [
+        {
+          "id": "58.1",
+          "title": "Tropical cyclones originate over oceans in tropical areas and coastal regions. All these i.e. cyclone, typhoon, willy willies and hurricane are same type of storm.",
+          "content": ""
+        },
+        {
+          "id": "59.1",
+          "title": "understanding the concept of difference of radiations received per area",
+          "content": "- Tropical region receives the most solar radiation per area and the reason behind that is income solar radiation that are direct and vertical at the tropical region and as we move towards polar region the angle of the sun rays are not vertical, they are slanting rays. Vertical rays of sunlight are more effective in producing light and heat than slanting rays and that\u2019s the tropical region is warm."
+        },
+        {
+          "id": "60.1",
+          "title": "Understanding the concept of wind movement",
+          "content": "- Wind movement is determined by low pressure and high pressure systems. Difference in atmospheric pressure creates pressure gradient that makes the wind move. Movement is always from high pressure to low pressure. - What causes LP - Low pressure occurs when air is warm, either from being over a warm land or ocean surface that means low pressure occurs at a place which is warm, that is why tropical region is a perfect place where low pressure occurs."
+        },
+        {
+          "id": "61.1",
+          "title": "What causes HP (High pressure and Low pressure belts)",
+          "content": "- High pressure occurs when air is cool either from being over a cool land or ocean surface"
+        },
+        {
+          "id": "62.1",
+          "title": "Coriolis force",
+          "content": "- Difference of speed at Equator and at Poles - Speed is high at poles and low at poles. In northern hemisphere, the change of motion of air is to the right and to the left in southern hemisphere - Formation of a Tropical Cyclone - In every cyclone, there is - Low pressure area (Attracts cool air) - High pressure area - So outer area of cyclone consists of cool air coming from high pressure area which surrounds the central low pressure area. This region is called the eye of the storm"
+        },
+        {
+          "id": "63.1",
+          "title": "The low pressure region is a warm region where the air is warm, which expands and then rises. The cool air from high pressure zones rushes in to fill the void left by the rising warm air. The warm moist air cools as it rises higher into the atmosphere because temperature drops with increase in altitude, that is how clouds are formed. As a result, an eye like figure can be seen at the center of the storm",
+          "content": "- Now, the air in the northern hemisphere the cool air rushing towards the center of the storm is deflected slightly to the right but cool air is keeps getting attracted towards the center because that\u2019s where the warm low pressure zone is. This creates a spin in counter clockwise direction - But when it reaches the land moisture supply is cut - off and the storm dissipates. So the place where tropical cyclone crosses the coast is called the landfall of the cyclone - Definition - A cyclone is an area of low pressure around which the winds flow counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere."
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "subject": "General Science",
+      "topic": "DEADLIEST TROPICAL CYCLONES IN PAKISTAN",
+      "subtopics": [
+        {
+          "id": "64.1",
+          "title": "1965 Karachi Cyclone",
+          "content": "- killed 10,000 people - Cyclone 2A 1999 - killed 6200 people - Cyclone Yemyin - killed 200 people - 1993 Pak - India Cyclone - killed 609 people and displaced 200,000 people - 1964 Indus Valley Cyclone - killed 450 people and displaced 400,000 people"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "subject": "General Science",
+      "topic": "Tropical Storm/ Hurricane Impacts",
+      "subtopics": [
+        {
+          "id": "65.1",
+          "title": "Every year, cyclones, typhoons and hurricanes affect dozens of countries around the world. Losses of life and material damage are significant due to strong winds, heavy rains, large swells and storm surges. Hazardous phenomena are not only located on islands and coasts. Even mitigated, hurricanes often cause damages inland, through floods and landslides, sometimes hundreds of kilometers from the ocean.",
+          "content": "- The record is held by Hurricane Katrina, whose passage over New Orleans in August 2005 left a bill of at least \u20ac100 billion. In terms of human lives, the most affected regions were Bangladesh with the two hurricanes of November 1970 and April 1991, each claiming more than 200,000 lives, Honduras and Nicaragua with Mitch in October 1998, Burma in 2008 with Nargis ravaging the Irrawaddy Delta, the Philippines with Hayan in 2013, each causing tens of thousands of deaths."
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "subject": "General Science",
+      "topic": "MIDDLE LATITUDE/EXTRA TROPICAL",
+      "subtopics": [
+        {
+          "id": "66.1",
+          "title": "They occurs in areas between 30\u00b0",
+          "content": "- 60\u00b0 latitudes both north and south of the equator."
+        },
+        {
+          "id": "67.1",
+          "title": "In between a westerly winds are very active in this region and flow is from west towards east.",
+          "content": ""
+        },
+        {
+          "id": "68.1",
+          "title": "Developing the relation between Air movement and Cyclone",
+          "content": "- Wind circulation is the main reasons that creates any kind of cyclone and depending on temperature winds propagate between the surface and the upper atmosphere and upper atmosphere winds are faster than surface winds because of the friction."
+        },
+        {
+          "id": "69.1",
+          "title": "Movement of Air",
+          "content": "- So, the movement of air movement will be from sub - tropical high to sub - polar low at the surface level, due to Coriolis effects these are deflected which lead to the prevailing westerly winds. Also, there are some winds that occurs high in the atmosphere i.e. 12 - 15 kilometers above the ground these are called as sub - tropical jet stream. They flow from west to east and they are the strongest winds on earth. This wind may go up to as much as 500km/h."
+        },
+        {
+          "id": "70.1",
+          "title": "Formation of Mid",
+          "content": "- Latitude cyclone - There has to be a boundary where cold air and warm air meets that boundary is called a front and that boundary is found near sub - polar region. As the warm air approaches to cold front - since the cold air is dense and heavy it pushes the warm air upward this region is usually called low pressure region. The rising warm air then comes in contact with east flowing jet stream where it splits i.e. one goes east and other goes west. The cold air stream that comes from the pole, they flow towards the southeastern direction. Cold air is dense, hence it stick to the ground and tries to catch it back. So the flow become anti - clockwise circulation. Above the cold air there is another belt of cold dry air that comes from the pole which descends in the upper atmosphere and fills up the middle region of the cold surface air and warm rising air. - At the top warm air climbs over the cold air and series of cumulus cloud appears over the sky and cause rainfall. - When cold air overtakes warm air the cyclone disappears."
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "subject": "General Science",
+      "topic": "TORNADO",
+      "subtopics": [
+        {
+          "id": "71.1",
+          "title": "Definition",
+          "content": "- A tornado is a violent rotating column of air extending from a thunderstorm to the ground. - The most violent tornadoes are capable of tremendous destruction with wind speeds of up to 300 mph. They can destroy large buildings, uproot trees and hurl vehicles hundreds of yards. - Formation of a Tornado - Tornado begins with a thunderstorm, but not just any thunderstorm. These are specially powerful, towering thunderstorms called supercells. Reaching up to over 50,000, they bring high force winds, giant hailstones, sometimes flooding and great flashes of lightening too. These are the type of storm that breeds tornados. - Rising air - Any storm is from when condensation occurs, the byproducts of the clouds formation. Condensation releases heat, and heat becomes the energy that drives huge upward drafts of air. More condensation means bigger clouds. - In supercells, this rising air - mass is particularly strong. As the air climbs, it can change direction and start to move more quickly. - Finally at a storm base there a lot of moisture. - When all these things are in place, a vortex can develop enclosed by the storm, forming a wide tall tube of spinning air that then gets pulled upward"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "subject": "General Science",
+      "topic": "TORNADO IN PAKISTAN",
+      "subtopics": [
+        {
+          "id": "72.1",
+          "title": "10th March 1981",
+          "content": "- killed 56 people and injured 600 people in Punjab - 10th March 1985 - killed 18 people in the northern area - 28th March 2001 - killed 10 people and injured 100 people in Punjab - 12th October 2006 - a tornado formed near Rawalpindi"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "subject": "General Science",
+      "topic": "Forms of Energy",
+      "subtopics": [
+        {
+          "id": "74.1",
+          "title": "Kinetic",
+          "content": "- Potential - Mechanical = K.E+P.E - Electrical - Chemical - Nuclear"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "subject": "General Science",
+      "topic": "Non-Renewable Energy Resources",
+      "subtopics": [
+        {
+          "id": "75.1",
+          "title": "A nonrenewable resource is a natural resource that cannot be re",
+          "content": "- made or re - grown at a scale comparable to its consumption. - Coal, petroleum, and natural gas are considered nonrenewable because they can not be replenished in a short period of time. These are called fossil fuels. - Coal - Peat - Lignite - Bituminous coal - Anthracite coal"
+        },
+        {
+          "id": "76.1",
+          "title": "Disadvantages",
+          "content": "- Gases - oxides - acid rain - ODS - GW - Natural Gas - For heating , cooking and electricity generation. - Natural gas is a naturally occurring hydrocarbon gas mixture consisting primarily of methane, but commonly including varying amounts of other higher alkenes, and sometimes a small percentage of CO2, N2, H2S. - Disadvantages - Same as above"
+        },
+        {
+          "id": "77.1",
+          "title": "Petroleum",
+          "content": "- Crude oil which is obtained under the crust of earth, on fractional distillation it gives - Diesel - Gasoline - Kerosene oil - Disadvantages - Gases like CO2 and NOx are produced on combustion."
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "subject": "General Science",
+      "topic": "Renewable Energy Resources",
+      "subtopics": [
+        {
+          "id": "78.1",
+          "title": "Renewable resources are natural resources",
+          "content": "- sunlight, wind, rain, tides, and geothermal - that can be replenished in a short period of time. - Hydro - electric Power"
+        },
+        {
+          "id": "79.1",
+          "title": "Wind Energy",
+          "content": "- Wind is used to generate mechanical power. - Wind turbines converts K.E into mechanical power then a generator can convert this mechanical energy into electricity. - Wind speed<15km/h - Bio Mass Energy"
+        },
+        {
+          "id": "80.1",
+          "title": "Geo",
+          "content": "- Thermal Energy - Energy stored in the form of heat below the earths surface."
+        },
+        {
+          "id": "81.1",
+          "title": "Solar energy",
+          "content": "- Photovoltaic cell"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "subject": "General Science",
+      "topic": "Nuclear Energy",
+      "subtopics": [
+        {
+          "id": "82.1",
+          "title": "History",
+          "content": "- It all started in 1940s, after the shock and horror of the war and the use of the atomic bomb. Nuclear energy promised to be peaceful spin - off of the new technology helping the world get back on it feet. One thing was certain: the future is atomic. Just a few years later, there was a sort of nuclear age hangover; as it turned out, nuclear power was very complicated and very expensive. Turning Physics into Engineering was easy on paper, but hard in real life. But, there were many people who didn\u2019t just want to abandon the promise of the atomic age; an exciting new technology; the prospect of enormously cheap electricity and the prospect of being independent of oil and gas imports. Nuclear energy finest hour came in the early 1970s, when war in Middle East caused oil prices to skyrocket worldwide. After that a surprising underdog candidate won the day: the Light Water Reactor. - Energy from 1gm Uranium = 2.5 million times energy by burning the coal"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "subject": "General Science",
+      "topic": "Nuclear Energy and the Developed World",
+      "subtopics": [
+        {
+          "id": "83.1",
+          "title": "The continued growth of world\u2019s population and gradual increase of people\u2019s living standard in developing countries have sped up the exhaustion of fossil fuels.",
+          "content": "- Non - continuous supply of wind and solar power generation, resources constraint for hydropower and biomass etc. These set barriers on fulfilling world\u2019s energy demand in near future. - Factors that favor Nuclear Energy - Number of people living in cities may double (Population Increase) - Climate Change factor - Evolution of Nuclear Energy itself - UK Government\u2019s New Energy Policy Paper - The UK has 15 reactors generating about 21% of its electricity. - The UK has implemented a very thorough assessment process for new reactor designs and their siting. - Construction has commenced on the first of a new generation of plants."
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "subject": "General Science",
+      "topic": "Biotechnology",
+      "subtopics": [
+        {
+          "id": "84.1",
+          "title": "Biotechnology",
+          "content": "- It is a process of using living organisms or their enzyme or their molecule to obtain products or to develop processes for welfare of mankind. OR - Biotechnology is the use of technology to modify or manipulate any biological system or living system for the development and improvement of products for various purposes. - Principle of biotechnology - Genetic engineering - The principle of genetic engineering is to modify the existing organisms by changing the genetic material in them. It mainly includes the recombinant DNA technology. OR - It is ability to isolate gene from organisms and transfer it into host to change the genetic material of the host organism. - Chemical engineering (Maintenance of sterile products) - Modern biotechnology raised the pharmaceutical industries to the peak point. Its application resulted in many biotechnological products both in terms of quantity and quality. It improved the methods of manufacturing, storage, and maintenance. Antibiotics, enzymes, vaccines, etc are few examples."
+        },
+        {
+          "id": "85.1",
+          "title": "Application of Biotechnology",
+          "content": "- Agriculture - Herbicides (weed killing chemicals) and pesticides (insect killing chemicals) are used to eliminate the crop enemies (weeds and insects). Such chemicals also cause damage to the crop plants. Using biotechnology, scientists insert weed resistance and pest resistance genes into the plants. The major crops that have been modified are maize, wheat, rice, canola, potato, soya bean, cotton etc. - Health - Biotechnology techniques are also used for curing diseases and improving health. The diseases for which previously no adequate treatment was available can now be treated using biotechnology techniques. Various biotechnology products which are used to save lives include: - Insulin: useful for diabetics - Vaccines: used against many infectious diseases - Growth hormone: useful for stimulating growth - Beta - Endorphin: a pain killer drug - Interferon: anti - viral proteins"
+        },
+        {
+          "id": "86.1",
+          "title": "Environment",
+          "content": "- Environmental problems, like pollution, degradation of land and sewage water, etc., are also resolved using biotechnology. Microorganisms, e.g., genetically modified bacteria are used to treat sewage and refuse. They may also be used to clear spilled oil. Microbes which are used as bio - pesticides, bio - fertilizers, biosensors, etc., are being developed using biotechnology techniques."
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "subject": "General Science",
+      "topic": "Biofuel",
+      "subtopics": [
+        {
+          "id": "87.1",
+          "title": "Biofuel is a liquid, gas and solid fuels that are primarily originated from biomass(Biomass energy is an industry term that refers to obtaining energy by burning wood, plants, and other organic matter. Manure, for example, is organic material). Biofuel has oxygen level of 10",
+          "content": "- 45% making the chemical properties of biofuel very different from those of petroleum. - Examples: bio - ethanol, bio - methanol, bio - diesel, biogas, biosynthetic gas, bio - oil, bio - hydrogen etc. - Classification of biofuels according to their source - Forest biomass, agriculture biomass, fishery products or municipal waste biomass etc. - Classification of biomass basis on their physical state - Solid pellets i.e. fuelwood, charcoal, and wood pallets - Liquid such as ethanol, biodiesel etc. - Gaseous such as biogas"
+        },
+        {
+          "id": "88.1",
+          "title": "Classification based on processed form or in the unprocessed form",
+          "content": "- Primary biofuels are used in an unprocessed form primarily for heating, cooking or electricity production. These fuels include wood pellets, lumbar, charcoal, corn, sugarcane, and others - Secondary biofuels are generated by processing of plants/crops biomass that can be used in vehicles and various industrial processes."
+        },
+        {
+          "id": "89.1",
+          "title": "Advantages",
+          "content": "- Cost benefit: biofuels have the potential to be significantly less expensive than gasoline and other fossil fuels. - Easy to source: gasoline is refined from crude oil, which happens to be non - renewable resource. Biofuels are made from many different sources such as manure, waste from crop and plants grown specifically for fuel. - Renewable: Most of the sources like manure, corn, switchgrass, soya beans, waste from crops and plants are renewable and are not likely to run out. - Reduce GHGs: - Lower level of pollution"
+        },
+        {
+          "id": "90.1",
+          "title": "Disadvantages",
+          "content": "- Energy output: biofuels have lower energy output than traditional fuels and therefore require greater quantities to be consumed in order to produce the same energy level - Increased food prices - Water use - Massive quantity of water is required for proper irrigation of biofuels crops. - Future of Biofuels - PM\u2019s Special Assistant on Energy Nadeem Babar said the ratio of renewable energy in the energy mix was only six percent and the new policy was aimed to increase this ratio up to 20 percent by 2025. He said electricity generation from renewable energy was the main purpose under the new policy where provision of cheapest electricity to people could be made possible. He also informed the meeting that efforts were being made to utilize solar, wind, municipal waste, hydrogen, biogas, biofuel and waves of Ocean like renewable resources to produce energy, adding new methods would also be used for storage of this energy."
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "subject": "General Science",
+      "topic": "Introduction of an Atom",
+      "subtopics": [
+        {
+          "id": "92.1",
+          "title": "Atom",
+          "content": "- Smallest particle that cannot be further sub - divided. - Fundamental Particles of an atom - Proton, Electron and proton - Atomic Number (Z) - total number of proton or electron in an atom. - Atomic Mass(A) Total number of proton and neutron in an atom. - Shell - K, L, M, N"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "subject": "General Science",
+      "topic": "Why do atoms form bonds?",
+      "subtopics": [
+        {
+          "id": "93.1",
+          "title": "Atoms form bond to make complete their Octet rule or Duplet rule. In other words, to make themselves stable.",
+          "content": "- Octet Rule - The octet rule refers to the tendency of atoms to prefer to have eight electrons in the valence shell. - Duplet Rule - The octet rule refers to the tendency of atoms to prefer to have two electrons in the valence shell."
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "subject": "General Science",
+      "topic": "Electronic Configuration and Structures of Atoms",
+      "subtopics": [
+        {
+          "id": "94.1",
+          "title": "Na (11)",
+          "content": "- H (1) - N (7) - O (8) - Cl (17) - F (9) - C (6)"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "subject": "General Science",
+      "topic": "Chemical Bonding",
+      "subtopics": [
+        {
+          "id": "95.1",
+          "title": "Ionic Bond",
+          "content": "- Complete transfer of valence electrons from one atom to another. - Example of NaCl."
+        },
+        {
+          "id": "96.1",
+          "title": "Covalent Bond",
+          "content": "- Type of bond involves sharing of electrons between atoms. - Types of covalent bond - Single covalent bond - Example of hydrogen molecules"
+        },
+        {
+          "id": "97.1",
+          "title": "Double Covalent Bond",
+          "content": "- Example of Oxygen Molecule"
+        },
+        {
+          "id": "98.1",
+          "title": "Triple Covalent Bond",
+          "content": "- Example of Nitrogen Molecule"
+        },
+        {
+          "id": "99.1",
+          "title": "Molecular Orbital Theory",
+          "content": "- It is a method of describing electronic structure of molecule. - Example of NH3 and H2O. - Structure of H2O"
+        },
+        {
+          "id": "100.1",
+          "title": "Structure of NH3.",
+          "content": ""
+        },
+        {
+          "id": "101.1",
+          "title": "Co",
+          "content": "- ordinate Covalent Bond/Dative Bond - A coordinate bond is a covalent bond between two atoms where one of the atoms provides both electrons that form the bond. - Concept of donor and acceptor. - Example of [NH4]+ ion."
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "subject": "General Science",
+      "topic": "Electromagnetic Radiations",
+      "subtopics": [
+        {
+          "id": "102.1",
+          "title": "Electromagnetic (EM) radiation is a form of energy that is all around us and takes many forms, such as RMIVUXY.",
+          "content": "- Ionizing and non - ionizing - X - rays and Gamma rays are ionizing due to their high energy and high frequency. - Spectrum"
+        },
+        {
+          "id": "103.1",
+          "title": "Characteristics of EMR 1. Amplitude, Frequency and speed. 2. EMR does not need medium for their propagation. 3. They travel with the speed of light. 4. The electric and magnetic waves have oscillations that are oriented 90 degrees from each other and 90 degrees from the direction of travel of the wave.",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "subject": "General Science",
+      "topic": "CERAMICS",
+      "subtopics": [
+        {
+          "id": "105.1",
+          "title": "A ceramics is an inorganic non",
+          "content": "- metallic solid made up of clay that have been shaped and then hardened by heating to high temperature. It includes materials like bricks, plates, glasses, etc. - How ceramics are made - Traditional: Firing is the traditional method. - First step is digging ground for clay then mixing it with water. - Then material is forced into shape with the help of extrusion machines (forcing a material into shape by squeezing it like toothpaste through a shaped tool) - Materials are laid in a automatically rotating mold : Jiggering (laying the material automatically into a rotating mold) - Powdered Ceramic material is then heated and pressed to fuse the material into shape: Hot pressing (forcing a powdered form of the ceramics into a mold then simultaneously heating it and pressing it to fuse the material into shape)"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "subject": "General Science",
+      "topic": "GENERAL PROPERTIES OF CERAMICS",
+      "subtopics": [
+        {
+          "id": "106.1",
+          "title": "They are hard, extremely strong and wear resistant.",
+          "content": "- Durable - Refractory materials: can tolerate high temperature - Corrosion resistant - Inert to chemical reactions - Thermal, electrical insulators and non magnetic. - Oxidation resistant - Brittle"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "subject": "General Science",
+      "topic": "PLASTICS",
+      "subtopics": [
+        {
+          "id": "107.1",
+          "title": "Plastics are synthetic organic materials that can be shaped into variety of products under heat. In general, that are made up of long, chain like molecules called polymers.",
+          "content": "- General Properties - They are lighter than many materials of comparable strength - Do not rust or rot - Corrosion resistant and can be produced in many colors or transparent - Lower density than of metals - Electrical insulators - Withstand temperatures - Chemically stable and not brittle"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "subject": "General Science",
+      "topic": "TYPES OF PLASTICS & HAZARDS",
+      "subtopics": [
+        {
+          "id": "108.1",
+          "title": "Thermoplastics",
+          "content": "- Thermoplastics can be repeatedly softened by heating and hardened by cooling. Examples include Polyethylene, Polyvinyl Chloride (PVC), Polystyrene etc. - Thermosetting Plastics - Those plastics which can be molded once and cannot be remolded again and again. Examples include Epoxy, Unsaturated Polystyrene, Phenolic etc. - Limitation/Hazards of Plastics - Chemicals in plastics are absorbed by human bodies - Plastic debris, often ingested by animals: wildlife poisoning - Plastic buried deep in landfills can leach its chemicals in groundwater - Oil is used which leads to environmental pollution - Burning plastics can result in toxic fumes"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "subject": "General Science",
+      "topic": "ADVANTAGES OF PLASTICS",
+      "subtopics": [
+        {
+          "id": "109.1",
+          "title": "Polyethylene",
+          "content": "- It is mostly used in plastic because it is inexpensive, flexible, tough and chemical resistant. It can be molded into bottles, plastic toy, bags etc. - PVC - It is used to form pipe, compact discs and computer casings. - Polystyrene - It is used to form toys, model aircraft kits and ballpoints etc. - Epoxy - It has great importance in the aerospace industry because they are tough and extremely weather resistant and do not shrink as they dry. - Unsaturated Polystyrene - They can be molded into products such as shower floors, small boats hulls and roofing materials. - Phenolic - They are excellent electrical resistant, so they are used in producing things like electrical circuit boards, electrical switches, radio and television casings"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "subject": "General Science",
+      "topic": "IMMUNIZATION / VACCINATION",
+      "subtopics": [
+        {
+          "id": "110.1",
+          "title": "A method of stimulating resistance in the human body to specific diseases is called vaccination. Whereas, a vaccine is a biological preparation that improves immunity to a particular disease.",
+          "content": "- Working of a Vaccine - Vaccines work by stimulating our immune system to produce antibodies without actually infecting us with the disease. Vaccine triggers the immune system to produce its own antibodies against disease as though the body has been infected with it. This is called \u201cActive Immunity\u201d. If the vaccinated person then comes into contact with the disease itself, their immune system will recognize it and immediately produce the antibodies they need to fight. - Delivery system - There are several new delivery systems in development in the hope of making vaccines more efficient to deliver. The latest development in vaccine delivery technologies have resulted in oral vaccines. - Objective - In 1885, Louis Pasture created the first successful vaccine against rabies for young boy who has been bitten 14 times by a rabid dog."
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "subject": "General Science",
+      "topic": "TYPES OF VACCINES",
+      "subtopics": [
+        {
+          "id": "111.1",
+          "title": "Live, Attenuated (weakened )",
+          "content": "- Live viruses used in some vaccines and should not be given to individuals with weakened or damaged immune systems. - Killed (Inactivated ) - Viruses or bacteria are used in some vaccines and it is generally safe for those with weakened or damaged immune system. - Toxoid Vaccines - Toxins secreted by bacteria are inactivated to make toxoid vaccines. - Conjugate vaccines - It contains parts of bacteria combined with proteins."
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "subject": "General Science",
+      "topic": "ANTIBIOTICS",
+      "subtopics": [
+        {
+          "id": "112.1",
+          "title": "Antibiotics (Anti means against; Bios means life) are chemical compounds used to kill or inhibit the growth of infectious organisms.",
+          "content": "- How do Antibiotic works - They kill bacteria by disrupting one of the processes they need to survive. - They stop bacteria from reproducing and multiplying. - Side Effects of Antibiotics - The most common side effect of antibiotics is its effect on digestive system. These occur in around 1 in 10 people. Side effects of antibiotics that affect the digestive system includes - Feeling sick - Diarrhea - Bloating and indigestion - Abdominal pain - Loss of appetite"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "subject": "General Science",
+      "topic": "TYPES OF ANTIBIOTICS",
+      "subtopics": [
+        {
+          "id": "113.1",
+          "title": "Penicillins",
+          "content": "- to treat certain infections such as skin infections, chest infections and urinary tract infections. - Cephalosporins - to treat serious infections. - Aminoglycosides - Tend to only be used in hospital to treat very serious illnesses, as they can cause serious side effects, including hearing and kidney damages. - Tetracyclines - Can be used to treat wide range of infections. - Macrolides - Used in treating lungs and chest infections. - Fluoroquinolones - Broad spectrum antibiotics that can be used to treat wide range of infections."
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "subject": "General Science",
+      "topic": "EFFECT OF INDISCRIMINATE/CASUAL USE OF ANTIBIOTICS",
+      "subtopics": [
+        {
+          "id": "114.1",
+          "title": "Self",
+          "content": "- medication of antibiotics leads to nausea, vomiting and diarrhea and other severe problems. - Antibiotics also kill useful bacteria present in intestine. This disturbs the natural balance of intestinal bacteria fauna. - Indiscriminate use of antibiotics makes the pathogens resistant. - Taking antibiotics too often or for the wrong reasons can change bacteria so much that antibiotics don't work against them. This is called bacterial resistance or antibiotic resistance. - Using antibiotics to treat minor conditions that would have got better anyway. It has led to the emergence of \u201cSuperbugs\u201d - these are strains of bacteria that have developed resistance to many different types of antibiotics and are causing deaths worldwide."
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "subject": "General Science",
+      "topic": "PESTICIDES",
+      "subtopics": [
+        {
+          "id": "115.1",
+          "title": "An insect, animal, fungi, weed etc are called Pests when their number increases to such an extent that they start economic losses to human being. Pesticide is any substance, which is used to destroy the action of pests.",
+          "content": "- Classification on the basis of target - Insecticides - used to destroy the insects - Rodenticides - used to kill rodents like rats, mouse etc. - Nematocides - used to kill nematodes. - Fungicides - used to kill fungi - Weedicides - used to kill weeds - Herbicides - used to kill unwanted plants. - Classification on the basis of chemical nature - Organic pesticides - carbon as the basis of their molecular structure and these are complex in nature. - Inorganic pesticides - Sulphur and lime as the basis of their molecular structure and these are simple in nature."
+        },
+        {
+          "id": "116.1",
+          "title": "Hazards of Pesticides",
+          "content": "- Pesticides kill beneficial insects - Groundwater contamination - There is possibility of pesticides in human food, either by direct application onto the food. - It can cause skin cancer - Some pesticides are not easily degradable, so they remain in the environment for longer period of time. - Insecticides can enter into the fruits which in turns can enter into the bodies of human beings. - Pesticides have negative impact on human health ranging from short - term impacts such as headaches and nausea to chronic impacts like cancer, reproductive problems and endocrine disruptions."
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "subject": "General Science",
+      "topic": "PAST PAPER QUESTIONS",
+      "subtopics": [
+        {
+          "id": "117.1",
+          "title": "Define the term Ceramics. (CSS",
+          "content": "- 1996, CSS - 2001) - Write a brief note on CERAMICS. (CSS - 2007, CSS - 2008) - Is plastic a natural or an artificial polymer? Describe various types of plastics and their uses. (CSS - 1986, CSS - 2002, CSS - 2011) - What are PLASTCS? Describe briefly their characteristics and Limitations. (CSS - 2008) - Why an indiscriminate/casual use of Antibiotics may prove dangerous? (CSS - 2019) - What's the difference between vaccines and antibiotics? How do antibiotics and vaccines contribute to health? (CSS - 2019) - What's the difference between vaccines and antibiotics? (CSS - 2008,) - Write a short note on Antibiotics. (CSS - 2001,CSS - 2002, CSS - 2007,CSS - 2015) - Write a short note on vaccine. (CSS - 2001, CSS - 2007) - Write a short note on Pesticide (CSS - 2001,2002,2003) - What are pesticides? Explain how these are dangerous to human beings? (CSS - 2010) - Write all that you know about Pesticides. How are they classified by agronomists? (CSS - 2013) - What are pesticides? Explain their different types; why persistent pesticides are more lethal for mankind ? (CSS - 2020)"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "subject": "General Science",
+      "topic": "History of Cell",
+      "subtopics": [
+        {
+          "id": "118.1",
+          "title": "Cell is the structural and functional unit of life.",
+          "content": "- Cell was discovered by Robert Hooke in 1665. - Cytology is the study of all aspects of cell. - Main Points of Cell Theory by Scheilden and Schwann - Cell is composed of three parts - Outer membrane - Cytoplasm (The fluid surrounding the nucleus) - Nucleus (present at the center of cell) - Different Types of Cells - Prokaryotes - Eukaryotes"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "subject": "General Science",
+      "topic": "Types of Cell",
+      "subtopics": [
+        {
+          "id": "119.1",
+          "title": "Prokaryotes",
+          "content": "- (pro - KAR - ee - ot - es) (from Old Greek pro - before + karyon nut or kernel, referring to the cell nucleus, + suffix - otos, pl. - otes; also spelled \"procaryotes\") are organisms without a cell nucleus (= karyon), or any other membrane - bound organelles. In prokaryotic, genetic information might be bundled up into a section of the cell called as nucleoid and it\u2019s not membrane - bound - Eukaryotes - Eukaryotic cells contain a membrane - bounded nucleus and numerous membrane - enclosed organelles (mitochondria, lysosomes, golgi apparatus etc.) not found in prokaryotes. So, the genetic information would be inside a membrane bound nucleus."
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "subject": "General Science",
+      "topic": "Cell Organelles",
+      "subtopics": [
+        {
+          "id": "120.1",
+          "title": "Plasma Membrane",
+          "content": "- Outer most boundary of the cell. Covered by cell wall in plant cells. - Structure of Plasma membrane - Composed of four different types of molecules: Phospholipids, cholesterol, Proteins, Carbohydrates. - Fluid mosaic model: - Cell membrane is not solid rather like a vegetable oil with individual molecules floating. So, all individual molecules are just floating in a fluid medium. - It is also a mosaic of above mentioned four type of molecules. - Functions of Plasma membrane - Helps in transport of material: barrier between cell contents and environment. - Semi permeable membrane: only selective substances can pass through - Lipid and protein molecule helps in performing transport movement"
+        },
+        {
+          "id": "121.1",
+          "title": "Plasma Membrane",
+          "content": ""
+        },
+        {
+          "id": "122.1",
+          "title": "Cytoplasm",
+          "content": "- Living content of the protoplasm between plasma membrane and nucleus is cytoplasm. The living contents (Nucleus and Cytoplasm) collectively form Protoplasm. - Cytoplasm has two parts: cytosol and organelles - Cytosol: soluble part chemically 90% water, having all fundamental molecules in two forms: - True solution: small molecules and ions form true solutions - Colloidal solution: large molecules and ions form a colloidal solution either sol (Non viscous) or Gel (viscous) - Function of Cytoplasm - Storage house for compounds like starch. - Metabolic processes occur in cytoplasm. - Streaming movements of cytoplasm helps free floating organelles like mitochondria to move in cytoplasm"
+        },
+        {
+          "id": "123.1",
+          "title": "Nucleus",
+          "content": "- Dark, prominent body, having spherical or irregular shape called nucleus was discovered by Robert Brown in 1831. - It is made up of four parts: Nuclear membrane, nucleolus, nucleoplasm and chromosomes."
+        },
+        {
+          "id": "124.1",
+          "title": "Nuclear membrane",
+          "content": "- Nuclear membrane separates the nucleoplasm from the cytoplasm. There are nuclear pores present in nuclear membrane, through which exchange of material take place between cytoplasm and nucleoplasm - Number of pores are variable. - Nucleoplasm - It is the liquid material present inside the nuclear membrane. - Nucleolus - It is darkly stained body within the nucleus. It is without any membranous boundary, which separates it from the other nuclear material. - Chromosomes - Nucleus contains chromatin material which changes into chromosomes at the time of cell division. - Functions of Nucleus - It controls all the activities of cell - It controls the transfer of hereditary characters from parents to offspring - Three types of RNA\u2019s are synthesized in the nucleus i.e. mRNA, tRNA, rRNA. These RNAs are involved in the synthesis of proteins."
+        },
+        {
+          "id": "125.1",
+          "title": "Mitochondria",
+          "content": "- They are known as Power House of the Cell - Their number is different in different cells, depending upon the nature of cell. - They have two membrane; outer and inner membrane. - Inner membrane form finger like folding called Cristae. - Inside the mitochondria, there present a liquid material called Matrix. - Chemically mitochondria is composed of lipids and proteins and its matrix contains a lot of enzymes, co enzymes, organic and inorganic salts, which are used in the formation of ATP. - Functions of Mitochondria - Activities like aerobic respiration and fatty acid metabolism take place in mitochondria. - They synthesize ATP (Adenosine Tri Phosphate), which is used to provide energy in cell."
+        },
+        {
+          "id": "126.1",
+          "title": "Mitochondria",
+          "content": ""
+        },
+        {
+          "id": "127.1",
+          "title": "Endoplasmic Reticulum",
+          "content": "- It is network of channels extending from nuclear membrane to the cell membrane. The walls of these channels are called Cisternae. - Types - Rough ER - On which ribosomes are attached. They are involved in synthesis of proteins. - Smooth ER - These are without ribosomes. These are involved in metabolism lipids, and transport of material from part of cell to other parts. - Functions of ER. - Mechanical support: so that the shape of the cell is maintained. - Transport of materials: SER transports material within cell. - Synthesis of Proteins: RER - Storage of Compounds: like proteins - Metabolism of lipids: - Detoxification of drugs"
+        },
+        {
+          "id": "128.1",
+          "title": "Golgi Apparatus",
+          "content": "- It consists of membrane bound sacs called Cisternae and vesicles. - Secretory vesicles are tiny little packages in which certain cell secretions can be transported - Functions of Golgi Apparatus - Protein, which is synthesized on RER, is transferred to Golgi apparatus, where it is converted into finished product and are exported outside the cell or within the cell where it is necessary. - They add carbohydrates to protein and lipids."
+        },
+        {
+          "id": "129.1",
+          "title": "Golgi Apparatus",
+          "content": ""
+        },
+        {
+          "id": "130.1",
+          "title": "Lysosomes",
+          "content": "- Isolated by De Duve in 1949. \u201cLyso\u201d means dissolution and \u201csoma\u201d means body. Found only in eukaryotic cells - Structure: It is a single membrane bound simple sac contains several hydrolytic enzymes - Formation: - Enzymes are synthesized by ribosomes present on RER. - Transferred to Golgi apparatus where they are processed and packed into vesicles. These packed vesicles are called as lysosomes. - Functions of Lysosomes - Phagocytosis: any foreign product that enters in the cell is engulfed by lysosome and is broken down into digestible pieces. - Intracellular digestion: Lysosomes contain enzymes which can digest the food. - Autophagy: self eating of old or broken up parts of cells like old mitochondria."
+        },
+        {
+          "id": "131.1",
+          "title": "Lysosomes",
+          "content": ""
+        },
+        {
+          "id": "132.1",
+          "title": "Plastids",
+          "content": "- They are only present in plant cell. They are of three types - Chloroplast - These are green plastids have owed their color to the presence of chlorophyll. These occur abundantly in green leaves. It synthesize carbohydrates from carbon dioxide and water by the process of photosynthesis. - Chromoplasts - They are present in petals of flower. This plastid contains pigments other than green. These imparts various color effects to flowers and fruits. These attract insects and other animals to ensure pollination and dispersal. - Leucoplasts - They are present in underground parts of plant. They are colorless. They help to store food."
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "subject": "General Science",
+      "topic": "Human Physiology",
+      "subtopics": [
+        {
+          "id": "133.1",
+          "title": "Human physiology include following topics",
+          "content": "- Endocrine Glands - Circulatory System - Digestive System - Excretory System - Central Nervous System"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "subject": "General Science",
+      "topic": "Glands",
+      "subtopics": [
+        {
+          "id": "134.1",
+          "title": "Gland is a group of cells which secrete special chemicals called hormones.",
+          "content": "- Types of Glands - Endocrine Gland - They secrete hormones directly into the blood stream for example thyroid gland - Exocrine Gland - They release their products onto body surfaces like the skin such as sweet glands, salivary glands. - Major Endocrine Glands - Pituitary Gland - Thyroid Gland - Parathyroid Gland - Adrenal Gland - Pancreas - Gonads - Pineal Gland"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "subject": "General Science",
+      "topic": "Major Endocrine Glands",
+      "subtopics": [
+        {
+          "id": "135.1",
+          "title": "Hypothalamus",
+          "content": "- It is a part of forebrain. It secretes oxytocin and antidiuretic hormone (ADH), which are stored in the posterior part of pituitary gland. It controls all endocrine glands. - Pituitary Gland - Pituitary gland is very small (equal to the size of pea). It is also called master gland because it control the secretion of other glands. - It is divided into two sections - an anterior (meaning front) and posterior (meaning back) - Hormones released from the anterior pituitary are - Thyroid - Stimulating Hormone (TSH) - Adrenocorticotrophic Hormone (ACTH) - Follicle - Stimulating Hormone (FSH) - Luteinizing Hormone (LH) - Prolactin (PRL) - Growth Hormone (GH) - Melanocyte Stimulating Hormone (MSH) - Hormones released from the posterior pituitary are - Anti - Diuretic Hormone (ADH) - Oxytocin"
+        },
+        {
+          "id": "136.1",
+          "title": "Thyroid Gland",
+          "content": "- It is in the center of the neck, at the front, below the Adam\u2019s Apple. It is made of two lobes joined in the center. - It secretes major hormones - Thyroxin and Calcitonin - The body needs a substance called iodine which is found mainly in salt. Deficiency of iodine can lead to swelling of thyroid gland; a condition termed as Goiter - Parathyroid Gland - These glands are present on the thyroid gland. These are 4 in numbers. Their secretion is called Para - thyroxin or Para - thormone. - It increases the concentration of Calcium ion in the blood."
+        },
+        {
+          "id": "137.1",
+          "title": "Adrenal Glands",
+          "content": "- Adrenal gland also known as suprarenal glands are yellow pyramid - shaped glands located at the top of the kidney. Each adrenal gland has 2 parts - Adrenal Medulla (inside) - Adrenal Cortex (outside) - Adrenal cortex secretes two hormones called Cortisol and Aldosterone. - Adrenal medulla secretes two important hormones named as Adrenalin and Nonadrelin. - These are released during fight, flight and fear. - Pancreas - It is only gland in the body which acts as both exocrine and endocrine at the same time. It secretes two hormones, Insulin and Glucagon. - The effects of glucagon are opposite to those of Insulin. It raises the level of glucose in the blood while insulin reduces the level of glucose. - Pineal Gland - The pineal gland is a small, pea - shaped gland in the brain. It produces Serotonin (Modulates sleep patterns), and Melatonin (Regulates melanin production in the body)."
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "subject": "General Science",
+      "topic": "Human Coordination System",
+      "subtopics": [
+        {
+          "id": "138.1",
+          "title": "Nervous system is our body\u2019s decision and communication center",
+          "content": "- It is made up of two parts - Central Nervous system: brain and spinal cord. - Peripheral nervous system: cranial and spinal nerves - Neuron - The structural and functional unit of nervous system. - Central Nervous System - Processing center of the nervous system - Receives information from and sends information to the peripheral nervous system - Brain and spinal cord are protected by three layers of connective tissues called meninges"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "subject": "General Science",
+      "topic": "Neuron",
+      "subtopics": [
+        {
+          "id": "139.1",
+          "title": "Transmitters of message in the body.",
+          "content": "- Transmits electrochemical signal at the speed of 200 mph. - Three basic parts: - Cell body: have all cellular components - Axon: long cable that carries electric signal, Axons are covered with myelin sheets. - Dendrites: small branch like projections, they connect one neuron with the other or neuron with the environment."
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "subject": "General Science",
+      "topic": "Types of Neuron",
+      "subtopics": [
+        {
+          "id": "140.1",
+          "title": "Sensory Neurons",
+          "content": "- Carry signals from outer body to CNS - Motor Neurons - Carry signals from CNS to the other parts of the body. - Inter Neurons - Carry information between motor and sensory neurons."
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "subject": "General Science",
+      "topic": "Brain",
+      "subtopics": [
+        {
+          "id": "141.1",
+          "title": "Brain has three parts",
+          "content": "- Forebrain: The Thalamus, Limbic System, Cerebrum - Mid brain - Hind brain: cerebellum, pons and medulla. - Forebrain - The thalamus - It transfer sensory information to the limbic system. Sensory information includes auditory and visual information. It also transfer information from skin to limbic system. - Limbic system (Hypothalamus, Amygdala, Hippocampus) - Hypothalamus - It controls body temperature, hunger, menstrual cycle, water balance and the sleep - wake cycle - Amygdala - It produces sensation of pleasure, punishment, feeling of fear and rage. - Hippocampus - it controls long term memory and is required for learning. - Cerebrum - It is the largest part of brain. It is divided into two halves, called hemisphere which are connected with each other through a band of neurons called Corpus Callosum. Left hemisphere controls right side of the body, while right hemisphere controls left side of the body. - Outer region of cerebrum is called cerebral cortex. It receives sensory information, processes them and stores them in memory for future use. It also controls voluntary movements, and is responsible for thinking."
+        },
+        {
+          "id": "142.1",
+          "title": "Midbrain",
+          "content": "- It connects forebrain with the hind brain. It contains reticular information, which is important in screening the input information. It contains relay center for auditory information. - Hindbrain - Medulla (It controls breathing, heart rate, blood pressure and swallowing) - Pons (It controls transitions between sleep and wakefulness) - Cerebellum (it is important in coordinating movements and maintaining position of the body. It is also involved in learning and memory storage.)"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "subject": "General Science",
+      "topic": "The Spinal Cord",
+      "subtopics": [
+        {
+          "id": "143.1",
+          "title": "Medulla oblongata narrows down into an oval shaped hollow cylinder, which is running through the vertebral column called spinal cord.",
+          "content": "- Extends from lower part of the brain down through spine. - Surrounded by cerebral spinal fluid that acts like a cushion\u2019 - Various nerves branch out to the body. - 31 pairs of spinal nerves throughout the vertebral column"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "subject": "General Science",
+      "topic": "Peripheral nervous system",
+      "subtopics": [
+        {
+          "id": "144.1",
+          "title": "Consists of 12 pairs of cranial nerves and 31 pairs of spinal nerves",
+          "content": "- Sensory cells: carry messages to CNS - Motor cells: carry signal from CNS to internal organs. - Motor Cells are of two types: - Somatic motor nerve cells: carry message from the outer areas of the body. They are related with the senses of an individual. (Voluntary control) - Autonomic Motor nerve cells: they are of three types (Involuntary control) - Parasympathetic: slowing body functions - Sympathetic: increases body functions - Enteric division: involved with all the functions in Gastrointestinal areas, pancreas, gall bladder"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "subject": "General Science",
+      "topic": "Excretory System",
+      "subtopics": [
+        {
+          "id": "145.1",
+          "title": "The system in which metabolic waste products are excreted out of the body is called excretory system. A pair of kidney is present for the excretion of metabolic waste products.",
+          "content": "- Structure of kidney - Each kidney is bean shaped. Its weight is less than 1% of the total weight of the body. In each kidney there is lighter outer region which is called cortex. The inner pale region is known as Medulla. There are cone shaped structure present in medulla which are known as pyramids. There is a funnel like space into which pyramids project, called Pelvis."
+        },
+        {
+          "id": "146.1",
+          "title": "Structure of Nephron",
+          "content": "- Nephron is the structural and functional unit of kidney. Nephrons are arranged along the both cortex and medulla region. There is a cup shape structure present at proximal end of each nephron called Bowman\u2019s Capsule. From Bowman\u2019s capsule there arises a long narrow tube, which is further divided into three parts - Convoluted part known as proximal tubule - Long U shaped part called Loop of Henle - Convoluted part known as Distal tubule. - Distal tubule opens into a duct called collecting duct. Afferent artery enters into the Bowman\u2019s capsule and divide repeatedly to form a ball like structure Glomerulus. Walls of the Glomerulus are porous. From Glomerulus there arises efferent arteriole which forms a network of capillaries around the proximal, loop of Henle and distal tubule."
+        },
+        {
+          "id": "147.1",
+          "title": "Working of Nephron",
+          "content": "- Filtration - impure blood enter into Glomerulus through afferent arteriole in very high pressure, due to high pressure, impure blood get filtered in glomerulus and impure substances from impure blood passes the wall of glomerulus and Bowman\u2019s capsule. The substance which passes the wall of glomerulus and bowman\u2019s capsule are called filtrate . Filtrate composed of glucose, salt, urea, vitamins and excess water. - Reabsorption - When filtrate goes to distal tubule, important substances from filtrate like glucose, vitamins and some salt get absorbed by blood through osmosis. - Secretion - The inner layer of the nephron also secretes nitrogenous waste products into the lumen of nephron."
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "subject": "General Science",
+      "topic": "Circulatory System",
+      "subtopics": [
+        {
+          "id": "148.1",
+          "title": "The system in which gases are circulated throughout the body is called circulatory system. It consists of three parts, Blood, Blood Vessels, dan Heart.",
+          "content": "- Blood - Blood is composed of 55% plasma and 45% blood cells. - Plasma (8% Solid, 2% Gases, 90% Water)"
+        },
+        {
+          "id": "149.1",
+          "title": "Blood Vessels",
+          "content": "- Arteries: these carry oxygenated blood except pulmonary artery. These carry blood from heart and distribute it to other parts of body. Blood pressure in arteries is more as compared to other blood vessels. - Veins: these carry deoxygenated blood except pulmonary veins. These carry blood from body to heart. Blood pressure in veins is low as compared to arteries. - Capillaries: these carry both oxygenated and deoxygenated blood. Blood pressure in capillaries is least. The wall of capillaries is only one cell thick."
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "subject": "General Science",
+      "topic": "Circulatory System (Human heart)",
+      "subtopics": [
+        {
+          "id": "150.1",
+          "title": "it is sac like pumping organ. It is enclosed in a double membrane sac called pericardial cavity. Heart is composed of special muscles called cardiac muscles.",
+          "content": "- Structure - There are 4 chambers of human heart. Two upper chambers, right and left are called atria which are thin walled. Two lower chambers are called ventricles which are thick walled. Right atrium and right ventricle are completely separated from left atrium and ventricle. - Circulation of Blood in the Heart"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "subject": "General Science",
+      "topic": "Digestive System",
+      "subtopics": [
+        {
+          "id": "151.1",
+          "title": "The system in which breakdown of larger food particles to smaller absorbable food particles take place is called digestive system.",
+          "content": "- It consists of following parts - Oral cavity - Esophagus - Stomach - Small intestine - Pancreas - Liver - Large intestine"
+        },
+        {
+          "id": "152.1",
+          "title": "Oral cavity (Mouth)",
+          "content": "- In oral cavity three structures are present, teeth, tongue, and salivary glands. - Teeth helps in grinding the food, tongue helps in mixing the food with the saliva of salivary glands. - Components of Saliva - Water: lubricates the food - Sodium bicarbonate: It helps to stabilize the PH of food. - Amylase enzyme: it acts on starch and glycogen and converts them into maltose. Wen food leaves the oral cavity then it is in the form of small ball like structure called bolus. This bolus then enters into the next part of digestive system called esophagus. - Esophagus - Esophagus is like a pipe which starts from the oral cavity and ends at the stomach. Its walls are composed of muscles. These muscles help in movement of the bolus from the esophagus. The movement of food from the esophagus and the whole digestive system is called Peristalsis Movement. - During peristalsis movement muscle squeezes just behind the bolus and push it forward."
+        },
+        {
+          "id": "153.1",
+          "title": "Stomach",
+          "content": "- The stomach muscle churn and mix the food with acids and enzymes, breaking it into much smaller digestible pieces. Glands in the stomach - lining produce about 2.8 liters of digestive juices each day. Gastric juice contains very strong acid HCl, digestive enzyme - pepsin. Acid attacks on microbes and kill them and helps in combustion of food. While pepsin acts on proteins and break them into smaller units. - Before the food leaves stomach it changes into semi - fluid like structure chyme, which enters into small intestine - Small Intestine - It has 3 parts, duodenum, jejunum, ILeum"
+        },
+        {
+          "id": "154.1",
+          "title": "Duodenum",
+          "content": "- It is the first part of small intestine. When food enters into duodenum it causes the release of secretion from pancreas and liver. Both pancreas and liver pour their secretion directly into duodenum. Duodenum itself only secretes one enzyme called enterokinase which helps in the activation of trypsinogen into trypsin. - Jejunum - It is the second part of small intestine. Food is completely digested in jejunum. It contains 5 enzymes, which converts molecules into smaller parts. - Ileum - It is the third portion of small intestine. Absorption of food take place In ileum. Internal surface of ileum has finger like projections called villi. Each villus is richly supplied with blood vessels, which absorb the food from ileum. Undigested food is not absorbed in ileum and is forward in large intestine."
+        },
+        {
+          "id": "155.1",
+          "title": "Large intestine",
+          "content": "- The large intestine forms an inverted U over the coil of the small intestine. It starts on the lower right hand side of the body and ends on the lower left hand side. - The large intestine serves important functions. - It absorbs water. - It dissolves salts from the residue passed on by the small intestine. - Bacteria in large intestine promote the breakdown of undigested material. - The large intestine moves its remaining contents towards the rectum."
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "subject": "General Science",
+      "topic": "Kingdom Plantae",
+      "subtopics": [
+        {
+          "id": "157.1",
+          "title": "Plantae is the plant kingdom which includes all plants on the earth. They are multicellular eukaryotes. Typically, they consists of a rigid structure that surrounds the cell membrane called the cell wall. Plants also have a green colored pigments called chlorophyll that are quite important for photosynthesis. Hence, they have an autotrophic mode of nutrition. Plant kingdom is a vast group; therefore, the kingdom is further classified into subgroups. Level of classification is based on the following 3 criteria,",
+          "content": "- Plant body - Whether the body has well - differentiated structures or not - Vascular system - Whether the plant has vascular system for transportation of substances or not - Seed formation - Whether the plants bears flowers and seed or not, if it does, then whether it is enclosed within fruits or not."
+        },
+        {
+          "id": "158.1",
+          "title": "Thallophyta",
+          "content": "- These are the lowermost plants of the plant kingdom, without a well - differentiated body design. This means the plant body is not differentiated as roots, stem, and leaves. - They are commonly called Algae and are aquatic. - Bryophyta - These are small terrestrial plants. They show differentiation in the body design with stem, leaf - like structure, and root - like structure. - They do not have any specialized tissue to conduct water and other substances. - They are amphibians of plant kingdom. - Mosses and marchantia belong to this group."
+        },
+        {
+          "id": "159.1",
+          "title": "Pteridophyta",
+          "content": "- These are supposed to be the oldest vascular plants. - The plant body is differentiated into roots, stem and leaves, apart from having a specialized tissue for conduction. - Xylem and phloem are present for the translocation of water and food respectively. - These plants have naked embryos called spores. - Fern is a common example. - Phanerogamae - These are seed bearing plants. The plant body is differentiated into roots, stem and leaves. - These are well differentiated reproductive tissues that produce seeds. - They also have well developed vascular system. - They are further classified into Gymnosperm and Angiosperm."
+        },
+        {
+          "id": "160.1",
+          "title": "Gymnosperms",
+          "content": "- These have well - differentiated plant body, vascular system and they bear seed. - The term is derived from Greek words, Gymno means naked and sperma means seed. Which means their seed is not enclosed withinfruit. - Pines, deodar, redwood are few examples. - Angiosperms - These have well - differentiated plant body, vascular system and they bear seed. - Seeds develop inside tissue that get modified to form the fruit of the plant. - The term comes from the Greek words angeion (\"case\" or \"casing\") and sperma (\"seed\"). - Mustard plant and pea plant."
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "subject": "General Science",
+      "topic": "Animal Kingdom",
+      "subtopics": [
+        {
+          "id": "161.1",
+          "title": "The animal kingdom includes eukaryotic multicellular organisms which exhibit heterotrophic nutrition. They are commonly known as animals and differ characteristically from the other major groups of plants, in their capacity to be able to move.",
+          "content": "- Animals are classified into: Non - Chordates and the Chordates. - Non - Chordates - Non - chordates are animals without notochord - the rod like elastic structure that support the body. - Chordates - Animal characterized by the presence of notochord."
+        },
+        {
+          "id": "162.1",
+          "title": "General characteristics of Non",
+          "content": "- chordates - They are cylindrical, triploblastic, coelomate, coelomate animals. - Respiration in these animals takes place through gills. - Most of the times, sexes cannot be distinguished among the members. - Modes of reproduction involve sexual and asexual - Fertilization is external, though internal fertilization also occurs in some species. - The body of non - chordates generally includes an open type of circulatory system. - Examples of this phylum include Balanoglossus and Saccoglossus."
+        },
+        {
+          "id": "163.1",
+          "title": "General characteristics of Chordates",
+          "content": "- They are bilaterally symmetrical, triploblastic, and coelomate with the organ - system level of organization. - They hold a post - anal tail. - The body includes a closed circulatory system. - In chordates, four common features appear at some point during development: a notochord, a dorsal hollow nerve cord, pharyngeal slits(Pharyngeal slits are openings in the pharynx (the region just posterior to the mouth) that extend to the outside environment), and a post - anal tail (The post - anal tail is a posterior elongation of the body, extending beyond the anus.)."
+        },
+        {
+          "id": "164.1",
+          "title": "Class Pisces (Fishes)",
+          "content": "- They are cold - blooded, aquatic animals, having a streamlined body and a pair of fins which are used for swimming. Tail fin help in changing of direction and exoskeleton is the form of scales. They also have without eyelids. Examples of class Pisces include dogfish and rahu. - Class Amphibia - They usually comprise of those organisms which are cold - blooded and are the habitat of the freshwaters or terrestrial. These organisms are characterized by the two pairs of limbs, smooth and moist skin for respiration. They have protruding eye which are provided with eyelid and eardrum. Examples are rog, toad and salamander."
+        },
+        {
+          "id": "165.1",
+          "title": "Class Reptilia",
+          "content": "- They compromise those organisms which are cold blooded, crawling on the ground with their dry skin bearing scales or bony plates. They are characterized by the presence of neck and the absence of external ear. Digits are provided with claws. Examples are tortoise, wall lizard and snake. - Class Aves (Birds) - They are warm blooded animals having streamlined body to lower air resistance during flight and their forelimbs are modified into wings. They are characterized by digits which are clawed and covered with scales, exoskeleton in the form of feathers and the presence of a neck and beak. Examples are parrots, pigeon, duck etc."
+        },
+        {
+          "id": "166.1",
+          "title": "Class Mammalia",
+          "content": "- These organisms are distinguished by the presence of mammary glands, a body that is divided into Head - Neck - Trunk - Tail. Digits are provided with claw, nails, hooves. The exoskeleton is in the form of fur or hairs and these species lack the external ear. They are warm blooded animal. - Monkey, Man, Lion, Bat, Rat, Squirrel etc."
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "subject": "General Science",
+      "topic": "The Atmosphere",
+      "subtopics": [
+        {
+          "id": "167.1",
+          "title": "Atmosphere",
+          "content": "- The envelope of gases surrounding the earth. - Gases in atmosphere (N=78%, O=21%, Trace gases) - Composition of Atmosphere - On the basis of composition, temperature and electrical properties. - Layers - Troposphere - Stratosphere - Mesosphere - Thermosphere - Exosphere"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "subject": "General Science",
+      "topic": "Composition of Atmosphere",
+      "subtopics": [
+        {
+          "id": "168.1",
+          "title": "Troposphere",
+          "content": "- 12 - 16km thick - Clouds, commercial airplanes, parachute, weather and climate - Density of gases decreases with height - air become thinner - temperature decreases - Temperature - 15\u02daC to - 50\u02daC, decrease in temperature - Stratosphere - Till 50kms, - 35kms thick - Lower (below ozone) tropopause, Upper (above ozone) - Supersonic planes, weather planes - 50\u02daC to - 3\u02daC, increase in temperature"
+        },
+        {
+          "id": "169.1",
+          "title": "Mesosphere",
+          "content": "- 50 - 80 km - decrease in temp as altitude increases. - Coldest layer (temp drops to - 93\u00b0C) - Meteors or rock fragments burns and radio waves travels . - Thermosphere - above 80 km - Temp about 1200\u00b0C - Satellite, space craft, radio signals"
+        },
+        {
+          "id": "170.1",
+          "title": "Exosphere",
+          "content": "- Region beyond thermosphere. Extends about 9600km - It is the outer limit of the atmosphere - Contains light gases like hydrogen and helium, and satellites orbit the earth. - Electrical properties - Neutral atmosphere - Below 60 km, no electrical properties - Ionosphere(60km \u2013 1000km) - UV rays, X - rays, and electrons from Sun ionize the atmospheric layers - electricity conduction. - Radio waves reflect back."
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "subject": "General Science",
+      "topic": "Lithosphere",
+      "subtopics": [
+        {
+          "id": "171.1",
+          "title": "Litho means rocky and sphaira means sphere.",
+          "content": "- Layers classified on - Physical - chemical - Physical Earth Crust (40km deep) solid oceanic (thin) continental (Thick) Mantle (2900km deep, 2800km thick) solid/plastic upper (1670 km thick) lower (1230 km thick) Core (3500km Thick) outer (2250 km thick) liquid inner (1250km thick) solid"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "subject": "General Science",
+      "topic": "Layers of Earth",
+      "subtopics": [
+        {
+          "id": "172.1",
+          "title": "Physical",
+          "content": "- Radius of earth: 6400 km - Lithosphere: 100km thick (crust + portion of upper mantle) brittle - Asthenosphere: remaining upper mantle (solid but ductile) - Mesosphere solid: lower mantle - Centrosphere: inner core - Chemical - Crust: alumina - silicate - Mantle: silicon, magnesium, iron - silicate - Core: nickel, iron"
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "subject": "General Science",
+      "topic": "Rock type",
+      "subtopics": [
+        {
+          "id": "173.1",
+          "title": "Igneous rocks",
+          "content": "- \u201cIgnis\u201d meaning fire. - Solidification and cooling of magma - Extrusive (granite, gabbro) - Intrusive rocks (obsidian, lava rock, basalt, pumice) - Magma is composed of molten rock and is stored in the Earth's crust. Lava is magma that reaches the surface of our planet through a volcano vent"
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "subject": "General Science",
+      "topic": "Rock Type",
+      "subtopics": [
+        {
+          "id": "174.1",
+          "title": "Sedimentary rocks",
+          "content": "- Weathering and erosion of pre - existing rock - Sediments - transportation - deposition - layers\u2019 formation (strata) - pressure - compaction - cementation in presence of gluing agent (water). - Conglomerate, sandstone, shale, limestone, gypsum, breccia."
+        },
+        {
+          "id": "175.1",
+          "title": "Metamorphic rock",
+          "content": "- The transformation of pre - existing rock into texturally distinct new rock as a result of high temperature and pressure or both, but without melting of rock - Slate, quartz"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "subject": "General Science",
+      "topic": "Hydrosphere",
+      "subtopics": [
+        {
+          "id": "178.1",
+          "title": "The hydrosphere is the part of the earth that contains water.",
+          "content": "- All of the water found on earth in oceans, seas, lakes, ponds, rivers and streams is called hydrosphere."
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "subject": "General Science",
+      "topic": "Past paper questions",
+      "subtopics": [
+        {
+          "id": "179.1",
+          "title": "What is hydrological cycle? Discuss its importance. (CSS",
+          "content": "- 2016)"
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "subject": "General Science",
+      "topic": "Biosphere",
+      "subtopics": [
+        {
+          "id": "180.1",
+          "title": "Earth\u2019s organisms live in the biosphere.",
+          "content": "- The life supporting zone of the earth where atmosphere, hydrosphere and lithosphere meet, interact and make life possible is bioshpere."
+        },
+        {
+          "id": "181.1",
+          "title": "Abiotic component (non",
+          "content": "- living component) - Hydrosphere + atmosphere + lithosphere - Biotic component (living component) - Animals + plants + microbes - Ecosystem - Self - sustaining structural and functional unit of biosphere"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "subject": "General Science",
+      "topic": "Level of organization",
+      "subtopics": [
+        {
+          "id": "182.1",
+          "title": "Individual",
+          "content": "- species - Population - community - ecosystem - biome - biosphere - Population: a group of individual living in a specific area at a given time period of a given specie. - Community: different population living together in a specific area at a given time period. - Ecosystem: all communities living with their abiotic environment at a given time period. - Biome: a set of ecosystems sharing similar properties of their abiotic factors. - Biosphere: sum of all ecosystems established on earth"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "subject": "General Science",
+      "topic": "Biomes",
+      "subtopics": [
+        {
+          "id": "183.1",
+          "title": "A group of ecosystems that have similar climates and organisms is called a biome.",
+          "content": "- Examples - The desert biome - The aquatic biome - The forest biome - The grassland biome - The tundra biome"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "subject": "General Science",
+      "topic": "Pollution and Pollutants",
+      "subtopics": [
+        {
+          "id": "184.1",
+          "title": "Polluted air, Pollution and pollutants",
+          "content": "- When air contains gases, dust or odor in harmful amount then it is called polluted air and The phenomenon through which air polluted is called air pollution. The substance that causes air pollution is called pollutants. - Primary pollutants - Directly get into air without any chemical reaction e.g. CO and SO2. - Secondary pollutants - Primary pollutants undergo chemical reaction e.g. HS2O4, O3 etc."
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "subject": "General Science",
+      "topic": "Sources and Effects of Pollutants",
+      "subtopics": [
+        {
+          "id": "185.1",
+          "title": "Carbon Monoxide",
+          "content": "- Natural - From volcanic eruption - Natural gas emission and oxidation of methane - Human activities - Fuel burning contributes to 75%. - Forests fire and combustion of agricultural products - Incomplete combustion of carbon. - Effects - Suffocation if inhaled - Breathing problem - Can cause headache, unconsciousness and eventually death."
+        },
+        {
+          "id": "186.1",
+          "title": "Nitrogen Oxide (NO, NO2)",
+          "content": "- Natural - Bacterial activities - Human activities - Produces by burning of coal, fuel, oil etc. - Burning of fuel in internal combustion engine. - Effects - Residence time is 2 and 4 days - Acid rain."
+        },
+        {
+          "id": "187.1",
+          "title": "Sulphur Oxide",
+          "content": "- Natural - Volcanoes produce 67%. - Oxidation of sulphur by decomposition of matter - Human activities - Combustion of fuel - Effects - Dangerous for people especially who have asthma - Pungent odor is irritating and suffocating - Acid rain."
+        },
+        {
+          "id": "188.1",
+          "title": "VOCs",
+          "content": "- Those organic compounds that easily become vapors or gases. - Sources - Paints, wood preservatives emits organic compounds like formaldehyde, benzene and methyl chloride. - Forest fire and volcanoes produce benzene. - Effects - Exposure causes dizziness, vomiting, and rapid heart beat - High exposure may cause death."
+        },
+        {
+          "id": "189.1",
+          "title": "Formaldehyde",
+          "content": "- Source is same - Effect - It can cause person mucous membrane to irritated in turn one feel uncomfortable. - Methyl Chloride - It founds in aerosol spray - Effect - Toxic can cause death, red eyes, tongue throat and stomach problem"
+        },
+        {
+          "id": "190.1",
+          "title": "Particulate matter",
+          "content": "- Mixture of liquid drops and solid particles - Coarse material - 2.5um to 10um. Formed from dust, construction sites. - Fine particle - Diameter < 2.5um - Effects - Fine particle can get into our blood streams - Breathing problem, irregular heartbeat, asthma."
+        },
+        {
+          "id": "191.1",
+          "title": "Tropospheric ozone",
+          "content": "- Stratosphere; protect us from UV rays - Troposphere; near surface of Earth - dangerous - Sources - Burning of coal, gasoline, fossil fuel - nitrogen oxide - Home and industries - VOCs - VOCs+ Nitrogen oxide - Ozone - Effects - Asthma, breathing issue, cough, sore throat, blood cells"
+        },
+        {
+          "id": "192.1",
+          "title": "Dioxin",
+          "content": "- General form that describes a group of hundreds of chemical that are highly persisted in the environment. - Sources - Burning of chlorine with hydrocarbons - Pesticides manufacturing - Paper mills emit it - Effects - Can cause cancer - Can damage immune system - Birth defects - Decrease fertility and sperm count."
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "subject": "General Science",
+      "topic": "Smog",
+      "subtopics": [
+        {
+          "id": "193.1",
+          "title": "Smog is an air pollution that reduces visibility. This term was first coined in the early 1900s.",
+          "content": "- Smog = Smoke (usually come from burning coal) + Fog - Formation of Smog - The atmospheric pollutants or gases that form smog are released in the air when fuels are burnt. When sunlight and its heat react with these gases and fine particles in the atmosphere, smog is formed. Photochemical smog is produced when sunlight reacts with Volatile organic compounds (VOC), sulfur dioxide (SO2) and nitrogen oxides (NOx) in the atmosphere. These VOC, SO2, and NOx are called precursors. In the 1950s a new type of smog, known as photochemical smog, was first described. - Classical Smog (London Smog)and Photochemical Smog (LA Smog) - Condition of formation of Smog"
+        },
+        {
+          "id": "194.1",
+          "title": "Effects of Smog",
+          "content": "- Chest infections/irritation - Eye irritation - Damage in crops - Worsening of asthma - Premature birth - Prevention - Following rules of Environmental Protection Agency (EPA) - Industrial area must be placed at away from residential area"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "subject": "General Science",
+      "topic": "ACID RAIN",
+      "subtopics": [
+        {
+          "id": "195.1",
+          "title": "Rain or any other form of precipitation that is unusually acidic, having elevated levels of hydrogen ion; low pH (less than 5.6)",
+          "content": "- Acidic Gases: CO2, CH4, CO, SOx, NOx - Sources of NOx and SOx - Wet Deposition of acids - precipitation removes acids from the atmosphere and delivers it to the Earth\u2019s surface - Dry Deposition of acids - acid particles deposit/stick to the ground, plants, buildings, etc. responsible for 20 \u2013 60% of the total acid deposition."
+        },
+        {
+          "id": "196.1",
+          "title": "Adverse effects",
+          "content": "- Surface water and aquatic animals - At pH lower than 5, most fish eggs will not hatch and lower pH can kill adult fish, fish\u2019s reproduction reduced. Biodiversity is reduced. Bioaccumulation of acids. Water bodies become acidic and unfit for life and usage. - Soil - Soil structure destroyed. Vital nutrients and substances washed away - Forests and other vegetation - Acid removes minerals from the soil and leaves - damage trees lose their leaves - stunted growth - damaged bark - fungi and insects attack on trees - tree dies - Human Health Effects - Buildings, monuments, minarets, gravestones - Buildings made of rocks such as limestone and marble (having CaCO3). Acids react with CaCO3 to form powdery gypsum CaSO4 that is washed away by rain"
+        },
+        {
+          "id": "197.1",
+          "title": "Solutions",
+          "content": "- Reduce emission of sulphur and nitrogen dioxide - Energy efficient products - Alternative power sources - Geothermal, solar, wind and water"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "subject": "General Science",
+      "topic": "OZONE DEPLETION",
+      "subtopics": [
+        {
+          "id": "198.1",
+          "title": "Ozone (Formation)",
+          "content": "- Protects our planet by acting as blanket. Absorbs UV rays. - ozone is good up high and bad nearby. - ODS - CFCs - accounts for 80% ozone depletion, One CFC molecule destroys 100,000 Ozone molecules - Halons (very stable, used in fire - extinguishers), - HCFCs (transitional substitute for CFCs, less destructive but still potent) - Methyl Chloroform (aerosols, cold cleaning, adhesives, chemical processing), - Carbon Tetrachloride"
+        },
+        {
+          "id": "199.1",
+          "title": "Impacts of ozone depletion",
+          "content": "- UV on Human Beings: increases skin cancer, sunburns, premature aging of the skin, increases cataract, damages DNA, damages cornea and retina, and suppresses human immune system, mutation. - UV on Plants: inhibits photosynthesis, inhibits metabolism, represses growth, destroys cells, causes mutation, declines forest productivity, crops and vegetables yield reduces. - UV on non - living things: accelerate breakdown of paints, polymers and plastics, affects temperature gradients in the atmosphere, and affects atmospheric circulation pattern and climate changes"
+        },
+        {
+          "id": "200.1",
+          "title": "Actions taken for prevention of ozone layer",
+          "content": "- Montreal Protocol on Substances the Deplete the Ozone Layer, 1987 - The London Agreement, June 1990, - Copenhagen Treaty, Nov 1992,"
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "subject": "General Science",
+      "topic": "CLIMATE CHANGE & GLOBAL WARMING",
+      "subtopics": [
+        {
+          "id": "201.1",
+          "title": "Long term change in the global climate.",
+          "content": ""
+        },
+        {
+          "id": "202.1",
+          "title": "Global warming",
+          "content": "- Slow increase in the avg. temperature of the earth\u2019s atmosphere because an increased amount of the energy striking the earth from the sun is being trapped in the atmosphere and not radiated back. - Greenhouse effect - The trapping of heat to keep the earth warm is called greenhouse effect. - Earth atmosphere always acted like a greenhouse to capture the sun rays. - Without our atm. Greenhouse the earth would be very cold."
+        },
+        {
+          "id": "203.1",
+          "title": "Climate Change Processes",
+          "content": "- Greenhouse effect - Black carbon deposit - Land use changes - Volcanic eruption - Indicator of climate change - AGGI (1991 - 1, 2013 - 1.34) - Arctic sea ice extent (40% dec) - Atmospheric carbon dioxide (16% inc in 30 years) - Melting of polar ice caps and glaciers"
+        },
+        {
+          "id": "204.1",
+          "title": "Climate change drivers",
+          "content": "- Plate tectonics (when the plates are on the move, have more volcanic eruptions - > emit more CO2 into atmosphere) - Volcanic activities - Sun spots(activity fluctuate over 11 year cycle - sunspots visible - caused by Magnetic activity, cools surface of sun - solar flares energy) - Orbiting variation of earth( Milankovitch cycle, variations in eccentricity, axial tilt, and precession of the Earth's orbit resulted in cyclical variation in the solar radiation reaching the Earth, and that this orbital forcing strongly influenced climatic patterns on Earth.) - Surface reflectivity - albedo"
+        },
+        {
+          "id": "205.1",
+          "title": "Sunny side of global warming",
+          "content": "- Global cooperation - By being forced toward a sustainable future, we create hundreds of millions of new, well paid green energy jobs. - There will be positive climate wildcards that will benefit some parts of the world at least temporarily. Some of those wildcards might also be in the form of new technologies that could help us dramatically reduce fossil fuel use and radically increase green energy use - Green House Effect is a blessing - It contributes to the survival of life on earth. Without the greenhouse effect, the temperature of the planet would be similar to conditions experienced on moon. - Helpful in the process of photo synthesis."
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "subject": "General Science",
+      "topic": "UNFCCC",
+      "subtopics": [
+        {
+          "id": "207.1",
+          "title": "United Nations Framework Convention on Climate Change",
+          "content": "- Established in 1992, it enables representatives from different countries to meet and discuss scientific and political actions. - Each year, the nations meet to discuss climate change strategies. These meetings are called COP (Conference of the Parties). - The nations that signed the UNFCCC agreed not to hinder food production or economic interests of other countries as well as to support sustainable development within their own countries. - Outline the need to reduce GHGs emissions as a global response to CC"
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "subject": "General Science",
+      "topic": "Kyoto Protocol - 1997",
+      "subtopics": [
+        {
+          "id": "208.1",
+          "title": "Kyoto protocol (Dec, 1997), currently 192 parties.(important 1st step in global climate diplomacy), COP",
+          "content": "- 3 - Marrakesh accords, 2001 (1st commitment period 2008 - 2012; 5%*1990 level). Doha amendment to the Kyoto protocol, 2012 (2nd commitment period 2013 - 20; 18%*1990 level) - \u201cCommon but differentiated responsibility\u201d \u2013 main responsibility on developed countries. - Flexible mechanism(emission trading, clean development mechanism and joint implementation) - Each country is given an emission target quota (1Kyoto Unit = 1 carbon credit = 1 metric tonne of CO2 emitted). - Annex 1 countries and Annex 2."
+        },
+        {
+          "id": "209.1",
+          "title": "Joint implementation Article 6",
+          "content": "- Industrialized is investing in other industrialized"
+        },
+        {
+          "id": "210.1",
+          "title": "Clean development mechanism, Article 12.",
+          "content": "- Industrialized is investing in developing countries. - International Emission Trading, Article 17"
+        },
+        {
+          "id": "211.1",
+          "title": "Principles",
+          "content": "- Commitments to reduce GHGs - Implementation of KP objective through policies, measures and means. - Minimizing impacts on developing countries by establishing an adaptation fund for CC - Accounting, reporting and review to ensure the integrity of the KP - Ensure compliance and enforce commitments to the protocol - Criticism - Result - too little, too late - CO2 levels continued to increase - Global temperature continue to rise - Countries benefiting from the loophole - USA - the most responsible state has not ratified it - No monitoring mechanism"
+        },
+        {
+          "id": "212.1",
+          "title": "Analysis",
+          "content": "- If the KP is to achieve its goal of reducing global emissions, it will have to be changed to include all countries of the world each contributing accordingly. - At present, no penalties exist for the countries that ratify the KP but fails to meet its reduction targets. (Financial penalties, trade sanctions, emission penalties etc.)."
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "subject": "General Science",
+      "topic": "Montreal Protocol-1987",
+      "subtopics": [
+        {
+          "id": "213.1",
+          "title": "Vienna Convention For the Protection of Ozone Layer",
+          "content": "- Agreed in Vienna in 1985, MEA. - Framework for int. efforts to protect ozone layer, not legally binding - Montreal protocol is a protocol to Vienna Convention For the Protection of Ozone Layer - Sets a mandatory timetable for the phase out of ozone depleting substances such as CFCs, halons etc. for both developed and under developed substances - Targets 96 chemicals in 240 industrial sectors. - Technology and Economic Assessment Panel - Most importantly it is doing its job well. The ozone layer is expected to return to 1980 levels between 2045 and 2060"
+        },
+        {
+          "id": "214.1",
+          "title": "One of the reasons for the protocol\u2019s successful implementation has been its compliance procedure. Developing countries work with a UN agency to prepare an action plan to get themselves back into compliance",
+          "content": "- KIGALI amendment to Montreal Protocol, 2016 - HFCs to be reduced by roughly 80 - 85% till 2045"
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "subject": "General Science",
+      "topic": "Protocols and Treaties",
+      "subtopics": [
+        {
+          "id": "215.1",
+          "title": "The London Agreement, June 1990, 93 nations:",
+          "content": "- Meeting called for the announcement of global depletion and the realization the Montreal Protocol would not achieve targets fast enough. Agreement on total ban of all major depleters (CFCs and halons) by 2000. - Copenhagen Treaty, Nov 1992, 87 nations - Realization that depletion was proceeding faster and more seriously than anticipated - Actions also taken to prevent ozone formation in troposphere"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "subject": "General Science",
+      "topic": "MEAs Ratified by Pakistan",
+      "subtopics": [
+        {
+          "id": "216.1",
+          "title": "Signatory to and ratified 15 MEAs in 5 clusters",
+          "content": "- Bio - diversity related conventions - Climate change - Land convention/env. Cooperation convention - Chemical and hazardous waste conventions - Regional seas conventions and related agreements"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "subject": "General Science",
+      "topic": "Water Pollution and Pollutants",
+      "subtopics": [
+        {
+          "id": "218.1",
+          "title": "Water pollution",
+          "content": "- Major pollutants - Pathogens and microorganism - Fertilisers, pesticides - Heavy metals - Radioactivity - Thermal pollution - Marine pollution - Eutrophication - Ground water pollution"
+        },
+        {
+          "id": "219.1",
+          "title": "Solutions",
+          "content": "- Control of Water Pollution - Chemical treatment - non - toxic - Less stable chemicals in manufacture of insecticides - Oxidation ponds to reduce radioactive waste - Thermal pollution reduced by: cooling ponds, evaporative ponds, dry cooling towers - Domestic and industrial waste stored in shallow ponds: natural decomposition by bacteria in sunlight - Polluted water reclaimed by sewage treatment and reused in industrial processes - Three stages: primary - secondary - tertiary - Primary: removes particular matter by sedimentation - coagulation/flocculation - filtration - disinfection - Secondary: removes organic solids by: softening - Tertiary: remove nutrients, pathogenic bacteria, and aeration to remove hydrogen sulphide - Strict legislation"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "subject": "General Science",
+      "topic": "Water Logging and Salinity",
+      "subtopics": [
+        {
+          "id": "220.1",
+          "title": "Water Logging: Crop root",
+          "content": "- zone deprived of proper aeration due to the presence of excessive moisture or water content \u2013 saturation of soil with water (water table high) - Salinity: accumulation of salts in soil impacting human and natural assets - Types of salinity: - Primary - natural - Secondary \u2013 anthropogenic (urbanisation, agriculture) - Cause of water logging and salinization in Pakistan: - High water table: (capillary action) - Hot dry climate: - Inadequate irrigation supplies: - Inadequate Drainage: - Seepage from canals: - Over - irrigation of fields"
+        },
+        {
+          "id": "221.1",
+          "title": "Effects of water logging",
+          "content": "- Creation of anaerobic condition in the crop root - zone - Growth of water - loving wild plants - Impossibility of tillage (the preparation of land for growing crops) operations - Accumulation of harmful salts - Lowering of soil temperature - Reduction in time of maturity - Water logging and salinity in Pakistan: - Affects 25% of irrigated lands - Punjab and Sindh: 48% saline; 18% strongly saline - 3.0 million acres has become uncultivable - Each year, 0.1 million acres becoming affected"
+        },
+        {
+          "id": "222.1",
+          "title": "Remedial Measures",
+          "content": "- Primary method \u2013 permit 10 - 20% of the irrigation water to leach the soil, be drained and discharge through an appropriate drainage system. Salt import = salt export. - Drainage: (channels, perforated pipes) - Afforestation on saline waterlogged soil: (planting tolerant trees) - Controlling the loss of water due to seepage form the canals - Preventing the loss of water due to percolation from fields and field channels - Quick disposal of rainwater - Installation of lift irrigation systems: (Tubewells) - Engineering approach (Drainage scheme) - Reclamation approach (use of chemical amendments) - Bio - saline approach(Re - vegetation of salt - affected lands using salt - tolerant crops.)"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "subject": "General Science",
+      "topic": "Drinking Water Quality",
+      "subtopics": [
+        {
+          "id": "223.1",
+          "title": "It is a measure of condition of water relative to requirements of human needs or purpose.",
+          "content": "- Dissolved oxygen - Bio - chemical oxygen demand - Chemical oxygen demand - Dissolved Oxygen - Amount of oxygen dissolved in water - solution - Oxygen enters from atmosphere and photosynthesis - Concentration range of 4pm - 8pm - It will indicate quality of water - DO<4 - polluted water"
+        },
+        {
+          "id": "224.1",
+          "title": "Bio",
+          "content": "- chemical oxygen demand - BOD is the dissolved oxygen needed by aerobic biological organisms to break down organic material present in a given water at a certain temperature over specific period of time. - In water body BOD should be less. - Chemical Oxygen Demand - Chemical oxygen demand measures the oxygen required to oxidize organic matter in water and waste water sample by the action of strong oxidizing agent. - COD is directly proportional to water pollution"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "subject": "General Science",
+      "topic": "Classification of Land Pollution Materials",
+      "subtopics": [
+        {
+          "id": "226.1",
+          "title": "Municipal solid waste",
+          "content": "- Trash from home - Pieces of furniture - Plastics and metals - Construction and demolition waste - Concrete - Asphalt - Metal objects - Hazardous waste - Petroleum refineries - Machine shops - Paper mills"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "subject": "General Science",
+      "topic": "Solid Waste Management",
+      "subtopics": [
+        {
+          "id": "227.1",
+          "title": "Landfill",
+          "content": "- Incineration of solid waste management - Incineration of industrial & hazardous waste - Recycling of waste"
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "subject": "General Science",
+      "topic": "Landfill",
+      "subtopics": [
+        {
+          "id": "228.1",
+          "title": "Landfills are sites designed for dumping rubbish, garbage, or other sorts of solid wastes. Historically, they are most common means of disposing solid waste which is either buried or left to pile in heaps.",
+          "content": "- Sanitary landfill - Sanitary landfills accept hazardous wastes such as hospital waste. This method is better than open dumping method because open dumping method causes foul smell and also accelerate land pollution. In 1935 a new system was arrived in California that is known as Sanitary Landfilling method. In this method a large is selected for the disposal of waste then digging process comes into action. - Industrial landfill - Landfill that accepts specified industrial waste. - MSW landfills - That accepts household waste as well as other wastes. - Construction and demolition waste landfills - These types of landfills used for debris generated during construction, renovations, demolitions of buildings and bridges."
+        },
+        {
+          "id": "229.1",
+          "title": "Landfill site selection criteria",
+          "content": "- Location of the ground - Ground water table - 3m minimum soil layer - Public & private irrigation water supply wells should be well away from the boundaries of landfill site because these supply wells will be at risk of contamination. - It should be 500m away from residential areas - It should be 20m away from commercial areas - Highways and motorways should be at least 450m away from the landfill site."
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "subject": "General Science",
+      "topic": "REMOTE SENSING",
+      "subtopics": [
+        {
+          "id": "231.1",
+          "title": "Remote means something which is far away",
+          "content": "- Sensing is getting information or getting data - The science and technology by which characteristics of interest can be identified without direct contact through ground - based, airborne or space - borne sensors using parts of electromagnetic spectrum. - Benefits - To observe a broad area at a time - To observe the area for a long period - To know the condition and environment without direct contact"
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "subject": "General Science",
+      "topic": "RS and its Process",
+      "subtopics": [
+        {
+          "id": "232.1",
+          "title": "A=Energy Source or Illumination",
+          "content": "- B=Radiation and the Atmosphere - C=Interaction with the Target - D=Recording of Energy by the Sensor - E=Transmission, Reception, and Processing - F=Interpretation and Analysis - G=Application"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "subject": "General Science",
+      "topic": "Application of Remote Sensing",
+      "subtopics": [
+        {
+          "id": "233.1",
+          "title": "Conventional military radars (presence, movement, altitude, etc. of any plane or missile)",
+          "content": "- Mineral exploration - Surveying and urban planning - LIDAR (Light Detection and Ranging) \u2013 vegetation, minerals - 3D imagery for examination of topography, forests, crops, land coverage, water quality, etc. - Monitory and conservation of resources"
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "subject": "General Science",
+      "topic": "GIS",
+      "subtopics": [
+        {
+          "id": "234.1",
+          "title": "A computer",
+          "content": "- based tool for mapping and analyzing things that exist or happen on Earth - It help us to capture, analyze and present information on the map, which further helps us to make better decisions. - In GIS, information about world is presented in two layers linked by geography. Each layers contains similar features such as streets or rivers. - People command and analyze geographic data using GIS tools and visualize that data using maps, graphs or charts."
+        },
+        {
+          "id": "235.1",
+          "title": "Components of GIS",
+          "content": "- Hardware - Software - Data - People - Procedure"
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "subject": "General Science",
+      "topic": "GIS Application",
+      "subtopics": [
+        {
+          "id": "236.1",
+          "title": "GDSS (geographic decision support system)",
+          "content": "- Strategic Planning: Land information (planning and use), and infrastructure needs - Conservation of resources (water, minerals, etc.) - Weather data, mapping natural disasters and DRM. - Population characteristics - Vegetation, forestry, agriculture and soil. - Soil suitability for various land use activities - Environmental Impact Analysis - Zoning of Landslides hazard"
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "subject": "General Science",
+      "topic": "Nutrients",
+      "subtopics": [
+        {
+          "id": "237.1",
+          "title": "Nutrient",
+          "content": "- Nutrients are molecules in food that all organisms need to make energy, grow, develop, and reproduce. Nutrients are digested and then broken down into basic parts to be used by the organism. - Types of Nutrients - Macronutrients - Those substances which are needed in large amount. - Carbohydrates, Proteins, Fats - Micronutrient - Those substances which are needed in small amount. - Vitamins and Minerals"
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "subject": "General Science",
+      "topic": "Carbohydrates",
+      "subtopics": [
+        {
+          "id": "238.1",
+          "title": "Carbohydrates are human body\u2019s key source of energy, providing 3.9 calories of energy per gram.",
+          "content": "- The word carbohydrate literally means \u201c Hydrated Carbon (a compound of carbon, hydrogen, and oxygen)\u201d - Their general formula is Cx(H2O)y where x and y denoted number of carbon and water molecules. - They are also known as saccharides which means sugar. - Sources of Carbohydrates - Cereals, dates, honey, milk, sugar, potato, sugarcane etc. - Carbohydrates Classification - Monosaccharides (Mono means one) - Oligosaccharides (Oligo (2 to 10) means few) - Polysaccharides (Poly means many)"
+        },
+        {
+          "id": "239.1",
+          "title": "Monosaccharides",
+          "content": "- They are simple sugar. - They are sweet in taste. - They are easily soluble in water. - They cannot be further hydrolyzed. - Glucose, Galactose, and Fructose etc. are few examples. - Oligosaccharides - They are less sweet in taste. - They are less soluble in water. - They can be hydrolyzed and on hydrolysis they produce 2 to 10 monosaccharides. - When 2 monosaccharides are combine together, they form Disaccharides, when 3 monosaccharides are combine together, they form trisaccharides and so on. - Examples of Disaccharides - Sucrose = Glucose + Fructose - Lactose = Glucose + Galactose - Maltose = Glucose + Glucose"
+        },
+        {
+          "id": "240.1",
+          "title": "Polysaccharides",
+          "content": "- They are tasteless. - They are insoluble in water. - They are most complex and most abundant. - They can be hydrolyzed. - Glycogen, Cellulose and Starch are few examples."
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "subject": "General Science",
+      "topic": "Proteins",
+      "subtopics": [
+        {
+          "id": "241.1",
+          "title": "Proteins are the chief builder of the body. They are complex molecules made up of carbon, hydrogen, oxygen, and nitrogen. They are polymer of Amino Acid. A linear chain of amino acid residues is called a polypeptide. A protein contains at least one long polypeptide. The formation of peptide bond can continue until a molecule containing several hundred thousand amino acid is formed. Such a molecule is called polypeptide or protein.",
+          "content": "- Importance of Proteins - They build many structures of the cell. - All enzymes are protein in nature, so, they control metabolism of cell. - Some proteins act as carrier and transport specific substances like oxygen, ions etc. - Some proteins are called antibodies(Antibodies, also known as immunoglobulins, are Y - shaped proteins), which are used to protect the body. - Some are used to prevent loss from body. - Sources of Protein - Fish, egg, meat, milk etc."
+        },
+        {
+          "id": "242.1",
+          "title": "There are 20 different amino acids, which form different types of proteins. These 20 types of amino acids can be divided into two groups, essential and non",
+          "content": "- essential amino acids. - Essential Amino Acids - They are required by the body throughout the life. - They are taken by body from outside. - Their deficiency causes different diseases. - These amino acids include Lysine, Valine, Arginine etc. - Non - essential Amino Acids - They are not required by the body throughout the life. - They can be manufactured from other amino acids or from simpler compounds already present in our body. - Their deficiency does not cause severe problems. - These amino acids include Glutamic acid, Glutamine, Glycine etc."
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "subject": "General Science",
+      "topic": "Lipids (Fats & Oil)",
+      "subtopics": [
+        {
+          "id": "243.1",
+          "title": "Fats are called lipids and are a macronutrient in body that stores energy. Fats have long chains of carbon and hydrogen, which store lots of energy in the chemical bonds.",
+          "content": "- Triglyceride is a basic unit of Lipids. - Glycerol + 3 Fatty Acids - Triglyceride - Types of Lipids - Saturated fat (solid at room temperature) - Unsaturated fat (liquid at room temperature) - Process of hydrogenation is used to convert unsaturated fat to saturated fat."
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "subject": "General Science",
+      "topic": "Cholesterol",
+      "subtopics": [
+        {
+          "id": "244.1",
+          "title": "Cholesterol is a lipid (fat) which is produced by the liver. Cholesterol is vital for normal body function. Every cell in our body has cholesterol in its outer layer. Liver produces more cholesterol when we eat a diet high saturated fats. Excess cholesterol can form Plaque between layers of artery walls, making it harder for heart to circulate blood. Plaque can break open and cause blood clots. If a clot blocks an artery that feeds the brain, it can cause a Stroke. If it blocks an artery that feeds the heart, it causes a Heart Attack.",
+          "content": "- Cholesterol cannot dissolve in the blood. It must be transported through bloodstream by carriers called Lipoproteins, which got their name because they are made of Fats (Lipid) and Proteins. - Types of Cholesterol - Low Density Lipoprotein (LDL) - Bad - High Density Lipoprotein (HDL) - Good - Low Density Lipoprotein (LDL) - Bad - LDL travels through blood stream delivering cholesterol to the cell, that needs it. If body has too much LDL, it can build up in the walls of arteries. Which form a fatty deposit called Plaque. - High Density Lipoprotein (HDL) - Good - HDL helps remove of excess cholesterol from cells, tissues and from plaque in blood vessels. HDL returns excess cholesterol to liver, which removes it from body. Cholesterol"
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "subject": "General Science",
+      "topic": "Heart Attack",
+      "subtopics": [
+        {
+          "id": "245.1",
+          "title": "The heart is made of muscle cells. These cells, just like other cells in the body, must receive oxygen and food through circulatory system. The blood vessels which supply oxygen and food to the heart are called coronary arteries.",
+          "content": "- A hard substance called plaque can build up in the walls of coronary arteries. This plaque is made of fat and other cells. The coronary arteries may become narrow due to Plaque. Sometimes a blood clot forms on the plaque and blocks coronary arteries. Due to this, the blood cannot reach a part of the heart. This part of the heart begins to die due to lack of oxygen and food. The death of a part of heart is called a heart attack or myocardial infarction. If too much heart muscle dies, the heart is unable to pump the blood and the person could die."
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "subject": "General Science",
+      "topic": "Vitamins & Minerals",
+      "subtopics": [
+        {
+          "id": "246.1",
+          "title": "Vitamins are organic compounds which are essential for the growth of the body.",
+          "content": "- Types of Vitamins - Fat soluble vitamins (A, D, E and K) - Water soluble vitamins (B and C) - Minerals - Minerals are naturally occurring substances that do not contain carbon. They cannot be digested further or broken down anymore. These are essential for proper growth and functioning of body. - Microelements (Ca, Cl, Mg, P, K, Na) - Macroelements (Cu, F, I, Fe, Zn)"
+        }
+      ]
+    },
+    {
+      "id": "121",
+      "subject": "General Science",
+      "topic": "Concept of Balance Diet",
+      "subtopics": [
+        {
+          "id": "247.1",
+          "title": "A diet which contains all the essential nutrients of food in proper proportion is called balance diet.",
+          "content": "- Percentage formula - Carbohydrates 58% - Proteins 12% - Fats 30% - Quality formula - Carbohydrates 600 grams - Proteins 100 grams - Fats 37 - 62 grams"
+        },
+        {
+          "id": "248.1",
+          "title": "Components of Balance Diet",
+          "content": "- Carbohydrates - Our main source of energy. - Proteins - Essential to growth and repair of muscles and other body tissues. - Fats - source of energy and important in relation to fat soluble vitamins. - Vitamins - Water and fat soluble vitamins play important roles in many chemical processes in the body. - Minerals - Inorganic material occurring in the body, these are critical to body\u2019s normal functioning. - Water - Essential for normal functioning of body."
+        }
+      ]
+    },
+    {
+      "id": "122",
+      "subject": "General Science",
+      "topic": "Enzymes",
+      "subtopics": [
+        {
+          "id": "249.1",
+          "title": "Enzymes composed of polymers of amino acid that act as a catalyst to regulate the speed of many chemical reactions involved in the metabolism of living organisms.",
+          "content": "- Enzymes are classified into several broad categories, such as hydrolytic, oxidizing, and reducing, depending on the type of reaction they control. - Hydrolytic enzymes accelerate reactions in which a substance is broken down into simpler compounds - Oxidizing enzymes accelerate oxidation reactions. - Reducing enzymes speed up reducing reactions. - Most of the enzymes consists of non protein part is called the Cofactor. The proteins in the enzymes are usually globular proteins. The protein part of the enzymes are known Apoenzyme. Together the apoenzyme and cofactor are known as the Holoenzyme. - Structure of Enzyme & Mechanism of Enzyme Aciton - Substrate, Active site, Enzymes, product - Enzyme + Substrate - Enzyme - Substrate complex - Enzyme + Product"
+        },
+        {
+          "id": "250.1",
+          "title": "Characteristics of Enzyme",
+          "content": "- The basic function of an enzyme is to increase rate of reaction. - Enzymes are reaction specific. - Their presence does not affect the nature of end product. - They lower the activation energy of reaction."
+        }
+      ]
+    },
+    {
+      "id": "123",
+      "subject": "General Science",
+      "topic": "Food Additives",
+      "subtopics": [
+        {
+          "id": "251.1",
+          "title": "\u201cFood additives are substances that become part of a food product when they are added during the processing or making of that food\u201d.",
+          "content": "- They include antioxidants, preservatives, coloring and flavoring agent, stabilizer, thickening agent. - Types of Food Additives - Preservatives - Prevents or slows down growth of bacterial fungi, so that food can be kept longer. - Antioxidants - Slows down the oxidation of fat in food. - Coloring agent - Colors food to make it look more attractive. - Flavoring agent - Add taste or fragrant smells to make food more edible. - Stabilizers - Provide a smooth and uniform structure. - Thickening agent - Thickens liquids such as soup and sauce."
+        }
+      ]
+    },
+    {
+      "id": "124",
+      "subject": "General Science",
+      "topic": "Food Deterioration",
+      "subtopics": [
+        {
+          "id": "252.1",
+          "title": "Food deterioration means the original nutritional value, texture, flavor of the food are damaged, the food become harmful to people and unsuitable to eat.",
+          "content": "- Causes of Food Deterioration - Micro - organisms - Growth and activities of micro - organisms, principally bacteria, yeast and molds. - Enzymes - There are many hundreds of different enzymes but some of the more important spoilage changes include softening of fruits, browning of cut fruit and loss of green color due to their activities. - Water - Enzymes and micro - organisms can only spoil foods if water is present. - Heat and temperature - The rate of spoilage by micro - organisms and enzymes increases especially at room temperature. But when foods are heated above 60\u00b0C most enzymes and micro - organisms destroyed. Heat can also spoil packaged food, it can melt fats and cause a loss of texture. - Light - Sunlight contains UV rays which can cause rapid deterioration. - Air - Some foods, especially those have a high fat content are susceptible to oxidation."
+        }
+      ]
+    },
+    {
+      "id": "125",
+      "subject": "General Science",
+      "topic": "Food Preservatives & Preservation",
+      "subtopics": [
+        {
+          "id": "253.1",
+          "title": "Food preservation is a process of treating and handling of food to stop or greatly slow down spoilage caused or accelerated by micro",
+          "content": "- organisms. - Why food is preserved? - To preserve the natural characteristics of food - To preserve the appearance of food - To increase the shelf value of food - Natural food preservatives - Salt, sugar, alcohol, vinegar, citric acid and ascorbic acid. - Chemical food preservatives - Benzoates, Nitrites, Sulphites, Sorbates - Artificial Food Preservatives - Added or sprayed on food - Antioxidants, antimicrobial etc."
+        }
+      ]
+    },
+    {
+      "id": "126",
+      "subject": "General Science",
+      "topic": "Food Preservation Methods",
+      "subtopics": [
+        {
+          "id": "254.1",
+          "title": "Modern Preservation Methods",
+          "content": "- Canning - Process of preserving food by heating and sealing it in containers for storage - Dehydration - Sun dry, oven dry, dehydrators - Freezing - Containing environment where bacteria cannot grow. - Ancient Preservation Methods - Fermentation - Drying - Curing (salt) - Importance of Food Preservatives - The varies of food can be enjoyed in any different area and any seasons - The supplement of food can be increased - The waste of food will be reduced - There is no change in taste, color and nutritive values of food with the right way of food preservation - People can taste food from any location - Can stored the food more easily - Increasing the food product shelf life."
+        }
+      ]
+    },
+    {
+      "id": "127",
+      "subject": "General Science",
+      "topic": "Antioxidants",
+      "subtopics": [
+        {
+          "id": "255.1",
+          "title": "Our bodies are comprised of billions of molecular cells held together by electronic bonds. Sometimes, these molecules are held together by a weak bond and can split apart resulting an unstable molecule with an unpaired electron. This molecule is known as a Free Radical. Some free radical occur normally in our bodies through metabolism, however, there are many environmental factors that can cause an excess of free radicals such as Pollution, Radiations, Cigarette smoke, Herbicides, Stress, Lack of exercise, Lack of sleep.",
+          "content": "- Process of Free Radicals - The free radicals would start attacking healthy nearby cells in an attempt to replace their electron or to get stable. When the attack molecule loses its electron, it becomes a free radical itself. This can cause a chain reaction to occur resulting in disruption of millions of nearby molecules. This chain reaction is known as Oxidative Stress. Oxidative stress is an imbalance between free radicals and antioxidants in your body."
+        },
+        {
+          "id": "256.1",
+          "title": "Effects of Oxidative Stress",
+          "content": "- Arthritis - Premature Aging - Edema and leg swelling - Hardening of the artery - Susceptibility to cancer - Process of Oxidants and Anti - Oxidants - Antioxidants stops this chain reaction by donating one of their own electrons to the free radicals. The antioxidants nutrient itself does not become a free radical by giving away its electron."
+        },
+        {
+          "id": "257.1",
+          "title": "Types and sources of Antioxidants",
+          "content": "- Vitamin A - Vitamin C - Vitamin E - Selenium (found in cereals) - Beta - Carotene(found in colorful fruits and vegetables) - Lutein (found in green leafy vegetables)"
+        }
+      ]
+    },
+    {
+      "id": "128",
+      "subject": "General Science",
+      "topic": "Introduction to Computer",
+      "subtopics": [
+        {
+          "id": "259.1",
+          "title": "Input devices (provide data and control signal to an information processing system)",
+          "content": "- Keyboard - Mouse - Scanner - Digital camera - Joysticks - Output devices (receives data and commands from an information processing system in order to perform a task) - Monitor - Printer - speaker"
+        }
+      ]
+    },
+    {
+      "id": "129",
+      "subject": "General Science",
+      "topic": "I/O Processing",
+      "subtopics": [
+        {
+          "id": "260.1",
+          "title": "Processing is process of converting raw data into useful information.",
+          "content": "- Fundamental parts in processing of data - RAM - ROM - CPU - Data Buses - CPU - Electronic circuitry within a computer that carries out instructions of a computer program by performing the basic arithmetic, logical, control and I/O operations specified by the instructions."
+        },
+        {
+          "id": "262.1",
+          "title": "Principle components of CPU",
+          "content": "- ALU (performs arithmetic and logic operation) - The inputs to an ALU are the data to be operated on, called operands, and the code indicating the operation to be performed. - Arithmetic unit (+, - , X, /) - Logic unit (logical operations like comparing two data) - Control unit (organizes the fetching and execution of instructions ) - CU is considered the brain because it issues orders to just about everything and ensures correct instruction execution. CU acts like a supervisor seeing things are done in proper fashion."
+        },
+        {
+          "id": "263.1",
+          "title": "Storage unit",
+          "content": "- Primary memory: It is the main memory (RAM) where the operating system resides. It is area in computer in which data is stored for quick access. It is volatile, which means when the computer is turned off everything in RAM is deleted. - Secondary memory: These are external devices like CD, floppy, magnetic disks etc. These are volatile devices that holds data until it is deleted or overwritten."
+        },
+        {
+          "id": "264.1",
+          "title": "Computer buses",
+          "content": "- Set of parallel lines, that are used to transfer data between different components of the computer. - A communication system - The capacity of computer bus depends on the number of DATA lines in it. - CPU communicate with other components of computer through buses. - System buses (Internal buses) - These are used to connect main component of a computer i.e. main memory. - These are part of motherboard. - Computer normally have 70 - 100 lines."
+        },
+        {
+          "id": "265.1",
+          "title": "System buses (Internal buses)",
+          "content": "- Internal data bus, memory bus, system bus or front side bus. - Connect all the internal components of a computer, such as CPU and memory to the motherboard. - Also called local buses, because they are intended to connect to local devices. - External buses - Made up of electronic pathways that connect the different external devices to the computer."
+        }
+      ]
+    },
+    {
+      "id": "130",
+      "subject": "General Science",
+      "topic": "Block Diagram",
+      "subtopics": [
+        {
+          "id": "261.1",
+          "title": "A computer performs five major operations or functions irrespective of their size. These are",
+          "content": "- It accepts data or instruction by way of input - It stores data - It can process data as required by the user - It gives results in the form of output - It controls all operations inside a computer"
+        }
+      ]
+    },
+    {
+      "id": "131",
+      "subject": "General Science",
+      "topic": "Internal Buses",
+      "subtopics": [
+        {
+          "id": "266.1",
+          "title": "Control bus",
+          "content": "- It determines the operation of buses. It is used by CPU to communicate with other devices. Communication between the CPU and control bus is necessary for running a proficient and functional system. Without the control bus the CPU cannot determine whether the system is receiving or sending data. It is the control bus that regulates which direction the write and read information need to go. - Address bus - Many components are connected through buses. Each component is assigned a unique ID and that ID is called address of that component. If a component wants to communicate with another component, it uses address bus to specify the address of that bus. It is a computer bus, which defines address or define some locations. Whenever the processor needs data from the memory, it places the address of data on the address bus, the address bus is carried to the memory where the data from the requested address is fetched and placed on the data bus. The data bus carries to CPU. It is unidirectional, so, it can carry information only in one direction. - Data bus - Transmit data between different components of computer. It is an electrical path that connects the CPU, memory, I/O devices and secondary storage devices. Data bus lines are bidirectional means CPU can read data from memory lines and can write data to memory locations."
+        }
+      ]
+    },
+    {
+      "id": "132",
+      "subject": "General Science",
+      "topic": "Storage devices",
+      "subtopics": [
+        {
+          "id": "267.1",
+          "title": "Primary storage devices",
+          "content": "- RAM (Random Access Memory, Volatile) - ROM (Read Only Memory, Non - Volatile) - Secondary storage devices - Hard Disk - SSD - Magnetic tapes - USB - Floppy Disc"
+        }
+      ]
+    },
+    {
+      "id": "133",
+      "subject": "General Science",
+      "topic": "Data Storage in Hard Disk",
+      "subtopics": [
+        {
+          "id": "268.1",
+          "title": "3 Processes",
+          "content": "- Data is converted to simple numbers - Data is recorded by hardware inside the computer - Numbers are organized and moved to storage - Every piece of data in computer is stored as a number. For instance, letters are converted to numbers, and photographs are converted to a large set of numbers that indicate the color and brightness of each pixel. The number are then converted to binary numbers."
+        }
+      ]
+    },
+    {
+      "id": "134",
+      "subject": "General Science",
+      "topic": "Networking & Common Networking Layouts",
+      "subtopics": [
+        {
+          "id": "269.1",
+          "title": "Networking",
+          "content": "- A digital telecommunication network which allows nodes to share resources. Computing devices exchange data with each other using connections between nodes. - Common networking layouts - Bus network - Star network - Ring network - Mesh network - Fully connected network"
+        },
+        {
+          "id": "270.1",
+          "title": "Bus network",
+          "content": "- All nodes are connected to a common medium along this medium - Star network - All nodes are connected to a special central node. - Ring network - Each node is connected to its left and right neighbor node, such that all nodes are connected and that each node can reach each other node by traversing nodes left - or rightwards. - Mesh network - Each node is connected to arbitrary number of neighbors in such a way that there is at least one traversal from any node to any other. - Fully connected network - Each node is connected to every other node in the network."
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "subject": "General Science",
+      "topic": "Application and Business Software",
+      "subtopics": [
+        {
+          "id": "271.1",
+          "title": "Business software is any software that is used by business users to perform various business functions. These business applications are used to increase productivity, to measure productivity and to perform business functions accurately. These are generally categorized by using small, medium and large matrix",
+          "content": "- Small business software - home accounting software such as Microsoft office. - Medium size or SME (Small and Medium - Sized Enterprise) - Customer relationship management, human resource management system, loan originating software, field service software etc. - Enterprise level - Applications such as those in the fields of Enterprise Resource Planning (ERP), Enterprise Content Management (ECM), Business Process Management (BPM) and product life cycle management(PLM)."
+        },
+        {
+          "id": "272.1",
+          "title": "Commonly used Business Software",
+          "content": "- Product Lifecycle Management (PLM) - PLM is the managing the entire lifecycle of a product from inspection, through engineering design and manufacture, to service and disposal of manufactured product. - Enterprise Application Software (EAS) - It is used to satisfy needs of an organization such as businesses, schools etc. - Electronic Medical Record System (EMR) - This used to manage clinical operation. - Database Management System (DBMS) - A database management system (DBMS) is a software package designed to define, manipulate, retrieve and manage data in a database. A DBMS generally manipulates the data itself, the data format, field names, record structure and file structure. - Enterprise Resource Planning (ERP) - It's a business process management software that manages and integrates a company's financials, supply chain, operations, reporting, manufacturing, and human resource activities."
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "subject": "General Science",
+      "topic": "Fundamentals of Artificial Intelligence",
+      "subtopics": [
+        {
+          "id": "273.1",
+          "title": "Back in 1950s, the fathers of the field Minsky and McCarthy, described intelligence as any task performed by a program or a machine, if a human carried out the same activity, we would say the human had to apply intelligence to accomplish the task.",
+          "content": "- Philosophy of AI - While exploiting the power of the computer systems, the curiosity of human, lead him to wonder, \u201c Can a machine think and behave like humans do?\u201d. Thus, the development of AI started. - John McCarthy said, \u201c The science and engineering of making intelligent machines, especially intelligent computer programs\u201d. - Intelligent - Able to solve problem - Able to communicate well - Able to predict future - Able to recognize images and shapes"
+        }
+      ]
+    },
+    {
+      "id": "137",
+      "subject": "General Science",
+      "topic": "Satellite",
+      "subtopics": [
+        {
+          "id": "275.1",
+          "title": "Word satellite refers to a machine that is launched into space and moves around earth or another body in space.",
+          "content": "- Parts of satellite - An antenna - sends and receives information, often to and from earth - A power source - solar panel - How does it works - A rocket can launch a satellite into space and reach its transfer orbit of 1500kms above earth. - The satellite then deploy its section of solar panel to provide a steady power supply during its travel in space. - Final position is attained. - Geo - Stationary satellite"
+        }
+      ]
+    },
+    {
+      "id": "138",
+      "subject": "General Science",
+      "topic": "GPS (Global Positioning System)",
+      "subtopics": [
+        {
+          "id": "276.1",
+          "title": "GPS is a satellite based navigation system, a spaced based navigation system that provides location and time information.",
+          "content": "- Working - 24 operational satellite and some extra for backup - Four satellites have always line of visibility to receiver at any time. - Receiver gets information on the location of at least three of the satellite around you and the distance between you and those satellites. - Using these measurements - location is known - Trilateration"
+        }
+      ]
+    },
+    {
+      "id": "139",
+      "subject": "General Science",
+      "topic": "RADAR (Radio Detection and Ranging)",
+      "subtopics": [
+        {
+          "id": "277.1",
+          "title": "Object detection system that uses radio waves to determine the position, distance, height, angle or the velocity of object.",
+          "content": "- Working of RADAR - Principle of reflection of EM wave"
+        }
+      ]
+    },
+    {
+      "id": "140",
+      "subject": "General Science",
+      "topic": "FIBER OPTICS",
+      "subtopics": [
+        {
+          "id": "278.1",
+          "title": "Strands of optically pure glass as thin as a human hair that carries digital information over long distance.",
+          "content": "- Principle of total internal reflection. - Total internal reflection to get maximum reflection - Total reflection minimizes the consumption of energy - Signal can travel long distance with less energy"
+        },
+        {
+          "id": "279.1",
+          "title": "Construction of Optical Fiber",
+          "content": "- Core (Glass) - Cladding (Glass or Plastic) - Buffer Coating (For extra protection of core additional layer) - Jacket"
+        },
+        {
+          "id": "280.1",
+          "title": "Construction of Optical Fiber",
+          "content": ""
+        },
+        {
+          "id": "281.1",
+          "title": "Advantages of Fiber Optics",
+          "content": "- Ability to carry much more information and deliver it with greater fidelity. - Supports higher data rates - Virtually immune to all kinds of interference - As the core is made of glass, it will not corrode and it unaffected by most chemicals - A fiber optic cable is usually much smaller and lighter in weight than a wire or coaxial cable. - Secure communication system. - It has 30 times less cross - sectional area than copper wire and has capacity 4.5 times greater than other cable. - The raw material for glass are plentiful, unlike copper."
+        }
+      ]
+    },
+    {
+      "id": "141",
+      "subject": "General Science",
+      "topic": "Pas t Paper Questions",
+      "subtopics": [
+        {
+          "id": "305.1",
+          "title": "Des cribe different methods to estimate the age of the universe? (CS S",
+          "content": "- 201 8) - Bri efly describe what is big bang theory? (CSS - 2011) - Wha t is galaxy? The earth belongs to which galaxy? (CSS - 201 1) - Explain the terms Dark Energy and Dark Matter? (CSS - 2018)\u2022"
+        }
+      ]
+    },
+    {
+      "id": "142",
+      "subject": "General Science",
+      "topic": "f. F, a male member is seated opposite to E, a lady member. Sol ar and Lunar Eclipses",
+      "subtopics": [
+        {
+          "id": "306.1",
+          "title": "Ecl ipse ii. How many persons are seated between K and F ? (3)",
+          "content": "- Eclipse is the obscuring of one heavenly/ celestial body by another, particularly that of the sun or moon - Solar Ecl ipse ( Su n E clipse) - Moon comes b/w the earth and the su n and its shadow obscure the face of the earth fro m the light of sun - Total eclipse \u2022The"
+        }
+      ]
+    },
+    {
+      "id": "143",
+      "subject": "General Science",
+      "topic": "6. Ali left home and cycled 10 km towards South, then turned right and cycled 5 km and then again turned right and cycled 10 km. After this he turned left and cycled 10 km. How many kilometers will he have to cycle to reach his home straight? (15 km) Solar and Lunar Eclipses",
+      "subtopics": [
+        {
+          "id": "307.1",
+          "title": "Lunar Eclipse (Moon Eclipse)",
+          "content": "- Ear th comes b/w moon & the sun and its shadow darkens the moon - Pen umbral Lunar Eclipse - Partial Lunar Eclipse - Total Lunar Eclipse"
+        }
+      ]
+    }
+  ]

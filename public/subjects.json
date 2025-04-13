@@ -1,0 +1,2710 @@
+[
+  {
+    "id": "1",
+    "subject": "Pakistan Affairs",
+    "marks": 100,
+    "code": "5.",
+    "topics": [
+      {
+        "id": "1.1",
+        "title": "Historical and Ideological Foundations",
+        "subtopics": [
+          {
+            "id": "1.1.1",
+            "title": "Definition and Elucidation of Pakistan’s Ideology",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.2",
+            "title": "Muslim Rule in the Sub-Continent and Its Downfall",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.3",
+            "title": "Reform Movements: Shaikh Ahmad Sarhindi",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.4",
+            "title": "Reform Movements: Shah Waliullah",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.5",
+            "title": "Reform Movements: Sayyid Ahmad Shaheed",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.6",
+            "title": "Educational Institutions: Aligarh Movement",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.7",
+            "title": "Educational Institutions: Deoband and Nadwah",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.8",
+            "title": "Educational Institutions: Sindh Madrassah and Islamia College Peshawar",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.9",
+            "title": "Allama Iqbal’s Vision and Speeches",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.10",
+            "title": "Quaid-e-Azam’s Statements on Pakistan’s Ideology",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.11",
+            "title": "Political Evolution: 1973 Constitution",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.12",
+            "title": "Political Evolution: Zia-ul-Haq Era",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.13",
+            "title": "Political Evolution: Democratic Restorations (1988–1999)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.14",
+            "title": "Democratic System: Early Challenges (1947–1958)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.1.15",
+            "title": "Democratic System: Musharraf Era and Democratic Transition",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "1.2",
+        "title": "Geography, Society, and Economy",
+        "subtopics": [
+          {
+            "id": "1.2.1",
+            "title": "Geography: Physical Features (Mountains, Rivers, Plains)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.2",
+            "title": "Society: Cultural Diversity and Traditions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.3",
+            "title": "Natural Resources: Minerals, Forests, Water",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.4",
+            "title": "Agriculture: Trends and Challenges",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.5",
+            "title": "Industry: Growth and Obstacles",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.6",
+            "title": "Education: Literacy Rates and Reforms",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.7",
+            "title": "Economic Challenges: Inflation and Unemployment",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.8",
+            "title": "Economic Challenges: Trade Deficits",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.9",
+            "title": "Energy Problems: Power Shortages and Solutions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.10",
+            "title": "Energy Problems: Renewable Energy Initiatives",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.11",
+            "title": "Economic Conditions: Recent Economic Survey Insights",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.12",
+            "title": "Economic Conditions: Budget Analysis (Current and Previous)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.13",
+            "title": "Social Problems: Poverty Alleviation Strategies",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.14",
+            "title": "Social Problems: Health and Sanitation Issues",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.2.15",
+            "title": "Social Problems: Education Access and Quality",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "1.3",
+        "title": "Domestic Security and Governance",
+        "subtopics": [
+          {
+            "id": "1.3.1",
+            "title": "Civil-Military Relations: Historical Coups (1958, 1977, 1999)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.2",
+            "title": "Civil-Military Relations: Democratic Transitions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.3",
+            "title": "Non-Traditional Security: Terrorism and Insurgency",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.4",
+            "title": "Non-Traditional Security: Cyber Threats",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.5",
+            "title": "Ethnic Issues: Balochistan Separatism",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.6",
+            "title": "Ethnic Issues: Sindhi and Pashtun Identity Movements",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.7",
+            "title": "National Integration: Policies for Unity",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.8",
+            "title": "Challenges to Sovereignty: Drone Strikes and Border Issues",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.9",
+            "title": "Challenges to Sovereignty: Internal Political Instability",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.10",
+            "title": "Constitutional Debates: 18th Amendment",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.11",
+            "title": "Constitutional Debates: Judicial Activism",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.3.12",
+            "title": "Legal Cases: Role of Supreme Court",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "1.4",
+        "title": "Foreign Policy and Regional Dynamics",
+        "subtopics": [
+          {
+            "id": "1.4.1",
+            "title": "Regional Apparatus: China-Pakistan Economic Corridor (CPEC)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.2",
+            "title": "Regional Apparatus: Shifting Alliances in South Asia",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.3",
+            "title": "Regional Cooperation: SAARC’s Role and Limitations",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.4",
+            "title": "Regional Cooperation: ECO and SCO Contributions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.5",
+            "title": "Pakistan’s Regional Role: Mediator in Afghan Peace",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.6",
+            "title": "Foreign Policy Post 9/11: Alignment with Global Powers",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.7",
+            "title": "National Interest: Economic and Security Priorities",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.8",
+            "title": "Relations with Neighbors: Pakistan-Afghanistan Ties",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.9",
+            "title": "Relations with Neighbors: Pakistan-Iran Relations",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.10",
+            "title": "Pakistan-India Relations: 1947–1965 Wars",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.11",
+            "title": "Pakistan-India Relations: Post-1971 Developments",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.12",
+            "title": "Kashmir Issue: Historical Background (1947–1989)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.4.13",
+            "title": "Kashmir Issue: Post-1990 Insurgency and Diplomacy",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "1.5",
+        "title": "Global and Strategic Issues",
+        "subtopics": [
+          {
+            "id": "1.5.1",
+            "title": "Nuclear Program: Safety Mechanisms",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.2",
+            "title": "Nuclear Program: International Treaties and Concerns",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.3",
+            "title": "Palestine Issue: Pakistan’s Stance in OIC",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.4",
+            "title": "Palestine Issue: Impact on Pakistan’s Foreign Policy",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.5",
+            "title": "Security Dynamics: Internal Militancy Challenges",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.6",
+            "title": "Security Dynamics: External Threats",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.7",
+            "title": "US War on Terror: Pakistan’s Military Cooperation",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.8",
+            "title": "US War on Terror: Economic and Social Impacts",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.9",
+            "title": "Hydro Politics: Indus Water Treaty",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.10",
+            "title": "Hydro Politics: Domestic Water Management",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.11",
+            "title": "Afghanistan War: Soviet Invasion (1979–1989)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.12",
+            "title": "Afghanistan War: Post-2014 Challenges",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.13",
+            "title": "Proxy Wars: Role of India and Other Powers",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "1.5.14",
+            "title": "Proxy Wars: Impact on Pakistan’s Stability",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "subject": "Current Affairs",
+    "marks": 100,
+    "code": "4.",
+    "topics": [
+      {
+        "id": "2.1",
+        "title": "Pakistan’s Political Landscape",
+        "subtopics": [
+          {
+            "id": "2.1.1",
+            "title": "Constitutional Developments and Amendments",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.1.2",
+            "title": "Recent Elections and Political Shifts (2023–2025)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.1.3",
+            "title": "Political Polarization and Party Rivalries",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.1.4",
+            "title": "Judicial Reforms and Supreme Court Role",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.1.5",
+            "title": "Civil-Military Dynamics (2025 Context)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.1.6",
+            "title": "Youth Political Activism and Social Media",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "2.2",
+        "title": "Pakistan’s Economic and Social Challenges",
+        "subtopics": [
+          {
+            "id": "2.2.1",
+            "title": "Economic Crisis: Inflation and Debt (2025 Updates)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.2.2",
+            "title": "IMF Bailouts and Structural Reforms",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.2.3",
+            "title": "Trade War Impact: Textile Exports and Supply Chains",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.2.4",
+            "title": "Digital Economy: E-Commerce and Fintech Growth",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.2.5",
+            "title": "Energy Crisis: Gas Shortages and Renewables",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.2.6",
+            "title": "Social Issues: Education and Literacy Challenges",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.2.7",
+            "title": "Healthcare: Post-COVID Policy Reforms",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.2.8",
+            "title": "Climate Displacement: Flood-Affected Communities",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.2.9",
+            "title": "Gender Equality: Women’s Empowerment Initiatives",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.2.10",
+            "title": "Urban Migration and Infrastructure Strain",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "2.3",
+        "title": "Pakistan’s Regional Relations",
+        "subtopics": [
+          {
+            "id": "2.3.1",
+            "title": "Pakistan-India: Kashmir Dispute (2025 Status)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.3.2",
+            "title": "Pakistan-India: Trade Barriers and SAARC",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.3.3",
+            "title": "Pakistan-China: CPEC Phase II and BRI Expansion",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.3.4",
+            "title": "Pakistan-Afghanistan: Taliban Governance Challenges",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.3.5",
+            "title": "Pakistan-Afghanistan: Border Security and Refugees",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.3.6",
+            "title": "Pakistan-Russia: Energy Deals and Geopolitical Ties",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.3.7",
+            "title": "India’s Indo-Pacific Strategy and Regional Impact",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "2.4",
+        "title": "Pakistan’s Global and Muslim World Engagement",
+        "subtopics": [
+          {
+            "id": "2.4.1",
+            "title": "Pakistan-Iran: Gas Pipeline and Border Trade",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.4.2",
+            "title": "Pakistan-Saudi Arabia: Investment and Hajj Diplomacy",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.4.3",
+            "title": "Pakistan-Indonesia: ASEAN Engagement",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.4.4",
+            "title": "Pakistan-Turkey: Defense and Cultural Ties",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.4.5",
+            "title": "Pakistan-USA: Strategic Dialogue Post-2021",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.4.6",
+            "title": "UN: Pakistan’s Role in Peacekeeping",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.4.7",
+            "title": "OIC: Advocacy for Palestine and Kashmir",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.4.8",
+            "title": "SCO: Pakistan’s Economic and Security Role",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.4.9",
+            "title": "WTO and GCC: Trade Negotiations",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.4.10",
+            "title": "Climate Finance: Pakistan’s Advocacy for Flood Relief",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "2.5",
+        "title": "Global Issues and Security",
+        "subtopics": [
+          {
+            "id": "2.5.1",
+            "title": "International Security: Ukraine-Russia War (2025)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.2",
+            "title": "International Security: Cyberterrorism and Hybrid Warfare",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.3",
+            "title": "Trade War: US-China Tariffs and Global Impact",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.4",
+            "title": "Trade War: EU-US Trade Disputes and WTO",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.5",
+            "title": "International Political Economy: Global Inflation Trends",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.6",
+            "title": "Human Rights: Global Refugee Crisis",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.7",
+            "title": "Environment: COP29 Outcomes and Climate Targets",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.8",
+            "title": "Environment: Green Energy Transition",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.9",
+            "title": "Population: Migration and Urbanization Trends",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.10",
+            "title": "Terrorism: Counterterrorism Post-Afghanistan",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.11",
+            "title": "Global Energy Politics: Oil Price Volatility",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.12",
+            "title": "Nuclear Proliferation: Global Treaties",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.13",
+            "title": "Nuclear Politics: South Asia Arms Race",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.14",
+            "title": "International Trade: WTO Reforms and RCEP",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.15",
+            "title": "Maritime Rivalries: Indo-Pacific Strategies",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.16",
+            "title": "Sustainable Development Goals: 2030 Targets",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.17",
+            "title": "Globalization: Digital Economy Impacts",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.18",
+            "title": "Middle East: Saudi-Iran Reconciliation (2025)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.19",
+            "title": "Kashmir Issue: International Advocacy",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.20",
+            "title": "Palestine Issue: Gaza Ceasefire Efforts (2025)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "2.5.21",
+            "title": "Space Race: Satellite and Military Developments",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "subject": "English Essay",
+    "marks": 100,
+    "code": "1.",
+    "topics": [
+      {
+        "id": "3.1",
+        "title": "Pakistan’s Socio-Economic and Political Development",
+        "subtopics": [
+          {
+            "id": "3.1.1",
+            "title": "Challenges to Democracy in Pakistan",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.1.2",
+            "title": "CPEC: Opportunities and Challenges",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.1.3",
+            "title": "Education Reform: Higher Education Issues",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.1.4",
+            "title": "Economic Recovery: Role of BRICS and IMF",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.1.5",
+            "title": "Political Polarization and Governance",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.1.6",
+            "title": "Essay Skill: Analyzing Pakistan’s Context",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.1.7",
+            "title": "Practice: Youth Empowerment in Governance",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "3.2",
+        "title": "Global Issues and Sustainability",
+        "subtopics": [
+          {
+            "id": "3.2.1",
+            "title": "Climate Change: Solutions and Challenges",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.2.2",
+            "title": "Globalization: Economic and Cultural Impacts",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.2.3",
+            "title": "Resource Management: Water and Energy",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.2.4",
+            "title": "Global Trade: Opportunities and Inequities",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.2.5",
+            "title": "Essay Skill: Linking Global and Local Issues",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.2.6",
+            "title": "Practice: Renewable Energy for Sustainability",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "3.3",
+        "title": "Technology and Digital Transformation",
+        "subtopics": [
+          {
+            "id": "3.3.1",
+            "title": "Artificial Intelligence: Benefits vs. Risks",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.3.2",
+            "title": "Social Media: Political and Social Impact",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.3.3",
+            "title": "Digital Economy: Opportunities for Pakistan",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.3.4",
+            "title": "Technology Ethics: Privacy and Creativity",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.3.5",
+            "title": "Essay Skill: Evaluating Tech Trade-offs",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.3.6",
+            "title": "Practice: Cybersecurity in the Digital Age",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "3.4",
+        "title": "Social and Cultural Dynamics",
+        "subtopics": [
+          {
+            "id": "3.4.1",
+            "title": "Gender Equality: Progress and Barriers",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.4.2",
+            "title": "Human Rights: Balancing Security and Liberty",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.4.3",
+            "title": "Education as a Social Change Agent",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.4.4",
+            "title": "Societal Polarization: Causes and Solutions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.4.5",
+            "title": "Essay Skill: Narrative in Social Issues",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.4.6",
+            "title": "Practice: Cultural Harmony in Diversity",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "3.5",
+        "title": "Philosophy, Ethics, and Human Values",
+        "subtopics": [
+          {
+            "id": "3.5.1",
+            "title": "Role of Hope in Human Progress",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.5.2",
+            "title": "Ethics in Modern Society",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.5.3",
+            "title": "Imagination vs. Knowledge in Development",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.5.4",
+            "title": "Freedom and Responsibility",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.5.5",
+            "title": "Essay Skill: Philosophical Discourse",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "3.5.6",
+            "title": "Practice: Empathy in Leadership",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "subject": "English (Precis & Composition)",
+    "marks": 100,
+    "code": "2.",
+    "topics": [
+      {
+        "id": "4.1",
+        "title": "Vocabulary",
+        "subtopics": [
+          {
+            "id": "4.1.1",
+            "title": "Synonyms List: Study and Practice",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.1.2",
+            "title": "Antonyms List: Study and Practice",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.1.3",
+            "title": "Pair of Words List: Explanations",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.1.4",
+            "title": "Pair of Words List: Sentence Usage",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.1.5",
+            "title": "Idiom List: CSS-Relevant Idioms",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.1.6",
+            "title": "Grouping Words: Synonym and Antonym Pairs",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.1.7",
+            "title": "Vocabulary Building: CSS-Specific Words",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "4.2",
+        "title": "Grammar",
+        "subtopics": [
+          {
+            "id": "4.2.1",
+            "title": "Appropriate Prepositions: Usage and Errors",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.2.2",
+            "title": "Sentence Correction: Grammar Errors",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.2.3",
+            "title": "Sentence Correction: Punctuation Errors",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.2.4",
+            "title": "Verb Tenses: Correct Application",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.2.5",
+            "title": "Articles: Definite and Indefinite Usage",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.2.6",
+            "title": "Conjunctions: Types and Functions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.2.7",
+            "title": "Phrasal Verbs: Common Examples",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.2.8",
+            "title": "Punctuation Rules: Commas and Semicolons",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.2.9",
+            "title": "Common Errors: Subject-Verb Agreement",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "4.3",
+        "title": "Precis Writing",
+        "subtopics": [
+          {
+            "id": "4.3.1",
+            "title": "Summarization Techniques: Main Ideas",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.3.2",
+            "title": "Condensing Text: Eliminating Redundancy",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.3.3",
+            "title": "Creating Effective Titles",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.3.4",
+            "title": "Precis Practice: Days 1-10 (Narrative)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.3.5",
+            "title": "Precis Practice: Days 11-20 (Argumentative)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.3.6",
+            "title": "Precis Practice: Days 21-30 (Descriptive)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.3.7",
+            "title": "Precis Practice: Days 31-40 (Mixed Themes)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "4.4",
+        "title": "Comprehension",
+        "subtopics": [
+          {
+            "id": "4.4.1",
+            "title": "Identifying Main Ideas and Themes",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.4.2",
+            "title": "Answering Factual Questions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.4.3",
+            "title": "Answering Inferential Questions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.4.4",
+            "title": "Comprehension Practice: Social Issues",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.4.5",
+            "title": "Comprehension Practice: Scientific Topics",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.4.6",
+            "title": "Comprehension Practice: General Knowledge",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.4.7",
+            "title": "Time Management for Comprehension",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "4.5",
+        "title": "Translation",
+        "subtopics": [
+          {
+            "id": "4.5.1",
+            "title": "English to Urdu: Literal Translation",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.5.2",
+            "title": "Urdu to English: Literal Translation",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.5.3",
+            "title": "Contextual Translation: Sentences",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.5.4",
+            "title": "Contextual Translation: Paragraphs",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.5.5",
+            "title": "Common Phrases for Translation",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "4.5.6",
+            "title": "Practice: CSS-Style Translation Prompts",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "subject": "General Science & Ability",
+    "marks": 100,
+    "code": "3.",
+    "topics": [
+      {
+        "id": "5.1",
+        "title": "Physical and Environmental Sciences",
+        "subtopics": [
+          {
+            "id": "5.1.1",
+            "title": "Universe: Galaxies and Light Years",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.2",
+            "title": "Solar System: Sun, Earth, and Planets",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.3",
+            "title": "Eclipses: Solar and Lunar Phenomena",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.4",
+            "title": "Earth’s Motion: Rotation and Revolution",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.5",
+            "title": "Weather Variables: Temperature and Pressure",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.6",
+            "title": "Weather Variables: Precipitation and Humidity",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.7",
+            "title": "Natural Disasters: Earthquakes and Tsunamis",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.8",
+            "title": "Natural Disasters: Volcanoes and Cyclones",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.9",
+            "title": "Disaster Risk Management Strategies",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.10",
+            "title": "Energy: Renewable Sources (Solar, Wind)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.11",
+            "title": "Energy: Non-Renewable Conservation",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.12",
+            "title": "Atmosphere: Layers and Composition",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.13",
+            "title": "Hydrosphere: Water Cycle and Oceans",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.14",
+            "title": "Biosphere: Major Biomes",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.15",
+            "title": "Lithosphere: Rocks and Plate Tectonics",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.16",
+            "title": "Air Pollution: COx and NOx Effects",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.17",
+            "title": "Air Pollution: Ozone Depletion and Acid Rain",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.18",
+            "title": "Water Pollution: Organic and Heavy Metal Pollutants",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.19",
+            "title": "Water Quality: Drinking Water Standards",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.20",
+            "title": "Land Pollution: Solid Waste Management",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.21",
+            "title": "Remote Sensing and GIS Applications",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.1.22",
+            "title": "Population Planning: Policies and Challenges",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "5.2",
+        "title": "Biological and Food Sciences",
+        "subtopics": [
+          {
+            "id": "5.2.1",
+            "title": "Cell Structures: Nucleus and Mitochondria",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.2",
+            "title": "Cell Functions: Ribosomes and Organelles",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.3",
+            "title": "Biomolecules: Proteins and Enzymes",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.4",
+            "title": "Biomolecules: Carbohydrates and Lipids",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.5",
+            "title": "Plant Kingdom: Diversity and Characteristics",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.6",
+            "title": "Animal Kingdom: Similarities and Differences",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.7",
+            "title": "Human Physiology: Digestive System",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.8",
+            "title": "Human Physiology: Circulatory and Respiratory Systems",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.9",
+            "title": "Diseases: Polio and Hepatitis Causes",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.10",
+            "title": "Diseases: Malaria and Dengue Prevention",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.11",
+            "title": "Biofuel: Bioethanol Production Methods",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.12",
+            "title": "Balanced Diet: Vitamins and Minerals",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.13",
+            "title": "Balanced Diet: Proteins and Carbohydrates",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.14",
+            "title": "Food Quality: Bioavailability and Texture",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.15",
+            "title": "Food Quality: Additives and Preservatives",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.16",
+            "title": "Food Deterioration: Microbial Spoilage",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.2.17",
+            "title": "Food Preservation: Freezing and Canning",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "5.3",
+        "title": "Information Technology and Modern Innovations",
+        "subtopics": [
+          {
+            "id": "5.3.1",
+            "title": "Atomic Structure: Subatomic Particles",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.2",
+            "title": "Chemical Bonding: Ionic and Covalent Bonds",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.5",
+            "title": "Electromagnetic Radiations: Spectrum and Uses",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.4",
+            "title": "Modern Materials: Ceramics and Plastics",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.5",
+            "title": "Semiconductors: Applications in Electronics",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.6",
+            "title": "Chemicals: Antibiotics and Vaccines",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.7",
+            "title": "Chemicals: Fertilizers and Pesticides",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.8",
+            "title": "Computers: Hardware and Software Basics",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.9",
+            "title": "Networking: Internet Standards and Protocols",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.10",
+            "title": "Information Systems: Data Storage and Processing",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.11",
+            "title": "Artificial Intelligence: Machine Learning Basics",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.12",
+            "title": "Telecommunications: Mobile and Satellite Systems",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.3.13",
+            "title": "Telecommunications: Fiber Optics and GPS",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "5.4",
+        "title": "Quantitative and Logical Reasoning",
+        "subtopics": [
+          {
+            "id": "5.4.1",
+            "title": "Arithmetic: Averages and Percentages",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.4.2",
+            "title": "Arithmetic: Ratios and Proportions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.4.3",
+            "title": "Algebra: Linear Equations and Inequalities",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.4.4",
+            "title": "Geometry: Angles and Triangles",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.4.5",
+            "title": "Sets and Sequences: Patterns and Series",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.4.6",
+            "title": "Statistical Sampling: Random Sampling Techniques",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.4.7",
+            "title": "Logical Reasoning: Syllogisms and Conclusions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.4.8",
+            "title": "Logical Reasoning: Logical Sequences",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "5.5",
+        "title": "Mental and Analytical Abilities",
+        "subtopics": [
+          {
+            "id": "5.5.1",
+            "title": "Verbal Ability: Comprehension and Vocabulary",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.5.2",
+            "title": "Numerical Ability: Data Interpretation",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.5.3",
+            "title": "Mechanical Ability: Spatial Reasoning",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.5.4",
+            "title": "Social Ability: Interpersonal Scenarios",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.5.5",
+            "title": "Analytical Reasoning: Problem-Solving Frameworks",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "5.5.6",
+            "title": "Analytical Reasoning: Decision-Making Scenarios",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      }
+    ]
+  },  
+  {
+    "id": "6",
+    "subject": "Islamic Studies",
+    "marks": 100,
+    "code": "6.",
+    "topics": [
+      {
+        "id": "6.1",
+        "title": "Core Islamic Beliefs and Practices",
+        "subtopics": [
+          {
+            "id": "6.1.1",
+            "title": "Concept of Islam: Definition and Scope",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.2",
+            "title": "Importance of Din in Shaping Human Life",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.3",
+            "title": "Difference Between Din and Religion",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.4",
+            "title": "Distinctive Aspects: Universality and Simplicity",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.5",
+            "title": "Islamic Beliefs: Tawhid and Its Impact",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.6",
+            "title": "Islamic Beliefs: Prophethood and Individual Responsibility",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.7",
+            "title": "Fundamentals: Five Pillars of Islam",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.8",
+            "title": "Islamic Worships: Salah and Spiritual Growth",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.9",
+            "title": "Islamic Worships: Zakat and Social Welfare",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.10",
+            "title": "Social System: Family Structure in Islam",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.11",
+            "title": "Economic System: Zakat and Economic Equity",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.1.12",
+            "title": "Moral System: Honesty and Compassion",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "6.2",
+        "title": "Prophetic Legacy and Leadership",
+        "subtopics": [
+          {
+            "id": "6.2.1",
+            "title": "Individual: Personal Character and Ethics",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.2.2",
+            "title": "Diplomat: Treaty of Hudaybiyyah",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.2.3",
+            "title": "Diplomat: Letters to World Leaders",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.2.4",
+            "title": "Educator: Teaching Through Example",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.2.5",
+            "title": "Military Strategist: Battle of Badr",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.2.6",
+            "title": "Military Strategist: Battle of Trench",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.2.7",
+            "title": "Peace Maker: Conquest of Makkah",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.2.8",
+            "title": "Peace Maker: Farewell Sermon",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "6.3",
+        "title": "Human Rights and Social Equity in Islam",
+        "subtopics": [
+          {
+            "id": "6.3.1",
+            "title": "Human Rights: Freedom and Equality",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.3.2",
+            "title": "Status of Women: Education and Property Rights",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.3.3",
+            "title": "Status of Women: Role in Family and Society",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.3.4",
+            "title": "Dignity of Men and Women: Quranic Perspective",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.3.5",
+            "title": "Dignity: Protection of Minorities",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "6.4",
+        "title": "Islamic Civilization and Global Influence",
+        "subtopics": [
+          {
+            "id": "6.4.1",
+            "title": "Meanings of Islamic Civilization",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.2",
+            "title": "Vital Elements: Knowledge and Faith",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.3",
+            "title": "Tawhid as a Unifying Principle",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.4",
+            "title": "Self-Purification and Personal Growth",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.5",
+            "title": "Dignity of Man and Equality",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.6",
+            "title": "Social Justice and Moral Values",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.7",
+            "title": "Tolerance and Rule of Law",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.8",
+            "title": "Impact on West: Scientific Contributions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.9",
+            "title": "Western Impact: Colonialism and Modernization",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.10",
+            "title": "Role of Islam in Modern World: Ethics and Peace",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.11",
+            "title": "Muslim World Challenges: Political Instability",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.12",
+            "title": "Muslim World Challenges: Economic Disparities",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.4.13",
+            "title": "Rise of Extremism: Causes and Solutions",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      },
+      {
+        "id": "6.5",
+        "title": "Governance and Administration in Islam",
+        "subtopics": [
+          {
+            "id": "6.5.1",
+            "title": "Concept of Public Administration in Islam",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.2",
+            "title": "Quranic Guidance: Principles of Good Governance",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.3",
+            "title": "Governance in Light of Sunnah",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.4",
+            "title": "Fiqh and Governance Applications",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.5",
+            "title": "Shura: Consultative Governance",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.6",
+            "title": "Sources of Islamic Law: Quran and Hadith",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.7",
+            "title": "Pious Khilafat: Rashidun Caliphs",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.8",
+            "title": "Administrative Instructions of Hazrat Umar (R.A)",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.9",
+            "title": "Letters of Hazrat Ali (R.A) to Governors",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.10",
+            "title": "Responsibilities of Civil Servants in Islam",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.11",
+            "title": "Hisbah: System of Accountability",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.12",
+            "title": "Political System: Islamic State Principles",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.13",
+            "title": "Judicial System: Qadi and Justice Delivery",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.14",
+            "title": "Administrative System: Provincial Governance",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.15",
+            "title": "Ijma: Consensus in Islamic Law",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          },
+          {
+            "id": "6.5.16",
+            "title": "Ijtihad: Modern, Modern Applications",
+            "notes": "",
+            "progress": "Not Started",
+            "targetTime": 0,
+            "remainingTime": 0
+          }
+        ]
+      }
+    ]
+  }
+]
