@@ -13,6 +13,9 @@ interface NoteEditorProps {
   updateTargetTime: (subjectId: string, topicId: string, subtopicId: string, newTargetTime: number) => Promise<void>;
 }
 
+const INDENT_STYLE = 'padding-left: 1.5rem;';
+
+
 export default function NoteEditor({
   subject,
   topic,
@@ -56,6 +59,31 @@ export default function NoteEditor({
     return words.length;
   };
 
+  const placeCaretAtEnd = (el: HTMLElement) => {
+    const range = document.createRange();
+    const sel = window.getSelection();
+    range.selectNodeContents(el);
+    range.collapse(false);
+    sel?.removeAllRanges();
+    sel?.addRange(range);
+  };
+  
+  const insertNewLineWithPrefix = (prefix: string, style: string = '') => {
+    const newBlock = document.createElement('div');
+    newBlock.innerHTML = prefix || '<br>';
+    newBlock.setAttribute('style', style); // Always apply fresh style
+    newBlock.className = ''; // Clear inherited classes
+    const range = window.getSelection()?.getRangeAt(0);
+    if (range) {
+      range.deleteContents();
+      range.insertNode(newBlock);
+      placeCaretAtEnd(newBlock);
+    }
+  };
+  
+  
+  
+
   // Handle editor input
   const handleEditorInput = () => {
     if (!editorRef.current) return;
@@ -64,6 +92,78 @@ export default function NoteEditor({
     rawContentRef.current = rawText;
     setWordCount(calculateWordCount(rawText));
   };
+
+  // Handle key presses for shortcuts and list formatting
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLDivElement>) => {
+    const sel = window.getSelection();
+    if (!sel || sel.rangeCount === 0) return;
+  
+    const range = sel.getRangeAt(0);
+    const node = range.startContainer;
+    const block = node.nodeType === 3 ? node.parentElement : node as HTMLElement;
+    const text = block?.textContent || '';
+  
+    // === Font Size Increase: Ctrl + Alt + ArrowUp ===
+    if (e.ctrlKey && e.altKey && e.key === 'ArrowUp') {
+      e.preventDefault();
+      if (block instanceof HTMLElement) {
+        const current = block.style.fontSize || '1rem';
+        let newSize = '1.25rem';
+        if (current === '1.25rem') newSize = '1.5rem';
+        else if (current === '1.5rem') newSize = '1rem';
+        block.style.fontSize = newSize;
+      }
+    }
+  
+    // === Font Size Decrease: Ctrl + Alt + ArrowDown ===
+    if (e.ctrlKey && e.altKey && e.key === 'ArrowDown') {
+      e.preventDefault();
+      if (block instanceof HTMLElement) {
+        const current = block.style.fontSize || '1.5rem';
+        let newSize = '1.25rem';
+        if (current === '1.25rem') newSize = '1rem';
+        else if (current === '1rem') newSize = '1.5rem';
+        block.style.fontSize = newSize;
+      }
+    }
+  
+    // === Auto Bullet Conversion ===
+    if (e.key === ' ' && /^[-•]$/.test(text.trim())) {
+      e.preventDefault();
+      block.textContent = '• ';
+      block.setAttribute('style', INDENT_STYLE);
+      if (block) {
+        if (block) {
+          placeCaretAtEnd(block);
+        }
+      }
+    }
+  
+    // === Auto Numbered Conversion ===
+    if (e.key === ' ' && /^1\.$/.test(text.trim())) {
+      e.preventDefault();
+      block.textContent = '1) ';
+      block.setAttribute('style', INDENT_STYLE);
+      placeCaretAtEnd(block);
+    }
+  
+    // === Continue bullet or number on Enter ===
+    if (e.key === 'Enter') {
+      if (block?.textContent?.startsWith('• ')) {
+        e.preventDefault();
+        insertNewLineWithPrefix('• ', INDENT_STYLE);
+      } else if (/^(\d+)\)\s/.test(text)) {
+        e.preventDefault();
+        const match = text.match(/^(\d+)\)/);
+        if (match) {
+          const nextNum = parseInt(match[1]) + 1;
+          insertNewLineWithPrefix(`${nextNum}) `, INDENT_STYLE);
+        }
+      }
+    }
+  };
+  
+  
 
   // Save notes with feedback
   const handleSave = async () => {
@@ -109,6 +209,7 @@ export default function NoteEditor({
         contentEditable
         suppressContentEditableWarning
         onInput={handleEditorInput}
+        onKeyDown={handleKeyDown}
         className="flex-1 w-full p-4 bg-gray-100 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 min-h-[200px] max-h-[calc(90vh-300px)] overflow-y-auto"
         role="textbox"
         aria-label="Note editor"

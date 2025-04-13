@@ -27,23 +27,22 @@ export default function NoteTakingModal({
   updateProgress,
   updateTargetTime,
 }: NoteTakingModalProps) {
-  const [currentSubtopicIndex, setCurrentSubtopicIndex] = useState(0); // Hook 1
+  const [currentSubtopicIndex, setCurrentSubtopicIndex] = useState(0);
 
-  // Call all Hooks before any early returns
   const subtopicsArray = topic && subject
     ? topic.subtopics
       ? Object.values(topic.subtopics).sort((a, b) => a.id.localeCompare(b.id))
       : []
     : [];
 
-  const editorState = useEditorLogic({ // Hook 2 (uses useState internally)
+  const editorState = useEditorLogic({
     subjectId: subject?.id ?? '',
     topicId: topic?.id ?? '',
     subtopics: subtopicsArray,
     currentSubtopicIndex,
   });
 
-  useEffect(() => { // Hook 3
+  useEffect(() => {
     if (!topic || !subject) {
       if (typeof onClose === 'function') {
         onClose();
@@ -53,13 +52,12 @@ export default function NoteTakingModal({
     }
   }, [topic, subject, onClose]);
 
-  useEffect(() => { // Hook 4
+  useEffect(() => {
     if (topic) {
       setCurrentSubtopicIndex(0);
     }
   }, [topic]);
 
-  // Now perform the early return after all Hooks are called
   if (!topic || !subject) {
     return null;
   }
@@ -68,8 +66,8 @@ export default function NoteTakingModal({
     <Modal
       isOpen={isOpen}
       onRequestClose={onClose}
-      className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded-lg shadow-xl w-full max-w-4xl max-h-[90vh] overflow-y-auto"
-      overlayClassName="fixed inset-0 bg-black bg-opacity-50"
+      className="fixed inset-0 bg-white w-[1920px] max-w-full h-screen mx-auto shadow-xl overflow-hidden z-[9999]"
+      overlayClassName="fixed inset-0 bg-black bg-opacity-50 z-[9999]"
       ariaHideApp={false}
     >
       <div className="flex flex-col h-full">
@@ -121,7 +119,6 @@ export default function NoteTakingModal({
                 topic={topic}
                 subtopics={subtopicsArray}
                 currentSubtopicIndex={currentSubtopicIndex}
-                editorState={editorState}
                 updateNotes={updateNotes}
                 updateProgress={updateProgress}
                 updateTargetTime={updateTargetTime}
