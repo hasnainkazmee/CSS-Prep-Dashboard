@@ -1,230 +1,148 @@
-import { useRef, useEffect, useState } from 'react';
-import { Subtopic, EditorState } from '../types/noteTaking';
+'use client';
+
+import { useEffect, useRef, useState } from 'react';
+import { Subtopic, Subject, Topic } from '../types';
 
 interface NoteEditorProps {
+  subject: Subject;
+  topic: Topic;
   subtopics: Subtopic[];
   currentSubtopicIndex: number;
-  editorState: {
-    localNotes: Record<string, string>;
-    localProgress: Record<string, 'Pending' | 'Completed'>;
-    wordCount: Record<string, number>;
-    isSaved: boolean;
-    handleInput: (content: string) => void;
-    handleProgressChange: () => void;
-    isProgressDisabled: () => boolean;
-  };
-  handleModalClose: () => void;
+  updateNotes: (subjectId: string, topicId: string, subtopicId: string, newNotes: string) => Promise<void>;
+  updateProgress: (subjectId: string, topicId: string, subtopicId: string, newProgress: 'Pending' | 'Completed') => Promise<void>;
+  updateTargetTime: (subjectId: string, topicId: string, subtopicId: string, newTargetTime: number) => Promise<void>;
 }
 
 export default function NoteEditor({
+  subject,
+  topic,
   subtopics,
   currentSubtopicIndex,
-  editorState,
-  handleModalClose,
+  updateNotes,
+  updateProgress,
 }: NoteEditorProps) {
   const editorRef = useRef<HTMLDivElement>(null);
   const rawContentRef = useRef<string>('');
-  const [cursorPosition, setCursorPosition] = useState<number | null>(null);
+  const [wordCount, setWordCount] = useState(0);
+  const [saveStatus, setSaveStatus] = useState<'idle' | 'saving' | 'success' | 'error'>('idle');
+  const [isCompleted, setIsCompleted] = useState(
+    subtopics[currentSubtopicIndex]?.progress === 'Completed' || false
+  );
 
-  // Save cursor position
-  const saveCursorPosition = () => {
-    const selection = window.getSelection();
-    if (!selection || !editorRef.current || !selection.rangeCount) return null;
+  // Handle empty or invalid subtopics
+  if (!subtopics || subtopics.length === 0 || currentSubtopicIndex < 0 || currentSubtopicIndex >= subtopics.length) {
+    return <div className="p-4 text-gray-500">No subtopics available.</div>;
+  }
 
-    const range = selection.getRangeAt(0);
-    const preSelectionRange = range.cloneRange();
-    preSelectionRange.selectNodeContents(editorRef.current);
-    preSelectionRange.setEnd(range.startContainer, range.startOffset);
-    return preSelectionRange.toString().length;
+  // Helper to convert HTML to plain text
+  const htmlToText = (html: string): string => {
+    const div = document.createElement('div');
+    div.innerHTML = html;
+    return div.textContent?.replace(/\s+/g, ' ').trim() || '';
   };
 
-  // Restore cursor position
-  const restoreCursorPosition = (position: number | null) => {
-    if (position === null || !editorRef.current) return;
-
-    const selection = window.getSelection();
-    if (!selection) return;
-
-    let charIndex = 0;
-    const range = document.createRange();
-    range.setStart(editorRef.current, 0);
-    range.collapse(true);
-
-    const nodeStack: Node[] = [editorRef.current];
-    let found = false;
-
-    while (nodeStack.length && !found) {
-      const node = nodeStack.pop()!;
-      if (node.nodeType === Node.TEXT_NODE) {
-        const textLength = node.textContent?.length || 0;
-        if (charIndex + textLength >= position) {
-          range.setStart(node, position - charIndex);
-          found = true;
-        }
-        charIndex += textLength;
-      } else {
-        for (let i = node.childNodes.length - 1; i >= 0; i--) {
-          nodeStack.push(node.childNodes[i]);
-        }
-      }
-    }
-
-    if (!found) {
-      range.setStart(editorRef.current, editorRef.current.childNodes.length);
-    }
-
-    range.collapse(true);
-    selection.removeAllRanges();
-    selection.addRange(range);
-  };
-
-  // Convert HTML to plain text (for state)
-  const htmlToText = (html: string) => {
-    if (html.includes('Start typing')) return '';
-    return html
-      .replace(/<br\s*\/?>/gi, '\n')
-      .replace(/<\/div><div>/gi, '\n')
-      .replace(/<\/p><p>/gi, '\n')
-      .replace(/<(div|p)[^>]*>/gi, '')
-      .replace(/<\/(div|p)>/gi, '')
-      .replace(/ /g, ' ') // Replace non-breaking spaces with regular spaces
-      .replace(/<[^>]+>/g, '')
-      .trim();
-  };
-
-  // Convert plain text to HTML (for rendering in editor)
-  const textToHtml = (text: string) => {
-    if (!text) return '<p style="color: #6B7280;">Start typing...</p>';
+  // Helper to convert plain text to HTML (preserving line breaks)
+  const textToHtml = (text: string): string => {
     return text
       .split('\n')
-      .map((line) => (line.trim() ? `<div>${line}</div>` : '<br>'))
+      .map((line) => `<div>${line || '<br>'}</div>`)
       .join('');
+  };
+
+  // Calculate word count
+  const calculateWordCount = (text: string): number => {
+    if (!text) return 0;
+    const words = text.trim().split(/\s+/).filter((word) => word.length > 0);
+    return words.length;
+  };
+
+  // Handle editor input
+  const handleEditorInput = () => {
+    if (!editorRef.current) return;
+    const rawHtml = editorRef.current.innerHTML;
+    const rawText = htmlToText(rawHtml);
+    rawContentRef.current = rawText;
+    setWordCount(calculateWordCount(rawText));
+  };
+
+  // Save notes with feedback
+  const handleSave = async () => {
+    setSaveStatus('saving');
+    try {
+      const subtopicId = subtopics[currentSubtopicIndex].id;
+      await updateNotes(subject.id, topic.id, subtopicId, rawContentRef.current);
+      setSaveStatus('success');
+    } catch (error) {
+      console.error('Failed to save notes:', error);
+      setSaveStatus('error');
+    }
+    setTimeout(() => setSaveStatus('idle'), 2000);
+  };
+
+  // Toggle completion status
+  const handleToggleComplete = async () => {
+    const subtopicId = subtopics[currentSubtopicIndex].id;
+    const newProgress = isCompleted ? 'Pending' : 'Completed';
+    setIsCompleted(!isCompleted);
+    await updateProgress(subject.id, topic.id, subtopicId, newProgress);
   };
 
   // Initialize editor content
   useEffect(() => {
-    if (!editorRef.current || !subtopics[currentSubtopicIndex]) return;
-
-    const cursor = saveCursorPosition();
-    const subtopicId = subtopics[currentSubtopicIndex].id;
-    rawContentRef.current = editorState.localNotes[subtopicId] || '';
-    editorRef.current.innerHTML = textToHtml(rawContentRef.current);
-    setCursorPosition(cursor);
-  }, [editorState.localNotes, currentSubtopicIndex, subtopics]);
-
-  // Restore cursor position after render
-  useEffect(() => {
-    restoreCursorPosition(cursorPosition);
-  }, [cursorPosition, editorState.localNotes, currentSubtopicIndex, subtopics]);
-
-  const handleEditorInput = () => {
     if (!editorRef.current) return;
-
-    const cursor = saveCursorPosition();
-    const rawHtml = editorRef.current.innerHTML;
-    const rawText = htmlToText(rawHtml);
+    const rawText = subtopics[currentSubtopicIndex].notes || '';
     rawContentRef.current = rawText;
-    editorState.handleInput(rawText);
+    editorRef.current.innerHTML = rawText ? textToHtml(rawText) : '';
+    setWordCount(calculateWordCount(rawText));
+  }, [currentSubtopicIndex, subtopics]);
 
-    editorRef.current.style.direction = 'ltr';
-    editorRef.current.style.textAlign = 'left';
-    setCursorPosition(cursor);
-  };
-
-  const handleKeyDown = (e: React.KeyboardEvent<HTMLDivElement>) => {
-    if (editorRef.current) {
-      editorRef.current.style.direction = 'ltr';
-      editorRef.current.style.textAlign = 'left';
-
-      if (e.key === 'Enter') {
-        e.preventDefault();
-        const selection = window.getSelection();
-        if (selection && selection.rangeCount > 0) {
-          const range = selection.getRangeAt(0);
-          range.deleteContents();
-          const br = document.createElement('br');
-          range.insertNode(br);
-          range.setStartAfter(br);
-          range.setEndAfter(br);
-          selection.removeAllRanges();
-          selection.addRange(range);
-        }
-      } else if (e.key === ' ') {
-        // Prevent non-breaking spaces by manually inserting a regular space
-        e.preventDefault();
-        const selection = window.getSelection();
-        if (selection && selection.rangeCount > 0) {
-          const range = selection.getRangeAt(0);
-          range.deleteContents();
-          const space = document.createTextNode(' ');
-          range.insertNode(space);
-          range.setStartAfter(space);
-          range.setEndAfter(space);
-          selection.removeAllRanges();
-          selection.addRange(range);
-        }
-      }
-    }
-  };
+  // Update isCompleted only when currentSubtopicIndex changes
+  useEffect(() => {
+    setIsCompleted(subtopics[currentSubtopicIndex].progress === 'Completed');
+  }, [currentSubtopicIndex]);
 
   return (
-    <div className="flex-1 p-10 bg-gray-50 overflow-auto">
-      <div className="flex items-center justify-between mb-8">
-        <h3 className="text-2xl font-semibold text-gray-900">
-          {subtopics[currentSubtopicIndex]?.title || 'Notes'}
-        </h3>
-        <div className="flex items-center space-x-4">
-          <button
-            onClick={handleModalClose}
-            className="text-gray-500 hover:text-gray-700 transition-all duration-200"
-          >
-            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth="2"
-                d="M6 18L18 6M6 6l12 12"
-              />
-            </svg>
-          </button>
-        </div>
-      </div>
-      <div className="mb-8 flex items-center space-x-4">
-        <button
-          onClick={editorState.handleProgressChange}
-          disabled={editorState.isProgressDisabled()}
-          className={`px-6 py-2 text-sm font-medium rounded-lg transition-all duration-200 ${
-            editorState.localProgress[subtopics[currentSubtopicIndex]?.id] === 'Completed'
-              ? 'bg-green-600 text-white hover:bg-green-700'
-              : editorState.isProgressDisabled()
-              ? 'bg-gray-100 text-gray-300 cursor-not-allowed'
-              : 'bg-gray-50 text-gray-700 hover:bg-gray-100'
-          }`}
-        >
-          {editorState.localProgress[subtopics[currentSubtopicIndex]?.id] === 'Completed'
-            ? 'Mark as Pending'
-            : 'Mark as Completed'}
-        </button>
-        <div
-          className={`px-4 py-1 text-sm font-medium rounded-lg transition-all duration-200 ${
-            editorState.isSaved ? 'bg-green-600 text-white' : 'bg-yellow-500 text-white'
-          } animate-pulse`}
-        >
-          {editorState.isSaved ? 'Saved' : 'Unsaved'}
-        </div>
-      </div>
+    <div className="flex-1 flex flex-col p-4">
+      {/* Editor */}
       <div
         ref={editorRef}
-        contentEditable={true}
+        contentEditable
+        suppressContentEditableWarning
         onInput={handleEditorInput}
-        onKeyDown={handleKeyDown}
-        className="w-full min-h-[700px] p-8 bg-gray-100 rounded-xl border border-gray-200 shadow-sm text-gray-900 text-lg leading-relaxed focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all duration-200 cursor-text"
-        style={{ direction: 'ltr', textAlign: 'left', unicodeBidi: 'embed' }}
-        dir="ltr"
+        className="flex-1 w-full p-4 bg-gray-100 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 min-h-[200px] max-h-[calc(90vh-300px)] overflow-y-auto"
+        role="textbox"
+        aria-label="Note editor"
       />
-      <div className="mt-6 flex justify-between items-center">
-        <div className="text-sm text-gray-500">
-          Words: {editorState.wordCount[subtopics[currentSubtopicIndex]?.id] || 0}
+
+      {/* Editor Footer */}
+      <div className="mt-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+        {/* Word Count */}
+        <div className="text-sm text-gray-600">Word Count: {wordCount}</div>
+
+        {/* Save and Toggle */}
+        <div className="flex items-center space-x-3">
+          <div className="flex items-center space-x-2">
+            <button
+              onClick={handleSave}
+              className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors"
+              aria-label="Save notes"
+            >
+              {saveStatus === 'saving' ? 'Saving...' : 'Save'}
+            </button>
+            {saveStatus === 'success' && <span className="text-green-500 text-sm">Saved!</span>}
+            {saveStatus === 'error' && <span className="text-red-500 text-sm">Save failed!</span>}
+          </div>
+          <button
+            onClick={handleToggleComplete}
+            className={`px-4 py-2 rounded-lg font-medium transition-colors duration-200 ${
+              isCompleted
+                ? 'bg-green-500 text-white hover:bg-green-600'
+                : 'bg-gray-300 text-gray-800 hover:bg-gray-400'
+            }`}
+            aria-label={isCompleted ? 'Mark as not completed' : 'Mark as completed'}
+          >
+            Completed
+          </button>
         </div>
       </div>
     </div>
