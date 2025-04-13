@@ -25,16 +25,7 @@ export default function SubtopicSidebar({
                 : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
             }`}
           >
-            <span className="truncate">{subtopic.title}</span>
-            <span className="ml-2 text-xs">
-              {subtopic.progress === 'Completed' ? (
-                <span className="text-green-500">✔</span>
-              ) : subtopic.progress === 'Pending' ? (
-                <span className="text-yellow-500">⌛</span>
-              ) : null}
-            </span>
-            {subtopic.priority && <span className="ml-2 text-yellow-500">★</span>}
-            {subtopic.toStudy && <span className="ml-2 text-blue-500">📖</span>}
+            {subtopic.title}
           </button>
         ))}
       </div>
