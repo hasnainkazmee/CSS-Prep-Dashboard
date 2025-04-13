@@ -52,6 +52,13 @@ export default function NoteTakingModal({
     }
   }, [topic, subject, onClose]);
 
+  // Cleanup on unmount to mitigate React-Modal warning
+  useEffect(() => {
+    return () => {
+      Modal.setAppElement('body');
+    };
+  }, []);
+
   useEffect(() => {
     if (topic) {
       setCurrentSubtopicIndex(0);
@@ -68,6 +75,7 @@ export default function NoteTakingModal({
       onRequestClose={onClose}
       className="fixed inset-0 bg-white w-[1920px] max-w-full h-screen mx-auto shadow-xl overflow-hidden z-[9999]"
       overlayClassName="fixed inset-0 bg-black bg-opacity-50 z-[9999]"
+      shouldCloseOnOverlayClick={true} // Allow closing by clicking overlay
       ariaHideApp={false}
     >
       <div className="flex flex-col h-full">

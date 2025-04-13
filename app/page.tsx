@@ -2,10 +2,10 @@
 
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import Modal from 'react-modal';
-import OnboardingModal from '@/components/OnboardingModal';
-import SubjectModal from '@/components/SubjectModal';
-import NoteTakingModal from '@/components/NoteTakingModal';
-import { Subject, Topic } from '@/types';
+import OnboardingModal from '../components/OnboardingModal';
+import SubjectModal from '../components/SubjectModal';
+import NoteTakingModal from '../components/NoteTakingModal';
+import { Subject, Topic } from '../types';
 import Link from 'next/link';
 import { loadState, saveState } from '../lib/persistence';
 
@@ -43,114 +43,121 @@ export default function Home() {
       }
     };
     setAppElement();
-  }, []); // Dependency array is consistently empty
+  }, []);
+
+  const fetchSubjects = useCallback(async () => {
+    try {
+      console.log('Fetching subjects from /api/subjects...');
+      const res = await fetch('/api/subjects');
+      if (!res.ok) {
+        throw new Error('Failed to fetch subjects from API.');
+      }
+      const data: Subject[] = await res.json();
+      console.log('Subjects fetched successfully:', data.map(s => ({ id: s.id, subject: s.subject })));
+
+      console.log('Loading Firebase data for subtopics...');
+      const subjectsWithFirebaseData = await Promise.all(
+        data.map(async (subject) => {
+          console.log(`Processing subject: ${subject.subject}`);
+          return {
+            ...subject,
+            topics: await Promise.all(
+              subject.topics.map(async (topic) => {
+                console.log(`Processing topic: ${topic.title}`);
+                return {
+                  ...topic,
+                  subtopics: await Promise.all(
+                    topic.subtopics.map(async (subtopic) => {
+                      console.log(`Loading Firebase data for subtopic: ${subtopic.id}`);
+                      const key = `subtopic_${subtopic.id}`;
+                      try {
+                        const firebaseData = await loadState(key);
+                        if (firebaseData) {
+                          console.log(`Firebase data for ${key}:`, firebaseData);
+                        }
+                        return {
+                          ...subtopic,
+                          notes: firebaseData?.notes || subtopic.notes || '',
+                          progress: firebaseData?.progress || subtopic.progress || 'Pending',
+                          targetTime: firebaseData?.targetTime || subtopic.targetTime || 0,
+                          remainingTime: firebaseData?.remainingTime || subtopic.remainingTime || 0,
+                        };
+                      } catch (firebaseError) {
+                        console.error(`Error loading Firebase data for ${key}:`, firebaseError);
+                        return {
+                          ...subtopic,
+                          notes: subtopic.notes || '',
+                          progress: subtopic.progress || 'Pending',
+                          targetTime: subtopic.targetTime || 0,
+                          remainingTime: subtopic.remainingTime || 0,
+                        };
+                      }
+                    })
+                  ),
+                };
+              })
+            ),
+          };
+        })
+      );
+
+      console.log('Subjects with Firebase data:', subjectsWithFirebaseData.map(s => ({ id: s.id, subject: s.subject })));
+      setAllSubjects(subjectsWithFirebaseData);
+      setSubjects(subjectsWithFirebaseData);
+      setSelectedSubjects([
+        'English Essay',
+        'English (Precis & Composition)',
+        'Pakistan Affairs',
+        'Current Affairs',
+        'Islamic Studies',
+        'General Science & Ability',
+      ]);
+    } catch (error) {
+      console.error('Error fetching subjects:', error);
+      setError('Failed to load subjects. Please try again.');
+    }
+  }, []);
 
   useEffect(() => {
     const hasCompletedOnboarding = typeof window !== 'undefined' && localStorage.getItem('hasCompletedOnboarding');
     const savedPrioritySubjects = typeof window !== 'undefined' && localStorage.getItem('prioritySubjects');
     const savedCompletionMonths = typeof window !== 'undefined' && localStorage.getItem('completionMonths');
 
-    const fetchSubjects = async () => {
-      try {
-        console.log('Fetching subjects from /api/subjects...');
-        const res = await fetch('/api/subjects');
-        if (!res.ok) {
-          throw new Error('Failed to fetch subjects from API.');
-        }
-        const data: Subject[] = await res.json();
-        console.log('Subjects fetched successfully:', data.map(s => ({ id: s.id, subject: s.subject })));
+    const initializeSubjects = async () => {
+      await fetchSubjects();
 
-        console.log('Loading Firebase data for subtopics...');
-        const subjectsWithFirebaseData = await Promise.all(
-          data.map(async (subject) => {
-            console.log(`Processing subject: ${subject.subject}`);
-            return {
-              ...subject,
-              topics: await Promise.all(
-                subject.topics.map(async (topic) => {
-                  console.log(`Processing topic: ${topic.title}`);
-                  return {
-                    ...topic,
-                    subtopics: await Promise.all(
-                      topic.subtopics.map(async (subtopic) => {
-                        console.log(`Loading Firebase data for subtopic: ${subtopic.id}`);
-                        const key = `subtopic_${subtopic.id}`;
-                        try {
-                          const firebaseData = await loadState(key);
-                          if (firebaseData) {
-                            console.log(`Firebase data for ${key}:`, firebaseData);
-                          }
-                          return {
-                            ...subtopic,
-                            notes: firebaseData?.notes || subtopic.notes || '',
-                            progress: firebaseData?.progress || subtopic.progress || 'Pending',
-                          };
-                        } catch (firebaseError) {
-                          console.error(`Error loading Firebase data for ${key}:`, firebaseError);
-                          return {
-                            ...subtopic,
-                            notes: subtopic.notes || '',
-                            progress: subtopic.progress || 'Pending',
-                          };
-                        }
-                      })
-                    ),
-                  };
-                })
-              ),
-            };
-          })
-        );
-
-        console.log('Subjects with Firebase data:', subjectsWithFirebaseData.map(s => ({ id: s.id, subject: s.subject })));
-        setAllSubjects(subjectsWithFirebaseData);
-        setSubjects(subjectsWithFirebaseData);
-        setSelectedSubjects([
-          'English Essay',
-          'English (Precis & Composition)',
-          'Pakistan Affairs',
-          'Current Affairs',
-          'Islamic Studies',
-          'General Science & Ability',
-        ]);
-
-        if (hasCompletedOnboarding && savedPrioritySubjects && savedCompletionMonths) {
-          let parsedPriority: string[] = JSON.parse(savedPrioritySubjects);
-          parsedPriority = parsedPriority.map(p => subjectNameMapping[p] || p);
-          console.log('Loaded and mapped priority subjects:', parsedPriority);
-          setPrioritySubjects(parsedPriority);
-          setCompletionMonths(parseInt(savedCompletionMonths));
-          setIsOnboarding(false);
-        } else {
-          setPrioritySubjects([]);
-          localStorage.removeItem('prioritySubjects');
-          localStorage.removeItem('completionMonths');
-        }
-      } catch (error) {
-        console.error('Error fetching subjects:', error);
-        setError('Failed to load subjects. Please try again.');
+      if (hasCompletedOnboarding && savedPrioritySubjects && savedCompletionMonths) {
+        let parsedPriority: string[] = JSON.parse(savedPrioritySubjects);
+        parsedPriority = parsedPriority.map(p => subjectNameMapping[p] || p);
+        console.log('Loaded and mapped priority subjects:', parsedPriority);
+        setPrioritySubjects(parsedPriority);
+        setCompletionMonths(parseInt(savedCompletionMonths));
+        setIsOnboarding(false);
+      } else {
+        setPrioritySubjects([]);
+        localStorage.removeItem('prioritySubjects');
+        localStorage.removeItem('completionMonths');
       }
     };
-    fetchSubjects();
-  }, []); // Dependency array is consistently empty
 
-  // Simplified activeModal logic
+    initializeSubjects();
+  }, [fetchSubjects]);
+
   useEffect(() => {
-    if (isOnboarding && activeModal !== 'onboarding') {
+    if (isOnboarding) {
       setActiveModal('onboarding');
-    } else if (isSubjectModalOpen && activeModal !== 'subject') {
+    } else if (isSubjectModalOpen) {
       setActiveModal('subject');
-    } else if (selectedTopic && activeModal !== 'noteTaking') {
+    } else if (selectedTopic) {
       setActiveModal('noteTaking');
-    } else if (!isOnboarding && !isSubjectModalOpen && !selectedTopic) {
+    } else {
       setActiveModal(null);
     }
-  }, [isOnboarding, isSubjectModalOpen, selectedTopic, activeModal]); // Dependency array must remain consistent: 4 elements
+  }, [isOnboarding, isSubjectModalOpen, selectedTopic]);
 
-  // Debug modal state changes
   useEffect(() => {
     console.log('Modal state changed:', { isOnboarding, isSubjectModalOpen, selectedTopic, activeModal });
-  }, [isOnboarding, isSubjectModalOpen, selectedTopic, activeModal]); // Dependency array must remain consistent: 4 elements
+  }, [isOnboarding, isSubjectModalOpen, selectedTopic, activeModal]);
 
   const debounce = <T extends (...args: any[]) => void>(func: T, wait: number) => {
     let timeout: NodeJS.Timeout;
@@ -165,36 +172,18 @@ export default function Home() {
       async (subjectId: string, topicId: string, subtopicId: string, newNotes: string) => {
         try {
           const key = `subtopic_${subtopicId}`;
-          const subtopicData = await loadState(key) || { progress: 'Pending', notes: '' };
+          const subtopicData = await loadState(key) || { progress: 'Pending', notes: '', targetTime: 0, remainingTime: 0 };
           const updatedData = { ...subtopicData, notes: newNotes };
           await saveState(key, updatedData);
-
-          setSubjects((prev) =>
-            prev.map((subject) =>
-              subject.id === subjectId
-                ? {
-                    ...subject,
-                    topics: subject.topics.map((topic) =>
-                      topic.id === topicId
-                        ? {
-                            ...topic,
-                            subtopics: topic.subtopics.map((subtopic) =>
-                              subtopic.id === subtopicId ? { ...subtopic, notes: newNotes } : subtopic
-                            ),
-                          }
-                        : topic
-                    ),
-                  }
-                : subject
-            )
-          );
+          console.log(`Saved notes to Firebase for ${key}:`, updatedData);
+          await fetchSubjects();
         } catch (error) {
           console.error('Failed to update notes:', error);
         }
       },
       500
     ),
-    [allSubjects]
+    [fetchSubjects]
   );
 
   const updateProgress = useCallback(
@@ -206,69 +195,32 @@ export default function Home() {
     ) => {
       try {
         const key = `subtopic_${subtopicId}`;
-        const subtopicData = await loadState(key) || { progress: 'Pending', notes: '' };
+        const subtopicData = await loadState(key) || { progress: 'Pending', notes: '', targetTime: 0, remainingTime: 0 };
         const updatedData = { ...subtopicData, progress: newProgress };
         await saveState(key, updatedData);
-
-        setSubjects((prev) =>
-          prev.map((subject) =>
-            subject.id === subjectId
-              ? {
-                  ...subject,
-                  topics: subject.topics.map((topic) =>
-                    topic.id === topicId
-                      ? {
-                          ...topic,
-                          subtopics: topic.subtopics.map((subtopic) =>
-                            subtopic.id === subtopicId ? { ...subtopic, progress: newProgress } : subtopic
-                          ),
-                        }
-                      : topic
-                  ),
-                }
-              : subject
-          )
-        );
+        console.log(`Saved progress to Firebase for ${key}:`, updatedData);
+        await fetchSubjects();
       } catch (error) {
         console.error('Failed to update progress:', error);
       }
     },
-    [allSubjects]
+    [fetchSubjects]
   );
 
   const updateTargetTime = useCallback(
     async (subjectId: string, topicId: string, subtopicId: string, newTargetTime: number) => {
       try {
-        setSubjects((prev) =>
-          prev.map((subject) =>
-            subject.id === subjectId
-              ? {
-                  ...subject,
-                  topics: subject.topics.map((topic) =>
-                    topic.id === topicId
-                      ? {
-                          ...topic,
-                          subtopics: topic.subtopics.map((subtopic) =>
-                            subtopic.id === subtopicId
-                              ? {
-                                  ...subtopic,
-                                  targetTime: newTargetTime,
-                                  remainingTime: newTargetTime * 60,
-                                }
-                              : subtopic
-                          ),
-                        }
-                      : topic
-                  ),
-                }
-              : subject
-          )
-        );
+        const key = `subtopic_${subtopicId}`;
+        const subtopicData = await loadState(key) || { progress: 'Pending', notes: '', targetTime: 0, remainingTime: 0 };
+        const updatedData = { ...subtopicData, targetTime: newTargetTime, remainingTime: newTargetTime * 60 };
+        await saveState(key, updatedData);
+        console.log(`Saved target time to Firebase for ${key}:`, updatedData);
+        await fetchSubjects();
       } catch (error) {
         console.error('Failed to update target time:', error);
       }
     },
-    [allSubjects]
+    [fetchSubjects]
   );
 
   const resetSetup = useCallback(() => {
@@ -339,7 +291,61 @@ export default function Home() {
   useEffect(() => {
     console.log('Priority list:', prioritySubjectsList.map(s => ({ id: s.id, subject: s.subject })));
     console.log('To cover:', toCoverSubjects.map(s => ({ id: s.id, subject: s.subject })));
-  }, [prioritySubjectsList, toCoverSubjects]); // Dependency array must remain consistent: 2 elements
+  }, [prioritySubjectsList, toCoverSubjects]);
+
+  // Define the modal content based on activeModal
+  const ModalContent = () => {
+    if (activeModal === 'onboarding') {
+      return (
+        <OnboardingModal
+          isOpen={true}
+          allSubjects={allSubjects}
+          error={error}
+          onComplete={(prioritySubjects, completionMonths) => {
+            handleOnboardingComplete(prioritySubjects, completionMonths);
+            setActiveModal(null);
+          }}
+        />
+      );
+    }
+    if (activeModal === 'subject' && selectedSubject) {
+      return (
+        <SubjectModal
+          isOpen={true}
+          subject={selectedSubject}
+          onClose={handleSubjectModalClose}
+          onTopicSelect={(topic, updateSubject) => {
+            setIsSubjectModalOpen(false);
+            setSelectedTopic(topic);
+            updateSubject(selectedSubject); // Use selectedSubject instead of undefined 'subject'
+          }}
+          calculateTopicProgress={(subtopics) => {
+            const completed = subtopics.filter((sub) => sub.progress === 'Completed').length;
+            return subtopics.length > 0 ? (completed / subtopics.length) * 100 : 0;
+          }}
+          updateSubject={(updatedSubject) =>
+            setAllSubjects((prev) =>
+              prev.map((s) => (s.id === updatedSubject.id ? updatedSubject : s))
+            )
+          }
+        />
+      );
+    }
+    if (activeModal === 'noteTaking' && selectedSubject && selectedTopic) {
+      return (
+        <NoteTakingModal
+          isOpen={true}
+          subject={selectedSubject}
+          topic={selectedTopic}
+          onClose={handleNoteTakingModalClose}
+          updateNotes={updateNotes}
+          updateProgress={updateProgress}
+          updateTargetTime={updateTargetTime}
+        />
+      );
+    }
+    return null;
+  };
 
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
@@ -355,47 +361,17 @@ export default function Home() {
         </button>
       </header>
 
-      {activeModal === 'onboarding' && (
-        <OnboardingModal
-          isOpen={activeModal === 'onboarding'}
-          allSubjects={allSubjects}
-          error={error}
-          onComplete={handleOnboardingComplete}
-        />
-      )}
-
-      {activeModal === 'subject' && (
-        <SubjectModal
-          isOpen={activeModal === 'subject'}
-          subject={selectedSubject}
-          onClose={handleSubjectModalClose}
-          onTopicSelect={(topic) => {
-            setSelectedTopic(topic);
-            setIsSubjectModalOpen(false);
-          }}
-          calculateTopicProgress={(subtopics) => {
-            const completed = subtopics.filter((sub) => sub.progress === 'Completed').length;
-            return subtopics.length > 0 ? (completed / subtopics.length) * 100 : 0;
-          }}
-          updateSubject={(updatedSubject) =>
-            setAllSubjects((prev) =>
-              prev.map((s) => (s.id === updatedSubject.id ? updatedSubject : s))
-            )
-          }
-        />
-      )}
-
-      {activeModal === 'noteTaking' && (
-        <NoteTakingModal
-          isOpen={activeModal === 'noteTaking'}
-          subject={selectedSubject}
-          topic={selectedTopic}
-          onClose={handleNoteTakingModalClose}
-          updateNotes={updateNotes}
-          updateProgress={updateProgress}
-          updateTargetTime={updateTargetTime}
-        />
-      )}
+      {/* Single Modal Instance */}
+      <Modal
+        isOpen={activeModal !== null}
+        onRequestClose={() => setActiveModal(null)}
+        className="bg-white rounded-2xl w-full max-w-4xl mx-auto my-8"
+        overlayClassName="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50"
+        shouldCloseOnOverlayClick={true}
+        ariaHideApp={false}
+      >
+        <ModalContent />
+      </Modal>
 
       <main className="flex-1 pt-20 p-8 max-w-7xl mx-auto w-full">
         {error ? (
